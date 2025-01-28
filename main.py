@@ -3,6 +3,7 @@ import pandas as pd
 import time
 import requests
 import json
+from datetime import datetime, timedelta
 from bs4 import BeautifulSoup
 pd.set_option('future.no_silent_downcasting', True)
 import warnings
@@ -23,134 +24,22 @@ config = {
 
 import time
 
-def plot_sp500():
-    # Cargar y procesar datos
-    data = pd.merge(
-        pd.read_csv('./Datos/Bolsa/Ponderaciones/SP500.csv', delimiter=';'), 
-        pd.read_csv('./Datos/Bolsa/Equity/SP500.csv'), 
-        on='Symbol'
-    ).dropna(subset="Weight")
-    
-    df_grouped = data.groupby(["Sector", "Symbol"])[["Weight", "% Chg", "Company", "Price"]].min().reset_index()
-    df_grouped['% Chg'] = pd.to_numeric(df_grouped['% Chg'])
-    
-    # Crear gráfico
-    fig = px.treemap(
-        df_grouped, 
-        path=[px.Constant("SP500"), 'Sector', 'Symbol'],
-        values='Weight',
-        hover_name="% Chg",
-        custom_data=["Company", 'Price', "% Chg"],
-        color='% Chg', 
-        range_color=[-4, 4],
-        color_continuous_scale=[
-            [0, '#ff2c2c'],
-            [0.25, '#FF6A6A'],
-            [0.5, '#FFFFFF'],
-            [0.75, '#5ce65c'],
-            [1, '#008000']
-        ],
-        labels={'Value': 'Number of Items'},
-        color_continuous_midpoint=0
-    )
-    
-    fig.update_traces(
-        marker_line_width=1.5, 
-        marker_line_color='#404040',
-        hovertemplate="<br>".join([
-            "<b>Empresa<b>: %{customdata[0]}",
-            "<b>Precio (USD)<b>: %{customdata[1]}"
-        ])
-    )
-    
-    fig.data[0].texttemplate = "<b>%{label}</b><br>%{customdata[2]}%"
-    fig.update_traces(marker=dict(cornerradius=10))
-    fig.update_layout(margin=dict(l=1, r=1, t=25, b=25))
-    
-    # Guardar el gráfico como HTML
-    fig.write_html(config=config,file="static/graphs/sp500.html", full_html=False, include_plotlyjs="cdn")
-
-def plot_cedears():
-    cedears_w=pd.merge(pd.read_csv('./Datos/Bolsa/Equity/Cedears.csv'), pd.read_csv('./Datos/Bolsa/Ponderaciones/Ratios_Cedears.csv'), right_on='ticker',left_on='Nombre')#.dropna(subset="Weight")
-    cedears_w=pd.merge(cedears_w, pd.read_csv('./Datos/Bolsa/Equity/SP500.csv'), right_on='Symbol',left_on='ticker-usd')#.dropna(subset="Weight")
-    cedears_w=pd.merge(cedears_w, pd.read_csv('./Datos/Bolsa/Ponderaciones/SP500.csv',delimiter=';'),on='Symbol')#.dropna(subset="Weight")
-
-    df_grouped = cedears_w.groupby(["Sector", "Nombre"])[["Weight", "Var %", "nombre", "Precio"]].min().reset_index()
-    fig = px.treemap(df_grouped, 
-                    path=[px.Constant("SP500 en Cedears"), 'Sector',  'Nombre'], #Quite 'Industria', en 3
-                    values='Weight',
-                    hover_name="Var %",
-                    custom_data=["nombre",'Precio',"Var %"],
-                    color='Var %', 
-                    range_color =[-6,6],
-                    color_continuous_scale=colorscale,
-                    labels={'Value': 'Number of Items'},
-                    color_continuous_midpoint=0)
-    fig.update_traces(marker_line_width = 1.5,marker_line_color='#404040',
-        hovertemplate="<br>".join([
-        "<b>Empresa<b>: %{customdata[0]}",
-        "<b>Precio (ARS)<b>: %{customdata[1]}"
-        ])
-        )
-    fig.data[0].texttemplate = "<b>%{label}</b><br>%{customdata[2]}%"
-    fig.update_traces(marker=dict(cornerradius=10))
-    fig.update_layout(margin=dict(l=1, r=1, t=25, b=25))
-    fig.write_html(config=config,file="static/graphs/cedears.html", full_html=False, include_plotlyjs="cdn")
-        
-def plot_adr(data):
-    data_merv = pd.merge(pd.read_csv('./Datos/Bolsa/Equity/ADR.csv'), data, right_on='Nombre-USD',left_on='Nombre').dropna()
-    #data_merv['Var%'] = [float(i.replace(',', '.')) for i in data_merv["Var%"]]
-
-    # Agrupamos los datos por 'Sector' y 'Nombre'
-    df_grouped = data_merv.groupby(["Sector", "Nombre-USD"])[["CAP (MM)", "Var %", "Nombre Completo", "Precio"]].min().reset_index()
-    fig = px.treemap(df_grouped, 
-                    path=[px.Constant("Bolsa Argentina"), 'Sector',  'Nombre-USD'], #Quite 'Industria', en 3
-                    values='CAP (MM)',
-                    hover_name="Var %",
-                    custom_data=["Nombre Completo",'Precio',"Var %"],
-                    color='Var %', 
-                    range_color =[-6,6],color_continuous_scale=colorscale,
-                    labels={'Value': 'Number of Items'},
-                    color_continuous_midpoint=0)
-    fig.update_traces(marker_line_width = 1.5,marker_line_color='#404040',
-        hovertemplate="<br>".join([
-        "<b>Empresa<b>: %{customdata[0]}",
-        "<b>Precio (ARS)<b>: %{customdata[1]}"
-        ])
-        )
-    fig.data[0].texttemplate = "<b>%{label}</b><br>%{customdata[2]}%"
-    fig.update_traces(marker=dict(cornerradius=10))
-    fig.update_layout(margin=dict(l=1, r=1, t=25, b=25))
-    fig.write_html(config=config,file=f"static/graphs/ADR.html", full_html=False, include_plotlyjs="cdn",default_width='50%')
-
-def plot_acciones(data,data_now_merv,name):
-    data_merv = pd.merge(data_now_merv, data, on='Nombre').dropna(subset='CAP (MM)')
-    df_grouped = data_merv.groupby(["Sector", "Nombre"])[["CAP (MM)", "Var %", "Nombre Completo", "Precio"]].min().reset_index()
-    fig = px.treemap(df_grouped, 
-                    path=[px.Constant("Bolsa Argentina"), 'Sector',  'Nombre'], #Quite 'Industria', en 3
-                    values='CAP (MM)',
-                    hover_name="Var %",
-                    custom_data=["Nombre Completo",'Precio',"Var %"],
-                    color='Var %', 
-                    range_color =[-6,6],color_continuous_scale=colorscale,
-                    labels={'Value': 'Number of Items'},
-                    color_continuous_midpoint=0)
-    fig.update_traces(marker_line_width = 1.5,marker_line_color='#404040',
-        hovertemplate="<br>".join([
-        "<b>Empresa<b>: %{customdata[0]}",
-        "<b>Precio (ARS)<b>: %{customdata[1]}"
-        ])
-        )
-    fig.data[0].texttemplate = "<b>%{label}</b><br>%{customdata[2]}%"
-    fig.update_traces(marker=dict(cornerradius=10))
-    fig.update_layout(margin=dict(l=1, r=1, t=25, b=25))
-    fig.write_html(config=config,file=f"static/graphs/{name}.html", full_html=False, include_plotlyjs="cdn")
-
 def setup_browser():
     playwright = sync_playwright().start()
     browser = playwright.chromium.launch(headless=True)
     context = browser.new_context()
     page = context.new_page()
+    page.set_extra_http_headers({
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Accept-Encoding": "gzip, deflate, br",
+            "Connection": "keep-alive",
+            "Upgrade-Insecure-Requests": "1",
+            "Sec-Fetch-Dest": "document",
+            "Sec-Fetch-Mode": "navigate",
+            "Sec-Fetch-Site": "none",
+            "Sec-Fetch-User": "?1",
+        })
     return playwright, browser, page
 
 def extract_bonos(page):
@@ -220,6 +109,47 @@ def extract_spy(page, indices):
     indices["SPY"]['Var'] = float(rows[0][4])
     return indices
 
+def get_probabilities(page):
+    page.wait_for_load_state("networkidle")
+    soup = BeautifulSoup(page.content(), "lxml")
+
+    # Extraer los datos
+    data = {}
+    tables = soup.find_all('div', class_="cardWrapper")
+    for table in tables:
+        # Obtener la fecha de la tabla
+        date = table.find('div', class_='fedRateDate').get_text(strip=True)
+
+        focm = {}
+        # Iterar sobre las filas de la tabla
+        for tr in table.find_all('tr')[1:]:
+            tds = tr.find_all('td')
+            # Extraer los valores en el primer td y convertirlos a formato adecuado
+            focm["-".join([str(num) for num in [int(float(i)*100) for i in tds[0].get_text(strip=True).split(' - ')]])] = [
+                float(td.get_text(strip=True)[:-1] if td.get_text(strip=True)[:-1] != '' else '0.0') for td in tds[1:]
+            ]
+
+        # Obtener la fecha de actualización
+        _today_ = datetime.strptime(" ".join(table.find('div', class_='fedUpdate').get_text(strip=True).split()[1:4]), '%b %d, %Y')
+        _yest_ = _today_ - timedelta(days=1)
+        _lastweek_ = _today_ - timedelta(days=7)
+
+        # Convertir los datos a un DataFrame
+        focm = pd.DataFrame(focm).transpose()
+        focm.columns = [_today_.strftime('%b %d, %Y'), _yest_.strftime('%b %d, %Y'), _lastweek_.strftime('%b %d, %Y')]
+        data[date] = focm
+
+
+    dfs_dict = {}
+    for key, value in data.items():
+        # Incluir el índice como una columna adicional
+        value['index'] = value.index
+        # Convertir el DataFrame a diccionario y agregarlo al diccionario final
+        dfs_dict[key] = value.to_dict(orient='records')
+    with open("./Datos/FOCM/Probabilities.json", "w") as json_file:
+        json.dump(dfs_dict, json_file, indent=4)
+    print('FOCM Probabilities successfully downloaded')
+
 def main():
     start_time=time.time()
     with open('./Datos/Bolsa/Equity/Indices.json', "r") as file:
@@ -229,12 +159,17 @@ def main():
         page.goto("https://bonistas.com/")
         time.sleep(7)
         extract_bonos(page)
-    except: pass
+    except Exception as e: print(e)
     try:
         page.goto("https://www.slickcharts.com/sp500")
         time.sleep(5)
         indices = extract_spy(page, indices)
-    except: pass
+    except Exception as e: print(e)
+    try:
+        page.goto("https://www.investing.com/central-banks/fed-rate-monitor",wait_until="domcontentloaded")
+        time.sleep(5)
+        get_probabilities(page)
+    except Exception as e: print(e)
     try:
         get_iol('https://iol.invertironline.com/mercado/cotizaciones/argentina/acciones/panel-l%C3%ADderes/mapa', './Datos/Bolsa/Equity/Lideres.csv')
     except Exception as e: print(e)
