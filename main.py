@@ -8,7 +8,6 @@ from bs4 import BeautifulSoup
 pd.set_option('future.no_silent_downcasting', True)
 import warnings
 warnings.simplefilter(action='ignore', category=FutureWarning)
-import plotly.express as px
 
 colorscale=[[0, '#ff2c2c'],[0.25, '#FF6A6A'],[0.5, '#FFFFFF'],[0.75, '#5ce65c'],[1, '#008000']]
 
