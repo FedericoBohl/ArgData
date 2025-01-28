@@ -1,0 +1,35 @@
+name: Scraping and CSV Update
+
+on:
+  #schedule:
+    #- cron: "0,20,40 11-16 * * 1-5"  # Corre cada 20 minutos de 11:00 a 16:40 UTC (lunes a viernes)
+  workflow_dispatch:  # Permite ejecución manual desde GitHub Actions
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set Up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.10"
+
+      - name: Install Dependencies
+        run: |
+          pip install -r requirements.txt
+          playwright install  # Si usas Playwright
+
+      - name: Run Scraper
+        run: python main.py  # Reemplaza con tu script de scraping
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add Datos/
+          git commit -m "Automated data update [$(date)]" || echo "No changes to commit"
+          git push
