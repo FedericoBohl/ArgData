@@ -26,8 +26,8 @@ import time
 def plot_sp500():
     # Cargar y procesar datos
     data = pd.merge(
-        pd.read_csv('Datos/Bolsa/Ponderaciones/SP500.csv', delimiter=';'), 
-        pd.read_csv('Datos/Bolsa/Equity/SP500.csv'), 
+        pd.read_csv('./Datos/Bolsa/Ponderaciones/SP500.csv', delimiter=';'), 
+        pd.read_csv('./Datos/Bolsa/Equity/SP500.csv'), 
         on='Symbol'
     ).dropna(subset="Weight")
     
@@ -71,9 +71,9 @@ def plot_sp500():
     fig.write_html(config=config,file="static/graphs/sp500.html", full_html=False, include_plotlyjs="cdn")
 
 def plot_cedears():
-    cedears_w=pd.merge(pd.read_csv('Datos/Bolsa/Equity/Cedears.csv'), pd.read_csv('Datos/Bolsa/Ponderaciones/Ratios_Cedears.csv'), right_on='ticker',left_on='Nombre')#.dropna(subset="Weight")
-    cedears_w=pd.merge(cedears_w, pd.read_csv('Datos/Bolsa/Equity/SP500.csv'), right_on='Symbol',left_on='ticker-usd')#.dropna(subset="Weight")
-    cedears_w=pd.merge(cedears_w, pd.read_csv('Datos/Bolsa/Ponderaciones/SP500.csv',delimiter=';'),on='Symbol')#.dropna(subset="Weight")
+    cedears_w=pd.merge(pd.read_csv('./Datos/Bolsa/Equity/Cedears.csv'), pd.read_csv('./Datos/Bolsa/Ponderaciones/Ratios_Cedears.csv'), right_on='ticker',left_on='Nombre')#.dropna(subset="Weight")
+    cedears_w=pd.merge(cedears_w, pd.read_csv('./Datos/Bolsa/Equity/SP500.csv'), right_on='Symbol',left_on='ticker-usd')#.dropna(subset="Weight")
+    cedears_w=pd.merge(cedears_w, pd.read_csv('./Datos/Bolsa/Ponderaciones/SP500.csv',delimiter=';'),on='Symbol')#.dropna(subset="Weight")
 
     df_grouped = cedears_w.groupby(["Sector", "Nombre"])[["Weight", "Var %", "nombre", "Precio"]].min().reset_index()
     fig = px.treemap(df_grouped, 
@@ -98,7 +98,7 @@ def plot_cedears():
     fig.write_html(config=config,file="static/graphs/cedears.html", full_html=False, include_plotlyjs="cdn")
         
 def plot_adr(data):
-    data_merv = pd.merge(pd.read_csv('Datos/Bolsa/Equity/ADR.csv'), data, right_on='Nombre-USD',left_on='Nombre').dropna()
+    data_merv = pd.merge(pd.read_csv('./Datos/Bolsa/Equity/ADR.csv'), data, right_on='Nombre-USD',left_on='Nombre').dropna()
     #data_merv['Var%'] = [float(i.replace(',', '.')) for i in data_merv["Var%"]]
 
     # Agrupamos los datos por 'Sector' y 'Nombre'
@@ -179,7 +179,7 @@ def extract_bonos(page):
                     table_data.append(row_data)
                 # Crea el DataFrame
                 df = pd.DataFrame(table_data, columns=header_texts)
-                file_name = f"Datos/Bolsa/Bonos/{table_names[idx]}.csv"
+                file_name = f"./Datos/Bolsa/Bonos/{table_names[idx]}.csv"
                 df.to_csv(file_name, index=False)
                 print(f"Tabla {table_names[idx]} guardada como {file_name}")
             except Exception as e:
@@ -213,7 +213,7 @@ def extract_spy(page, indices):
     headers = [header.text.strip() for header in tables[0].find_all('th')]
     rows = [[cell.text.strip().replace('%','').replace('(','').replace(')','') for cell in row.find_all('td')] for row in tables[0].find_all('tr') if row.find_all('td')]
     sp500 = pd.DataFrame(rows, columns=headers)
-    sp500.to_csv('Datos/Bolsa/Equity/SP500.csv', index=False)
+    sp500.to_csv('./Datos/Bolsa/Equity/SP500.csv', index=False)
     print("S&P500 file created")
     indices["SPY"]['Price'] = float(rows[0][2])
     indices["SPY"]['Var'] = float(rows[0][4])
@@ -221,7 +221,7 @@ def extract_spy(page, indices):
 
 def main():
     start_time=time.time()
-    with open('Datos/Bolsa/Equity/Indices.json', "r") as file:
+    with open('./Datos/Bolsa/Equity/Indices.json', "r") as file:
         indices = json.load(file)
     playwright, browser, page = setup_browser()
     try:
@@ -235,18 +235,18 @@ def main():
         indices = extract_spy(page, indices)
     except: pass
     try:
-        get_iol('https://iol.invertironline.com/mercado/cotizaciones/argentina/acciones/panel-l%C3%ADderes/mapa', 'Datos/Bolsa/Equity/Lideres.csv')
+        get_iol('https://iol.invertironline.com/mercado/cotizaciones/argentina/acciones/panel-l%C3%ADderes/mapa', './Datos/Bolsa/Equity/Lideres.csv')
     except Exception as e: print(e)
     finally:
-        with open('Datos/Bolsa/Equity/Indices.json', "w") as file:
+        with open('./Datos/Bolsa/Equity/Indices.json', "w") as file:
             json.dump(indices, file, indent=4)
         browser.close()
         playwright.stop()
         plot_sp500()
         plot_cedears()
-        data = pd.read_csv('Datos/Bolsa/Ponderaciones/bolsa_arg.csv', delimiter=';')
-        plot_acciones(data[data['Lider'] == 'Si'],pd.read_csv('Datos/Bolsa/Equity/Lideres.csv'),name='lideres')
-        plot_acciones(data[data['Lider'] == 'No'],pd.read_csv('Datos/Bolsa/Equity/Galpones.csv'),name='galpones')
+        data = pd.read_csv('./Datos/Bolsa/Ponderaciones/bolsa_arg.csv', delimiter=';')
+        plot_acciones(data[data['Lider'] == 'Si'],pd.read_csv('./Datos/Bolsa/Equity/Lideres.csv'),name='lideres')
+        plot_acciones(data[data['Lider'] == 'No'],pd.read_csv('./Datos/Bolsa/Equity/Galpones.csv'),name='galpones')
         plot_adr(data[data['ADR'] == 'Si'])
         print('\n','---------\n', f'Tiempo transcurrido: {time.time()-start_time}')
 
