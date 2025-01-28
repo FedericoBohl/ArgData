@@ -1,8 +1,8 @@
 name: Scraping and CSV Update
 
 on:
-  #schedule:
-    #- cron: "0,20,40 11-16 * * 1-5"  # Corre cada 20 minutos de 11:00 a 16:40 UTC (lunes a viernes)
+  schedule:
+    - cron: "0,20,40 14-19 * * 1-5"  # Corre cada 20 minutos de 14:00 (11:00 Bs As) a 19:40 (16:40 Bs As) UTC (lunes a viernes)
   workflow_dispatch:  # Permite ejecución manual desde GitHub Actions
 
 jobs:
