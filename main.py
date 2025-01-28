@@ -104,7 +104,7 @@ def extract_spy(page, indices):
     sp500 = pd.DataFrame(rows, columns=headers)
     sp500.to_csv('./Datos/Bolsa/Equity/SP500.csv', index=False)
     print("S&P500 file created")
-    print(rows)
+    rows = [[cell.text.strip().replace('%','').replace('(','').replace(')','') for cell in row.find_all('td')] for row in tables[1].find_all('tr') if row.find_all('td')]
     indices["SPY"]['Price'] = float(rows[0][2])
     indices["SPY"]['Var'] = float(rows[0][4])
     return indices
