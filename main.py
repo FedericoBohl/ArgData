@@ -148,7 +148,7 @@ def plot_acciones(data,data_now_merv,name):
 
 def setup_browser():
     playwright = sync_playwright().start()
-    browser = playwright.chromium.launch(headless=False)
+    browser = playwright.chromium.launch(headless=True)
     context = browser.new_context()
     page = context.new_page()
     return playwright, browser, page
