@@ -184,6 +184,7 @@ def extract_bonos(page):
                 print(f"Tabla {table_names[idx]} guardada como {file_name}")
             except Exception as e:
                 print(f"Error al procesar la tabla {table_names[idx]}: {e}")
+                continue
 
 def get_iol(url, name):
     response = requests.get(url)
@@ -242,12 +243,6 @@ def main():
             json.dump(indices, file, indent=4)
         browser.close()
         playwright.stop()
-        plot_sp500()
-        plot_cedears()
-        data = pd.read_csv('./Datos/Bolsa/Ponderaciones/bolsa_arg.csv', delimiter=';')
-        plot_acciones(data[data['Lider'] == 'Si'],pd.read_csv('./Datos/Bolsa/Equity/Lideres.csv'),name='lideres')
-        plot_acciones(data[data['Lider'] == 'No'],pd.read_csv('./Datos/Bolsa/Equity/Galpones.csv'),name='galpones')
-        plot_adr(data[data['ADR'] == 'Si'])
         print('\n','---------\n', f'Tiempo transcurrido: {time.time()-start_time}')
 
 if __name__ == "__main__":
