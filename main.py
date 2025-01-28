@@ -94,7 +94,8 @@ def get_iol(url, name):
             df['Var %'] = pd.to_numeric(df['Var %'].replace({r"\.": "", r",": ".","%":""}, regex=True))
         except Exception as e:
             print(e)
-        df.to_csv(name, index=False)
+        df.to_csv(f'./Datos/Bolsa/Equity/{name}.csv', index=False)
+        print(f'Datos de {name} generados')
 
 def extract_spy(page, indices):
     soup = BeautifulSoup(page.content(), 'html.parser')
@@ -171,7 +172,11 @@ def main():
         get_probabilities(page)
     except Exception as e: print(e)
     try:
-        get_iol('https://iol.invertironline.com/mercado/cotizaciones/argentina/acciones/panel-l%C3%ADderes/mapa', './Datos/Bolsa/Equity/Lideres.csv')
+        get_iol('https://iol.invertironline.com/mercado/cotizaciones/argentina/acciones/panel-l%C3%ADderes/mapa', 'Lideres')
+        get_iol('https://iol.invertironline.com/mercado/cotizaciones/argentina/acciones/panel-general/mapa', 'Galpones')
+        get_iol('https://iol.invertironline.com/mercado/cotizaciones/estados-unidos/adrs/argentina/mapa', 'ADR')
+        get_iol('https://iol.invertironline.com/mercado/cotizaciones/argentina/cedears/todos/mapa', 'Cedears')
+
     except Exception as e: print(e)
     finally:
         with open('./Datos/Bolsa/Equity/Indices.json', "w") as file:
