@@ -151,6 +151,41 @@ def get_probabilities(page):
         json.dump(dfs_dict, json_file, indent=4)
     print('FOCM Probabilities successfully downloaded')
 
+def get_indices(page,indices):
+    #page.wait_for_load_state("networkidle")
+    soup = BeautifulSoup(page.content(), "html.parser")
+
+    indice_div = soup.find('div', {'id': 'indice-1'})
+
+    if indice_div:
+        # Extraer los valores dentro del div (suponiendo que los valores están en texto)
+        valores = [elem.get_text(strip=True) for elem in indice_div.find_all('div')]
+        
+        # Filtrar los valores numéricos
+        valores_numericos = [v for v in valores if any(c.isdigit() for c in v) or '-' in v][2:]
+        indices['Merval']['Price']=float(valores_numericos[0].replace('.','').replace(',','.'))
+        indices['Merval']['Var']=float(valores_numericos[1].replace('%','').replace(',','.'))
+        
+        ul_element = soup.find("ul", class_="chakra-wrap__list css-1r1h")
+        if ul_element:
+            li_elements = ul_element.find_all("li")
+            for li in li_elements:
+                p_list=li.find_all('p')
+                    #[p.text.strip() for p in li.find_all('p')]
+                if 'dolar oficial' in p_list[1].text.strip().lower():
+                    print(p_list[0].text.strip(),'-----',p_list[1].text.strip(),'-----',p_list[-1].text.strip())
+                    indices['DolarOficial']['Price']=float(p_list[-1].text.strip().replace('.','').replace(',','.'))
+                    indices['DolarOficial']['Var']=float(p_list[0].text.strip().replace('%','').replace(',','.'))
+                elif 'dolar mep' in p_list[1].text.strip().lower():
+                    print(p_list[0].text.strip(),'-----',p_list[1].text.strip(),'-----',p_list[-1].text.strip())
+                    indices['DolarMep']['Price']=float(p_list[-1].text.strip().replace('.','').replace(',','.'))
+                    indices['DolarMep']['Var']=float(p_list[0].text.strip().replace('%','').replace(',','.'))
+                elif 'dolar ccl' in p_list[1].text.strip().lower():
+                    print(p_list[0].text.strip(),'-----',p_list[1].text.strip(),'-----',p_list[-1].text.strip())
+                    indices['DolarCCL']['Price']=float(p_list[-1].text.strip().replace('.','').replace(',','.'))
+                    indices['DolarCCL']['Var']=float(p_list[0].text.strip().replace('%','').replace(',','.'))
+    return indices
+
 def main():
     start_time=time.time()
     with open('./Datos/Bolsa/Equity/Indices.json', "r") as file:
@@ -165,6 +200,11 @@ def main():
         page.goto("https://www.slickcharts.com/sp500")
         time.sleep(5)
         indices = extract_spy(page, indices)
+    except Exception as e: print(e)
+    try:
+        page.goto("https://www.dolarito.ar/")
+        time.sleep(5)
+        indices = get_indices(page, indices)
     except Exception as e: print(e)
     try:
         page.goto("https://www.investing.com/central-banks/fed-rate-monitor",wait_until="domcontentloaded")
