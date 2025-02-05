@@ -1,6 +1,6 @@
 Este repositorio abierto tiene el fin de proveer datos del mercado argentino e internacional gratis y de acceso simple y rápido.
 
-Los datos vienen guardados en archivos delimitados por coma (csv) y pueden acceder a ellos mediante **Python** con librerias como pandas o requests o mediante **Excel** conectandose al link de la base. Un simple ejemplo en python sería el siguiente:
+Los datos vienen guardados en archivos delimitados por coma (csv) y pueden acceder a ellos mediante **Python** con librerias como pandas o requests, o mediante **Excel** conectandose al link de la base por medio de Data > Get Data > From File > From Text/CSV. Un simple ejemplo en python sería el siguiente:
 
 ```python
 import pandas as pd
