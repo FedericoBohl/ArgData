@@ -20,7 +20,7 @@ jobs:
 
       - name: Install Dependencies
         run: |
-          pip install requests beautifulsoup4 pandas
+          pip install requests beautifulsoup4 pandas openpyxl
 
       - name: Run Scraper
         run: python deuda.py
