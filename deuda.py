@@ -5,7 +5,7 @@ import io
 from datetime import datetime
 
 #   Chequear cual es el último mes en el archivo de Excel
-response=requests.get('https://www.argentina.gob.ar/datos-mensuales-de-la-deuda/datos')
+response=requests.get('https://www.argentina.gob.ar/economia/finanzas/datos-mensuales-de-la-deuda/datos')
 soup=BeautifulSoup(response.content,'html.parser')
 deuda=soup.find_all('a', string='Descargar')[0]['href'].replace('blank:#', '')
 
