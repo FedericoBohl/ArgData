@@ -1,22 +1,22 @@
 {
     "SPY": {
-        "Price": 558.87,
-        "Var": 0.53
+        "Price": 556.21,
+        "Var": -0.48
     },
     "Merval": {
-        "Price": 1847.92,
-        "Var": 4.9
-    },
-    "DolarOficial": {
-        "Price": 1086.25,
+        "Price": 1849.27,
         "Var": 0.0
     },
+    "DolarOficial": {
+        "Price": 1086.5,
+        "Var": 0.02
+    },
     "DolarMep": {
-        "Price": 1229.52,
-        "Var": 0.12
+        "Price": 1227.64,
+        "Var": -0.04
     },
     "DolarCCL": {
-        "Price": 1228.77,
-        "Var": 0.04
+        "Price": 1228.02,
+        "Var": -0.02
     }
 }
