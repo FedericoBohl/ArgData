@@ -8,6 +8,7 @@ from datetime import datetime
 response=requests.get('https://www.argentina.gob.ar/economia/finanzas/datos-mensuales-de-la-deuda/datos')
 soup=BeautifulSoup(response.content,'html.parser')
 deuda=soup.find_all('a', string='Descargar')[0]['href'].replace('blank:#', '')
+print(deuda)
 
 if response.status_code == 200:
     try:
