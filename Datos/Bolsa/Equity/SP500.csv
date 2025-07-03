@@ -1,6 +1,6 @@
 #,Company,Symbol,Weight,Price,Chg,% Chg
-1,Nvidia,NVDA,6.89,159.29,2.04,1.30
-2,Microsoft,MSFT,6.58,498.85,7.76,1.58
+1,Nvidia,NVDA,6.89,159.34,2.09,1.33
+2,Microsoft,MSFT,6.58,498.84,7.75,1.58
 3,Apple Inc.,AAPL,5.66,213.55,1.11,0.52
 4,Amazon,AMZN,4.21,223.41,3.49,1.59
 5,Meta Platforms,META,3.21,719.01,5.44,0.76
@@ -28,7 +28,7 @@
 27,UnitedHealth Group,UNH,0.50,308.55,0.99,0.32
 28,Philip Morris International,PM,0.49,178.88,2.97,1.69
 29,Cisco,CSCO,0.49,69.37,0.78,1.14
-30,T-Mobile US,TMUS,0.49,240.76,3.34,1.41
+30,T-Mobile US,TMUS,0.49,240.75,3.33,1.40
 31,Wells Fargo,WFC,0.48,83.60,1.24,1.51
 32,IBM,IBM,0.48,291.97,4.32,1.50
 33,GE Aerospace,GE,0.47,246.88,2.13,0.87
@@ -37,7 +37,7 @@
 36,Abbott Laboratories,ABT,0.42,134.44,0.33,0.25
 37,Morgan Stanley,MS,0.41,144.14,1.28,0.90
 38,American Express,AXP,0.41,328.13,2.52,0.77
-39,Linde plc,LIN,0.40,475.62,-1.55,-0.33
+39,Linde plc,LIN,0.40,475.58,-1.59,-0.33
 40,Advanced Micro Devices,AMD,0.40,137.91,-0.61,-0.44
 41,Walt Disney Company The,DIS,0.40,124.00,1.02,0.83
 42,Goldman Sachs,GS,0.39,723.68,7.79,1.09
@@ -195,7 +195,7 @@
 194,Public Storage,PSA,0.09,296.32,-0.78,-0.26
 195,Phillips 66,PSX,0.09,127.29,0.83,0.66
 196,Ameriprise Financial,AMP,0.09,543.30,0.86,0.16
-197,"Nasdaq, Inc.",NDAQ,0.09,90.11,0.59,0.66
+197,"Nasdaq, Inc.",NDAQ,0.09,90.07,0.55,0.61
 198,TE Connectivity,TEL,0.09,174.29,0.88,0.51
 199,United Rentals,URI,0.09,792.50,4.71,0.60
 200,ONEOK,OKE,0.09,82.14,0.00,0.00
@@ -209,7 +209,7 @@
 208,Schlumberger,SLB,0.09,35.65,-0.26,-0.72
 209,American International Group,AIG,0.09,83.18,0.82,1.00
 210,L3Harris,LHX,0.08,255.73,2.17,0.86
-211,Copart,CPRT,0.08,49.29,0.21,0.43
+211,Copart,CPRT,0.08,49.32,0.24,0.49
 212,Target Corporation,TGT,0.08,104.06,-1.39,-1.32
 213,Ford Motor Company,F,0.08,11.81,0.04,0.34
 214,Kroger,KR,0.08,69.83,-0.40,-0.57
@@ -282,7 +282,7 @@
 281,Xylem Inc.,XYL,0.06,132.28,0.57,0.43
 282,Estée Lauder Companies The,EL,0.06,88.72,0.14,0.16
 283,Nucor,NUE,0.06,137.87,-0.99,-0.71
-284,Seagate Technology,STX,0.06,149.34,-2.60,-1.71
+284,Seagate Technology,STX,0.06,149.44,-2.50,-1.65
 285,Kraft Heinz,KHC,0.06,26.66,-0.40,-1.48
 286,State Street Corporation,STT,0.06,110.31,0.82,0.75
 287,NRG Energy,NRG,0.05,158.39,2.85,1.83
@@ -337,7 +337,7 @@
 336,Teledyne Technologies,TDY,0.04,517.96,8.45,1.66
 337,Jabil,JBL,0.04,226.01,4.12,1.86
 338,Church & Dwight,CHD,0.04,98.41,0.38,0.39
-339,Cboe Global Markets,CBOE,0.04,231.07,-0.28,-0.12
+339,Cboe Global Markets,CBOE,0.04,231.37,0.02,0.01
 340,Atmos Energy,ATO,0.04,152.28,0.77,0.51
 341,CDW,CDW,0.04,182.13,-0.71,-0.39
 342,Corpay,CPAY,0.04,339.10,2.00,0.59
@@ -454,15 +454,15 @@
 453,Skyworks Solutions,SWKS,0.02,78.76,0.58,0.74
 454,Mosaic Company The,MOS,0.02,37.27,-0.54,-1.43
 455,Moderna,MRNA,0.02,30.49,0.21,0.69
-456,Fox Corporation Class B,FOX,0.02,51.80,1.03,2.03
-457,C.H. Robinson,CHRW,0.02,98.03,-1.11,-1.12
+456,C.H. Robinson,CHRW,0.02,98.03,-1.11,-1.12
+457,Fox Corporation Class B,FOX,0.02,51.77,1.00,1.97
 458,Pool Corporation,POOL,0.02,302.02,-0.65,-0.21
 459,Akamai Technologies,AKAM,0.02,79.48,0.02,0.03
 460,Host Hotels & Resorts,HST,0.02,16.21,0.04,0.25
 461,J.M. Smucker Company The,SJM,0.02,104.08,-0.75,-0.72
 462,Wynn Resorts,WYNN,0.02,105.63,0.95,0.91
 463,Stanley Black & Decker,SWK,0.02,71.10,-0.46,-0.64
-464,Viatris,VTRS,0.02,9.30,-0.04,-0.43
+464,Viatris,VTRS,0.02,9.32,-0.02,-0.21
 465,"BXP, Inc.",BXP,0.02,68.83,0.56,0.82
 466,Hasbro,HAS,0.02,77.64,-0.58,-0.74
 467,Pinnacle West,PNW,0.02,90.42,0.25,0.28
