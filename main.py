@@ -9,6 +9,14 @@ pd.set_option('future.no_silent_downcasting', True)
 import warnings
 warnings.simplefilter(action='ignore', category=FutureWarning)
 
+from pathlib import Path
+
+def save_both(df, path_without_ext):
+    p = Path(path_without_ext)
+    p.parent.mkdir(parents=True, exist_ok=True)
+    df.to_csv(f"{p}.csv", index=False)
+    df.to_json(f"{p}.json", orient="records", indent=2, force_ascii=False)
+
 colorscale=[[0, '#ff2c2c'],[0.25, '#FF6A6A'],[0.5, '#FFFFFF'],[0.75, '#5ce65c'],[1, '#008000']]
 
 config = {
@@ -94,9 +102,7 @@ def get_iol(url, name):
             df['Var %'] = pd.to_numeric(df['Var %'].replace({r"\.": "", r",": ".","%":""}, regex=True))
         except Exception as e:
             print(e)
-        df.to_csv(f'./Datos/Bolsa/Equity/{name}.csv', index=False)
-        with open(f'./Datos/Bolsa/Equity/{name}.json', "w") as file:
-            json.dump(df.to_dict(orient='records'), file, indent=4)
+        save_both(df, f'./Datos/Bolsa/Equity/{name}')
         print(f'Datos de {name} generados')
 
 def extract_spy(page, indices):
