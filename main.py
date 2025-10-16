@@ -112,7 +112,7 @@ def extract_spy(page, indices):
     headers = [header.text.strip() for header in tables[0].find_all('th')]
     rows = [[cell.text.strip().replace('%','').replace('(','').replace(')','') for cell in row.find_all('td')] for row in tables[0].find_all('tr') if row.find_all('td')]
     sp500 = pd.DataFrame(rows, columns=headers)
-    save_both(sp500, './Datos/Bolsa/Equity/SP500.csv')
+    save_both(sp500, './Datos/Bolsa/Equity/SP500')
 
     print("S&P500 file created")
     rows = [[cell.text.strip().replace('%','').replace('(','').replace(')','') for cell in row.find_all('td')] for row in tables[1].find_all('tr') if row.find_all('td')]
@@ -237,4 +237,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
