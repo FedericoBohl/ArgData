@@ -95,6 +95,7 @@ def get_iol(url, name):
         except Exception as e:
             print(e)
         df.to_csv(f'./Datos/Bolsa/Equity/{name}.csv', index=False)
+        df.to_json(f'./Datos/Bolsa/Equity/{name}.json', orient='records', indent=4)
         print(f'Datos de {name} generados')
 
 def extract_spy(page, indices):
