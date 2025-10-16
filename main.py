@@ -76,7 +76,8 @@ def extract_bonos(page):
                 # Crea el DataFrame
                 df = pd.DataFrame(table_data, columns=header_texts)
                 file_name = f"./Datos/Bolsa/Bonos/{table_names[idx]}.csv"
-                df.to_csv(file_name, index=False)
+                save_both(df, f"./Datos/Bolsa/Bonos/{table_names[idx]}")
+
                 print(f"Tabla {table_names[idx]} guardada como {file_name}")
             except Exception as e:
                 print(f"Error al procesar la tabla {table_names[idx]}: {e}")
