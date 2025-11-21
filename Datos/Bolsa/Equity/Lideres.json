@@ -1,8 +1,8 @@
 [
   {
     "Nombre":"ALUA",
-    "Precio":1019.0,
-    "Var %":-0.87
+    "Precio":1015.0,
+    "Var %":-1.26
   },
   {
     "Nombre":"ALUAD",
@@ -11,8 +11,8 @@
   },
   {
     "Nombre":"BBAR",
-    "Precio":7255.0,
-    "Var %":-1.49
+    "Precio":7285.0,
+    "Var %":-1.08
   },
   {
     "Nombre":"BBARD",
@@ -21,18 +21,18 @@
   },
   {
     "Nombre":"BMA",
-    "Precio":11200.0,
-    "Var %":-3.86
+    "Precio":11280.0,
+    "Var %":-3.17
   },
   {
     "Nombre":"BMA.D",
-    "Precio":8.0,
-    "Var %":-0.99
+    "Precio":7.5,
+    "Var %":-7.17
   },
   {
     "Nombre":"BYMA",
-    "Precio":281.0,
-    "Var %":-1.48
+    "Precio":280.5,
+    "Var %":-1.66
   },
   {
     "Nombre":"BYMAD",
@@ -41,28 +41,28 @@
   },
   {
     "Nombre":"CEPU",
-    "Precio":2144.0,
-    "Var %":-1.15
+    "Precio":2136.0,
+    "Var %":-1.52
   },
   {
     "Nombre":"CEPUD",
-    "Precio":1.46,
-    "Var %":-3.94
+    "Precio":1.45,
+    "Var %":-4.6
   },
   {
     "Nombre":"COME",
-    "Precio":65.0,
-    "Var %":-2.4
+    "Precio":64.6,
+    "Var %":-3.0
   },
   {
     "Nombre":"COMED",
-    "Precio":0.05,
-    "Var %":-6.25
+    "Precio":0.04,
+    "Var %":-8.33
   },
   {
     "Nombre":"CRES",
-    "Precio":1688.0,
-    "Var %":-2.65
+    "Precio":1660.0,
+    "Var %":-4.26
   },
   {
     "Nombre":"CRESD",
@@ -76,8 +76,8 @@
   },
   {
     "Nombre":"EDN",
-    "Precio":2322.0,
-    "Var %":-2.06
+    "Precio":2337.0,
+    "Var %":-1.43
   },
   {
     "Nombre":"EDND",
@@ -86,8 +86,8 @@
   },
   {
     "Nombre":"GGAL",
-    "Precio":7080.0,
-    "Var %":-2.94
+    "Precio":7145.0,
+    "Var %":-2.05
   },
   {
     "Nombre":"GGALD",
@@ -97,22 +97,22 @@
   {
     "Nombre":"IRSAD",
     "Precio":1.62,
-    "Var %":1.25
+    "Var %":0.93
   },
   {
     "Nombre":"LOMA",
-    "Precio":3355.0,
-    "Var %":-0.88
+    "Precio":3360.0,
+    "Var %":-0.73
   },
   {
     "Nombre":"LOMAD",
-    "Precio":2.34,
-    "Var %":-0.42
+    "Precio":2.3,
+    "Var %":-2.12
   },
   {
     "Nombre":"METR",
-    "Precio":2288.0,
-    "Var %":-1.08
+    "Precio":2272.0,
+    "Var %":-1.77
   },
   {
     "Nombre":"METRD",
@@ -121,28 +121,28 @@
   },
   {
     "Nombre":"PAMP",
-    "Precio":5205.0,
-    "Var %":-1.32
+    "Precio":5165.0,
+    "Var %":-2.08
   },
   {
     "Nombre":"PAMPD",
-    "Precio":3.55,
-    "Var %":-2.74
+    "Precio":3.54,
+    "Var %":-2.88
   },
   {
     "Nombre":"SUPV",
-    "Precio":2952.5,
-    "Var %":-4.29
+    "Precio":2947.5,
+    "Var %":-4.45
   },
   {
     "Nombre":"SUPVD",
-    "Precio":2.04,
-    "Var %":-3.32
+    "Precio":2.05,
+    "Var %":-2.61
   },
   {
     "Nombre":"TECO2",
-    "Precio":3450.0,
-    "Var %":-2.95
+    "Precio":3445.0,
+    "Var %":-3.09
   },
   {
     "Nombre":"TECOD",
@@ -151,18 +151,18 @@
   },
   {
     "Nombre":"TGN4D",
-    "Precio":3.18,
-    "Var %":0.47
+    "Precio":2.95,
+    "Var %":-2.31
   },
   {
     "Nombre":"TGNO4",
-    "Precio":4322.5,
-    "Var %":-1.59
+    "Precio":4300.0,
+    "Var %":-2.1
   },
   {
     "Nombre":"TGSU2",
-    "Precio":8860.0,
-    "Var %":-2.26
+    "Precio":8900.0,
+    "Var %":-1.82
   },
   {
     "Nombre":"TGSUD",
@@ -171,13 +171,13 @@
   },
   {
     "Nombre":"TRAN",
-    "Precio":3507.5,
-    "Var %":0.42
+    "Precio":3522.5,
+    "Var %":0.85
   },
   {
     "Nombre":"TRAND",
-    "Precio":2.5,
-    "Var %":3.74
+    "Precio":2.44,
+    "Var %":1.24
   },
   {
     "Nombre":"TXAR",
@@ -187,12 +187,12 @@
   {
     "Nombre":"TXARD",
     "Precio":0.54,
-    "Var %":-1.99
+    "Var %":-2.35
   },
   {
     "Nombre":"VALO",
-    "Precio":461.75,
-    "Var %":0.32
+    "Precio":462.0,
+    "Var %":0.38
   },
   {
     "Nombre":"VALOD",
@@ -201,12 +201,12 @@
   },
   {
     "Nombre":"YPFD",
-    "Precio":54725.0,
-    "Var %":-1.92
+    "Precio":55000.0,
+    "Var %":-1.43
   },
   {
     "Nombre":"YPFDD",
-    "Precio":37.29,
-    "Var %":-3.24
+    "Precio":37.5,
+    "Var %":-2.69
   }
 ]
