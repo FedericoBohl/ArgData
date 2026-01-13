@@ -121,9 +121,10 @@ def extract_spy(page, indices):
     return indices
 
 def get_probabilities(page):
+    print(1)
     page.wait_for_load_state("networkidle")
     soup = BeautifulSoup(page.content(), "lxml")
-
+    print(2)
     # Extraer los datos
     data = {}
     tables = soup.find_all('div', class_="cardWrapper")
@@ -149,7 +150,7 @@ def get_probabilities(page):
         focm = pd.DataFrame(focm).transpose()
         focm.columns = [_today_.strftime('%b %d, %Y'), _yest_.strftime('%b %d, %Y'), _lastweek_.strftime('%b %d, %Y')]
         data[date] = focm
-
+    print(3)
 
     dfs_dict = {}
     for key, value in data.items():
@@ -157,6 +158,7 @@ def get_probabilities(page):
         value['index'] = value.index
         # Convertir el DataFrame a diccionario y agregarlo al diccionario final
         dfs_dict[key] = value.to_dict(orient='records')
+    print(4)
     with open("./Datos/FOCM/Probabilities.json", "w") as json_file:
         json.dump(dfs_dict, json_file, indent=4)
     print('FOCM Probabilities successfully downloaded')
