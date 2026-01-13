@@ -123,6 +123,7 @@ def extract_spy(page, indices):
 def get_probabilities(page):
     print(1)
     page.wait_for_load_state("networkidle")
+    print(1.5)
     soup = BeautifulSoup(page.content(), "lxml")
     print(2)
     # Extraer los datos
