@@ -1,4529 +1,4529 @@
 [
   {
     "#":"1",
-    "Company":"Nvidia",
+    "Company":"NVIDIA Corp",
     "Symbol":"NVDA",
-    "Weight":"7.59",
-    "Price":"201.52",
-    "Chg":"-0.16",
-    "% Chg":"-0.08"
+    "Weight":"7.58",
+    "Price":"201.05",
+    "Chg":"-1.01",
+    "% Chg":"-0.50"
   },
   {
     "#":"2",
-    "Company":"Apple Inc.",
+    "Company":"Apple Inc",
     "Symbol":"AAPL",
-    "Weight":"6.20",
-    "Price":"272.30",
-    "Chg":"2.07",
-    "% Chg":"0.76"
+    "Weight":"6.13",
+    "Price":"268.73",
+    "Chg":"-4.32",
+    "% Chg":"-1.58"
   },
   {
     "#":"3",
-    "Company":"Microsoft",
+    "Company":"Microsoft Corp",
     "Symbol":"MSFT",
-    "Weight":"4.81",
-    "Price":"417.51",
-    "Chg":"-5.28",
-    "% Chg":"-1.25"
+    "Weight":"4.89",
+    "Price":"423.98",
+    "Chg":"5.91",
+    "% Chg":"1.41"
   },
   {
     "#":"4",
-    "Company":"Amazon",
+    "Company":"Amazon.com Inc",
     "Symbol":"AMZN",
-    "Weight":"4.14",
-    "Price":"248.39",
-    "Chg":"-2.17",
-    "% Chg":"-0.87"
+    "Weight":"4.20",
+    "Price":"251.34",
+    "Chg":"3.06",
+    "% Chg":"1.23"
   },
   {
     "#":"5",
-    "Company":"Alphabet Inc. Class A",
+    "Company":"Alphabet Inc",
     "Symbol":"GOOGL",
-    "Weight":"3.28",
-    "Price":"337.82",
-    "Chg":"-3.86",
-    "% Chg":"-1.13"
+    "Weight":"3.27",
+    "Price":"336.91",
+    "Chg":"-0.51",
+    "% Chg":"-0.15"
   },
   {
     "#":"6",
-    "Company":"Alphabet Inc. Class C",
+    "Company":"Alphabet Inc",
     "Symbol":"GOOG",
     "Weight":"3.04",
-    "Price":"335.84",
-    "Chg":"-3.56",
-    "% Chg":"-1.05"
+    "Price":"334.91",
+    "Chg":"-0.49",
+    "% Chg":"-0.15"
   },
   {
     "#":"7",
-    "Company":"Broadcom",
+    "Company":"Broadcom Inc",
     "Symbol":"AVGO",
     "Weight":"2.93",
-    "Price":"399.17",
-    "Chg":"-7.37",
-    "% Chg":"-1.81"
+    "Price":"398.98",
+    "Chg":"-0.65",
+    "% Chg":"-0.16"
   },
   {
     "#":"8",
-    "Company":"Meta Platforms",
+    "Company":"Meta Platforms Inc",
     "Symbol":"META",
-    "Weight":"2.64",
-    "Price":"671.67",
-    "Chg":"-16.88",
-    "% Chg":"-2.45"
-  },
-  {
-    "#":"9",
-    "Company":"Tesla, Inc.",
-    "Symbol":"TSLA",
-    "Weight":"2.29",
-    "Price":"393.10",
-    "Chg":"-7.52",
-    "% Chg":"-1.88"
-  },
-  {
-    "#":"10",
-    "Company":"Berkshire Hathaway",
-    "Symbol":"BRK.B",
-    "Weight":"1.58",
-    "Price":"471.67",
-    "Chg":"-2.91",
-    "% Chg":"-0.61"
-  },
-  {
-    "#":"11",
-    "Company":"Walmart",
-    "Symbol":"WMT",
-    "Weight":"1.58",
-    "Price":"127.56",
-    "Chg":"0.06",
+    "Weight":"2.65",
+    "Price":"671.26",
+    "Chg":"0.35",
     "% Chg":"0.05"
   },
   {
+    "#":"9",
+    "Company":"Tesla Inc",
+    "Symbol":"TSLA",
+    "Weight":"2.27",
+    "Price":"389.67",
+    "Chg":"-2.83",
+    "% Chg":"-0.72"
+  },
+  {
+    "#":"10",
+    "Company":"Walmart Inc",
+    "Symbol":"WMT",
+    "Weight":"1.59",
+    "Price":"128.75",
+    "Chg":"0.83",
+    "% Chg":"0.65"
+  },
+  {
+    "#":"11",
+    "Company":"Berkshire Hathaway Inc",
+    "Symbol":"BRK.B",
+    "Weight":"1.58",
+    "Price":"471.70",
+    "Chg":"-0.38",
+    "% Chg":"-0.08"
+  },
+  {
     "#":"12",
-    "Company":"JPMorgan Chase",
+    "Company":"JPMorgan Chase & Co",
     "Symbol":"JPM",
-    "Weight":"1.32",
-    "Price":"316.55",
-    "Chg":"6.26",
-    "% Chg":"2.02"
+    "Weight":"1.31",
+    "Price":"315.89",
+    "Chg":"-1.10",
+    "% Chg":"-0.35"
   },
   {
     "#":"13",
-    "Company":"Lilly Eli",
+    "Company":"Eli Lilly & Co",
     "Symbol":"LLY",
-    "Weight":"1.28",
-    "Price":"921.17",
-    "Chg":"-5.86",
-    "% Chg":"-0.63"
+    "Weight":"1.23",
+    "Price":"887.86",
+    "Chg":"-32.04",
+    "% Chg":"-3.48"
   },
   {
     "#":"14",
-    "Company":"ExxonMobil",
+    "Company":"Exxon Mobil Corp",
     "Symbol":"XOM",
     "Weight":"0.95",
-    "Price":"147.61",
-    "Chg":"1.17",
-    "% Chg":"0.80"
+    "Price":"147.75",
+    "Chg":"0.07",
+    "% Chg":"0.05"
   },
   {
     "#":"15",
-    "Company":"Visa Inc.",
+    "Company":"Visa Inc",
     "Symbol":"V",
-    "Weight":"0.94",
-    "Price":"313.81",
-    "Chg":"-3.21",
-    "% Chg":"-1.01"
+    "Weight":"0.93",
+    "Price":"311.44",
+    "Chg":"-2.50",
+    "% Chg":"-0.80"
   },
   {
     "#":"16",
     "Company":"Johnson & Johnson",
     "Symbol":"JNJ",
-    "Weight":"0.86",
-    "Price":"229.83",
-    "Chg":"-4.35",
-    "% Chg":"-1.86"
+    "Weight":"0.84",
+    "Price":"225.75",
+    "Chg":"-4.94",
+    "% Chg":"-2.14"
   },
   {
     "#":"17",
-    "Company":"Oracle Corporation",
+    "Company":"Oracle Corp",
     "Symbol":"ORCL",
-    "Weight":"0.79",
-    "Price":"177.01",
-    "Chg":"1.95",
-    "% Chg":"1.11"
+    "Weight":"0.81",
+    "Price":"181.80",
+    "Chg":"4.22",
+    "% Chg":"2.38"
   },
   {
     "#":"18",
-    "Company":"Micron Technology",
+    "Company":"Micron Technology Inc",
     "Symbol":"MU",
     "Weight":"0.78",
-    "Price":"448.05",
-    "Chg":"-7.02",
-    "% Chg":"-1.54"
+    "Price":"442.75",
+    "Chg":"-5.67",
+    "% Chg":"-1.26"
   },
   {
     "#":"19",
-    "Company":"Mastercard",
+    "Company":"Mastercard Inc",
     "Symbol":"MA",
     "Weight":"0.71",
-    "Price":"516.51",
-    "Chg":"-4.79",
-    "% Chg":"-0.92"
-  },
-  {
-    "#":"20",
-    "Company":"Advanced Micro Devices",
-    "Symbol":"AMD",
-    "Weight":"0.70",
-    "Price":"275.64",
-    "Chg":"-2.75",
-    "% Chg":"-0.99"
-  },
-  {
-    "#":"21",
-    "Company":"Costco",
-    "Symbol":"COST",
-    "Weight":"0.68",
-    "Price":"994.86",
-    "Chg":"-5.03",
-    "% Chg":"-0.50"
-  },
-  {
-    "#":"22",
-    "Company":"Netflix",
-    "Symbol":"NFLX",
-    "Weight":"0.62",
-    "Price":"94.88",
-    "Chg":"-2.43",
-    "% Chg":"-2.50"
-  },
-  {
-    "#":"23",
-    "Company":"Bank of America",
-    "Symbol":"BAC",
-    "Weight":"0.60",
-    "Price":"53.85",
-    "Chg":"-0.05",
-    "% Chg":"-0.10"
-  },
-  {
-    "#":"24",
-    "Company":"Caterpillar Inc.",
-    "Symbol":"CAT",
-    "Weight":"0.58",
-    "Price":"796.96",
-    "Chg":"2.31",
-    "% Chg":"0.29"
-  },
-  {
-    "#":"25",
-    "Company":"Chevron Corporation",
-    "Symbol":"CVX",
-    "Weight":"0.57",
-    "Price":"182.98",
-    "Chg":"-1.01",
-    "% Chg":"-0.55"
-  },
-  {
-    "#":"26",
-    "Company":"AbbVie",
-    "Symbol":"ABBV",
-    "Weight":"0.56",
-    "Price":"203.34",
-    "Chg":"-5.04",
-    "% Chg":"-2.42"
-  },
-  {
-    "#":"27",
-    "Company":"Palantir Technologies",
-    "Symbol":"PLTR",
-    "Weight":"0.54",
-    "Price":"145.83",
-    "Chg":"-0.56",
-    "% Chg":"-0.38"
-  },
-  {
-    "#":"28",
-    "Company":"Home Depot The",
-    "Symbol":"HD",
-    "Weight":"0.54",
-    "Price":"350.17",
-    "Chg":"0.77",
-    "% Chg":"0.22"
-  },
-  {
-    "#":"29",
-    "Company":"Cisco",
-    "Symbol":"CSCO",
-    "Weight":"0.54",
-    "Price":"87.68",
-    "Chg":"1.43",
-    "% Chg":"1.66"
-  },
-  {
-    "#":"30",
-    "Company":"Procter & Gamble",
-    "Symbol":"PG",
-    "Weight":"0.52",
-    "Price":"143.86",
-    "Chg":"-3.07",
-    "% Chg":"-2.09"
-  },
-  {
-    "#":"31",
-    "Company":"Intel",
-    "Symbol":"INTC",
-    "Weight":"0.51",
-    "Price":"65.56",
-    "Chg":"-2.94",
-    "% Chg":"-4.29"
-  },
-  {
-    "#":"32",
-    "Company":"Lam Research",
-    "Symbol":"LRCX",
-    "Weight":"0.51",
-    "Price":"263.37",
-    "Chg":"-4.23",
-    "% Chg":"-1.58"
-  },
-  {
-    "#":"33",
-    "Company":"Coca-Cola Company The",
-    "Symbol":"KO",
-    "Weight":"0.50",
-    "Price":"75.41",
-    "Chg":"-0.33",
-    "% Chg":"-0.44"
-  },
-  {
-    "#":"34",
-    "Company":"GE Aerospace",
-    "Symbol":"GE",
-    "Weight":"0.49",
-    "Price":"304.73",
-    "Chg":"0.60",
-    "% Chg":"0.20"
-  },
-  {
-    "#":"35",
-    "Company":"Applied Materials",
-    "Symbol":"AMAT",
-    "Weight":"0.48",
-    "Price":"391.10",
-    "Chg":"-5.84",
-    "% Chg":"-1.47"
-  },
-  {
-    "#":"36",
-    "Company":"Morgan Stanley",
-    "Symbol":"MS",
-    "Weight":"0.47",
-    "Price":"190.97",
-    "Chg":"2.15",
-    "% Chg":"1.14"
-  },
-  {
-    "#":"37",
-    "Company":"UnitedHealth Group",
-    "Symbol":"UNH",
-    "Weight":"0.45",
-    "Price":"323.13",
-    "Chg":"-1.50",
-    "% Chg":"-0.46"
-  },
-  {
-    "#":"38",
-    "Company":"Merck & Co.",
-    "Symbol":"MRK",
-    "Weight":"0.45",
-    "Price":"117.05",
-    "Chg":"-2.02",
-    "% Chg":"-1.70"
-  },
-  {
-    "#":"39",
-    "Company":"Goldman Sachs",
-    "Symbol":"GS",
-    "Weight":"0.43",
-    "Price":"940.99",
-    "Chg":"15.04",
-    "% Chg":"1.62"
-  },
-  {
-    "#":"40",
-    "Company":"GE Vernova",
-    "Symbol":"GEV",
-    "Weight":"0.41",
-    "Price":"994.61",
-    "Chg":"-8.14",
-    "% Chg":"-0.81"
-  },
-  {
-    "#":"41",
-    "Company":"RTX Corporation",
-    "Symbol":"RTX",
-    "Weight":"0.41",
-    "Price":"194.93",
-    "Chg":"-1.49",
-    "% Chg":"-0.76"
-  },
-  {
-    "#":"42",
-    "Company":"Wells Fargo",
-    "Symbol":"WFC",
-    "Weight":"0.39",
-    "Price":"82.00",
-    "Chg":"0.59",
-    "% Chg":"0.72"
-  },
-  {
-    "#":"43",
-    "Company":"Philip Morris International",
-    "Symbol":"PM",
-    "Weight":"0.38",
-    "Price":"157.45",
-    "Chg":"-0.34",
-    "% Chg":"-0.22"
-  },
-  {
-    "#":"44",
-    "Company":"IBM",
-    "Symbol":"IBM",
-    "Weight":"0.37",
-    "Price":"253.09",
-    "Chg":"-0.38",
-    "% Chg":"-0.15"
-  },
-  {
-    "#":"45",
-    "Company":"KLA Corporation",
-    "Symbol":"KLAC",
-    "Weight":"0.37",
-    "Price":"1803.81",
-    "Chg":"12.37",
-    "% Chg":"0.69"
-  },
-  {
-    "#":"46",
-    "Company":"Linde plc",
-    "Symbol":"LIN",
-    "Weight":"0.36",
-    "Price":"497.38",
-    "Chg":"5.15",
-    "% Chg":"1.05"
-  },
-  {
-    "#":"47",
-    "Company":"Citigroup",
-    "Symbol":"C",
-    "Weight":"0.35",
-    "Price":"133.03",
-    "Chg":"0.85",
-    "% Chg":"0.64"
-  },
-  {
-    "#":"48",
-    "Company":"American Express",
-    "Symbol":"AXP",
-    "Weight":"0.35",
-    "Price":"329.89",
-    "Chg":"-1.80",
+    "Price":"513.84",
+    "Chg":"-2.81",
     "% Chg":"-0.54"
   },
   {
-    "#":"49",
-    "Company":"T-Mobile US",
-    "Symbol":"TMUS",
-    "Weight":"0.34",
-    "Price":"198.22",
-    "Chg":"0.55",
-    "% Chg":"0.28"
-  },
-  {
-    "#":"50",
-    "Company":"McDonald's",
-    "Symbol":"MCD",
-    "Weight":"0.34",
-    "Price":"306.25",
-    "Chg":"-5.11",
-    "% Chg":"-1.64"
-  },
-  {
-    "#":"51",
-    "Company":"PepsiCo",
-    "Symbol":"PEP",
-    "Weight":"0.33",
-    "Price":"156.06",
-    "Chg":"-1.61",
-    "% Chg":"-1.02"
-  },
-  {
-    "#":"52",
-    "Company":"Texas Instruments",
-    "Symbol":"TXN",
-    "Weight":"0.33",
-    "Price":"233.44",
-    "Chg":"3.63",
-    "% Chg":"1.58"
-  },
-  {
-    "#":"53",
-    "Company":"Arista Networks",
-    "Symbol":"ANET",
-    "Weight":"0.33",
-    "Price":"166.91",
-    "Chg":"2.68",
-    "% Chg":"1.63"
-  },
-  {
-    "#":"54",
-    "Company":"Thermo Fisher Scientific",
-    "Symbol":"TMO",
-    "Weight":"0.30",
-    "Price":"526.00",
-    "Chg":"-0.60",
-    "% Chg":"-0.11"
-  },
-  {
-    "#":"55",
-    "Company":"Verizon",
-    "Symbol":"VZ",
-    "Weight":"0.30",
-    "Price":"46.47",
-    "Chg":"-0.08",
-    "% Chg":"-0.17"
-  },
-  {
-    "#":"56",
-    "Company":"NextEra Energy",
-    "Symbol":"NEE",
-    "Weight":"0.30",
-    "Price":"91.88",
-    "Chg":"-0.10",
-    "% Chg":"-0.11"
-  },
-  {
-    "#":"57",
-    "Company":"Amgen",
-    "Symbol":"AMGN",
-    "Weight":"0.29",
-    "Price":"350.42",
-    "Chg":"-4.88",
-    "% Chg":"-1.37"
-  },
-  {
-    "#":"58",
-    "Company":"Walt Disney Company The",
-    "Symbol":"DIS",
-    "Weight":"0.29",
-    "Price":"106.47",
-    "Chg":"0.18",
-    "% Chg":"0.17"
-  },
-  {
-    "#":"59",
-    "Company":"Amphenol",
-    "Symbol":"APH",
-    "Weight":"0.29",
-    "Price":"152.96",
-    "Chg":"1.90",
-    "% Chg":"1.26"
-  },
-  {
-    "#":"60",
-    "Company":"Analog Devices",
-    "Symbol":"ADI",
-    "Weight":"0.29",
-    "Price":"381.56",
-    "Chg":"10.11",
-    "% Chg":"2.72"
-  },
-  {
-    "#":"61",
-    "Company":"AT&T",
-    "Symbol":"T",
-    "Weight":"0.28",
-    "Price":"26.26",
-    "Chg":"-0.25",
-    "% Chg":"-0.95"
-  },
-  {
-    "#":"62",
-    "Company":"TJX Companies",
-    "Symbol":"TJX",
-    "Weight":"0.27",
-    "Price":"160.00",
-    "Chg":"-0.68",
-    "% Chg":"-0.43"
-  },
-  {
-    "#":"63",
-    "Company":"Boeing",
-    "Symbol":"BA",
-    "Weight":"0.27",
-    "Price":"224.98",
-    "Chg":"1.60",
-    "% Chg":"0.72"
-  },
-  {
-    "#":"64",
-    "Company":"Gilead Sciences",
-    "Symbol":"GILD",
-    "Weight":"0.26",
-    "Price":"135.69",
-    "Chg":"-1.95",
-    "% Chg":"-1.42"
-  },
-  {
-    "#":"65",
-    "Company":"Abbott Laboratories",
-    "Symbol":"ABT",
-    "Weight":"0.26",
-    "Price":"95.56",
-    "Chg":"-1.25",
-    "% Chg":"-1.29"
-  },
-  {
-    "#":"66",
-    "Company":"AppLovin Corporation",
-    "Symbol":"APP",
-    "Weight":"0.26",
-    "Price":"490.16",
-    "Chg":"12.96",
-    "% Chg":"2.72"
-  },
-  {
-    "#":"67",
-    "Company":"Intuitive Surgical",
-    "Symbol":"ISRG",
-    "Weight":"0.26",
-    "Price":"464.17",
-    "Chg":"-5.04",
-    "% Chg":"-1.07"
-  },
-  {
-    "#":"68",
-    "Company":"BlackRock",
-    "Symbol":"BLK",
-    "Weight":"0.25",
-    "Price":"1047.53",
-    "Chg":"-4.61",
-    "% Chg":"-0.44"
-  },
-  {
-    "#":"69",
-    "Company":"Charles Schwab Corporation",
-    "Symbol":"SCHW",
-    "Weight":"0.25",
-    "Price":"93.26",
-    "Chg":"0.98",
-    "% Chg":"1.06"
-  },
-  {
-    "#":"70",
-    "Company":"Deere & Company",
-    "Symbol":"DE",
-    "Weight":"0.25",
-    "Price":"592.86",
-    "Chg":"2.40",
-    "% Chg":"0.41"
-  },
-  {
-    "#":"71",
-    "Company":"Eaton Corporation",
-    "Symbol":"ETN",
-    "Weight":"0.25",
-    "Price":"407.69",
-    "Chg":"1.48",
-    "% Chg":"0.36"
-  },
-  {
-    "#":"72",
-    "Company":"Uber",
-    "Symbol":"UBER",
-    "Weight":"0.24",
-    "Price":"77.53",
-    "Chg":"0.41",
-    "% Chg":"0.53"
-  },
-  {
-    "#":"73",
-    "Company":"Pfizer",
-    "Symbol":"PFE",
-    "Weight":"0.24",
-    "Price":"27.55",
-    "Chg":"-0.01",
-    "% Chg":"-0.05"
-  },
-  {
-    "#":"74",
-    "Company":"Salesforce",
-    "Symbol":"CRM",
-    "Weight":"0.24",
-    "Price":"185.99",
-    "Chg":"3.85",
-    "% Chg":"2.12"
-  },
-  {
-    "#":"75",
-    "Company":"Booking Holdings",
-    "Symbol":"BKNG",
-    "Weight":"0.24",
-    "Price":"191.72",
-    "Chg":"-0.29",
-    "% Chg":"-0.15"
-  },
-  {
-    "#":"76",
-    "Company":"Union Pacific Corporation",
-    "Symbol":"UNP",
-    "Weight":"0.23",
-    "Price":"251.82",
-    "Chg":"0.68",
-    "% Chg":"0.27"
-  },
-  {
-    "#":"77",
-    "Company":"Welltower",
-    "Symbol":"WELL",
-    "Weight":"0.23",
-    "Price":"208.96",
-    "Chg":"-1.56",
-    "% Chg":"-0.74"
-  },
-  {
-    "#":"78",
-    "Company":"Qualcomm",
-    "Symbol":"QCOM",
-    "Weight":"0.23",
-    "Price":"137.52",
-    "Chg":"1.32",
-    "% Chg":"0.97"
-  },
-  {
-    "#":"79",
-    "Company":"Honeywell",
-    "Symbol":"HON",
-    "Weight":"0.23",
-    "Price":"229.72",
-    "Chg":"-3.83",
-    "% Chg":"-1.64"
-  },
-  {
-    "#":"80",
-    "Company":"Lowe's",
-    "Symbol":"LOW",
-    "Weight":"0.22",
-    "Price":"253.31",
-    "Chg":"1.59",
-    "% Chg":"0.63"
-  },
-  {
-    "#":"81",
-    "Company":"ConocoPhillips",
-    "Symbol":"COP",
-    "Weight":"0.22",
-    "Price":"116.32",
-    "Chg":"0.28",
-    "% Chg":"0.24"
-  },
-  {
-    "#":"82",
-    "Company":"Corning Inc.",
-    "Symbol":"GLW",
-    "Weight":"0.22",
-    "Price":"164.49",
-    "Chg":"0.11",
-    "% Chg":"0.07"
-  },
-  {
-    "#":"83",
-    "Company":"Danaher Corporation",
-    "Symbol":"DHR",
-    "Weight":"0.21",
-    "Price":"195.24",
-    "Chg":"0.49",
-    "% Chg":"0.25"
-  },
-  {
-    "#":"84",
-    "Company":"Palo Alto Networks",
-    "Symbol":"PANW",
-    "Weight":"0.21",
-    "Price":"169.60",
-    "Chg":"1.75",
-    "% Chg":"1.04"
-  },
-  {
-    "#":"85",
-    "Company":"Prologis",
-    "Symbol":"PLD",
-    "Weight":"0.21",
-    "Price":"145.13",
-    "Chg":"0.03",
-    "% Chg":"0.02"
-  },
-  {
-    "#":"86",
-    "Company":"Sandisk Corporation",
-    "Symbol":"SNDK",
-    "Weight":"0.21",
-    "Price":"912.98",
-    "Chg":"-8.01",
-    "% Chg":"-0.87"
-  },
-  {
-    "#":"87",
-    "Company":"Lockheed Martin",
-    "Symbol":"LMT",
-    "Weight":"0.21",
-    "Price":"578.71",
-    "Chg":"-13.48",
-    "% Chg":"-2.28"
-  },
-  {
-    "#":"88",
-    "Company":"Dell Technologies",
-    "Symbol":"DELL",
-    "Weight":"0.21",
-    "Price":"205.21",
-    "Chg":"8.66",
-    "% Chg":"4.40"
-  },
-  {
-    "#":"89",
-    "Company":"S&P Global",
-    "Symbol":"SPGI",
-    "Weight":"0.20",
-    "Price":"442.99",
-    "Chg":"0.42",
-    "% Chg":"0.09"
-  },
-  {
-    "#":"90",
-    "Company":"Stryker Corporation",
-    "Symbol":"SYK",
-    "Weight":"0.20",
-    "Price":"337.37",
-    "Chg":"-5.95",
-    "% Chg":"-1.73"
-  },
-  {
-    "#":"91",
-    "Company":"Chubb Limited",
-    "Symbol":"CB",
-    "Weight":"0.20",
-    "Price":"328.92",
-    "Chg":"-1.91",
-    "% Chg":"-0.58"
-  },
-  {
-    "#":"92",
-    "Company":"Capital One",
-    "Symbol":"COF",
-    "Weight":"0.20",
-    "Price":"205.39",
-    "Chg":"-1.08",
-    "% Chg":"-0.52"
-  },
-  {
-    "#":"93",
-    "Company":"Western Digital",
-    "Symbol":"WDC",
-    "Weight":"0.20",
-    "Price":"375.81",
-    "Chg":"3.29",
-    "% Chg":"0.88"
-  },
-  {
-    "#":"94",
-    "Company":"Parker Hannifin",
-    "Symbol":"PH",
-    "Weight":"0.19",
-    "Price":"994.92",
-    "Chg":"6.12",
-    "% Chg":"0.62"
-  },
-  {
-    "#":"95",
-    "Company":"Newmont",
-    "Symbol":"NEM",
-    "Weight":"0.19",
-    "Price":"114.89",
-    "Chg":"-1.61",
-    "% Chg":"-1.38"
-  },
-  {
-    "#":"96",
-    "Company":"Seagate Technology",
-    "Symbol":"STX",
-    "Weight":"0.19",
-    "Price":"538.60",
-    "Chg":"-9.15",
-    "% Chg":"-1.67"
-  },
-  {
-    "#":"97",
-    "Company":"Bristol Myers Squibb",
-    "Symbol":"BMY",
-    "Weight":"0.19",
-    "Price":"59.04",
-    "Chg":"-1.13",
-    "% Chg":"-1.87"
-  },
-  {
-    "#":"98",
-    "Company":"Vertiv Holdings Co",
-    "Symbol":"VRT",
-    "Weight":"0.19",
-    "Price":"314.42",
-    "Chg":"7.08",
-    "% Chg":"2.30"
-  },
-  {
-    "#":"99",
-    "Company":"Accenture",
-    "Symbol":"ACN",
-    "Weight":"0.19",
-    "Price":"194.61",
-    "Chg":"-3.04",
-    "% Chg":"-1.54"
-  },
-  {
-    "#":"100",
-    "Company":"Progressive Corporation",
-    "Symbol":"PGR",
-    "Weight":"0.18",
-    "Price":"203.44",
-    "Chg":"0.86",
-    "% Chg":"0.43"
-  },
-  {
-    "#":"101",
-    "Company":"Starbucks",
-    "Symbol":"SBUX",
-    "Weight":"0.18",
-    "Price":"99.08",
-    "Chg":"-0.92",
-    "% Chg":"-0.92"
-  },
-  {
-    "#":"102",
-    "Company":"Vertex Pharmaceuticals",
-    "Symbol":"VRTX",
-    "Weight":"0.17",
-    "Price":"438.90",
-    "Chg":"-2.30",
-    "% Chg":"-0.52"
-  },
-  {
-    "#":"103",
-    "Company":"Intuit",
-    "Symbol":"INTU",
-    "Weight":"0.17",
-    "Price":"403.01",
-    "Chg":"9.76",
-    "% Chg":"2.48"
-  },
-  {
-    "#":"104",
-    "Company":"CrowdStrike",
-    "Symbol":"CRWD",
-    "Weight":"0.17",
-    "Price":"433.41",
-    "Chg":"9.46",
-    "% Chg":"2.23"
-  },
-  {
-    "#":"105",
-    "Company":"Medtronic",
-    "Symbol":"MDT",
-    "Weight":"0.17",
-    "Price":"85.14",
-    "Chg":"-1.05",
-    "% Chg":"-1.22"
-  },
-  {
-    "#":"106",
-    "Company":"Equinix",
-    "Symbol":"EQIX",
-    "Weight":"0.17",
-    "Price":"1099.83",
-    "Chg":"11.21",
-    "% Chg":"1.03"
-  },
-  {
-    "#":"107",
-    "Company":"Comcast",
-    "Symbol":"CMCSA",
-    "Weight":"0.17",
-    "Price":"29.96",
-    "Chg":"0.33",
-    "% Chg":"1.10"
-  },
-  {
-    "#":"108",
-    "Company":"Altria",
-    "Symbol":"MO",
-    "Weight":"0.17",
-    "Price":"64.30",
-    "Chg":"0.13",
-    "% Chg":"0.21"
-  },
-  {
-    "#":"109",
-    "Company":"HCA Healthcare",
-    "Symbol":"HCA",
-    "Weight":"0.17",
-    "Price":"477.97",
-    "Chg":"-10.03",
-    "% Chg":"-2.05"
-  },
-  {
-    "#":"110",
-    "Company":"Trane Technologies",
-    "Symbol":"TT",
-    "Weight":"0.16",
-    "Price":"477.63",
-    "Chg":"1.51",
-    "% Chg":"0.32"
-  },
-  {
-    "#":"111",
-    "Company":"Southern Company",
-    "Symbol":"SO",
-    "Weight":"0.16",
-    "Price":"93.37",
-    "Chg":"-1.14",
-    "% Chg":"-1.21"
-  },
-  {
-    "#":"112",
-    "Company":"McKesson Corporation",
-    "Symbol":"MCK",
-    "Weight":"0.16",
-    "Price":"854.35",
-    "Chg":"-12.03",
-    "% Chg":"-1.39"
-  },
-  {
-    "#":"113",
-    "Company":"Constellation Energy",
-    "Symbol":"CEG",
-    "Weight":"0.16",
-    "Price":"287.25",
-    "Chg":"-8.96",
-    "% Chg":"-3.02"
-  },
-  {
-    "#":"114",
-    "Company":"CME Group",
-    "Symbol":"CME",
-    "Weight":"0.16",
-    "Price":"286.78",
-    "Chg":"-0.87",
-    "% Chg":"-0.30"
-  },
-  {
-    "#":"115",
-    "Company":"ServiceNow",
-    "Symbol":"NOW",
-    "Weight":"0.16",
-    "Price":"99.22",
-    "Chg":"2.56",
-    "% Chg":"2.65"
-  },
-  {
-    "#":"116",
-    "Company":"Howmet Aerospace",
-    "Symbol":"HWM",
-    "Weight":"0.16",
-    "Price":"255.07",
-    "Chg":"-0.62",
-    "% Chg":"-0.24"
-  },
-  {
-    "#":"117",
-    "Company":"Freeport-McMoRan",
-    "Symbol":"FCX",
-    "Weight":"0.16",
-    "Price":"70.12",
-    "Chg":"-0.09",
-    "% Chg":"-0.13"
-  },
-  {
-    "#":"118",
-    "Company":"Adobe Inc.",
-    "Symbol":"ADBE",
-    "Weight":"0.16",
-    "Price":"248.39",
-    "Chg":"3.94",
-    "% Chg":"1.61"
-  },
-  {
-    "#":"119",
-    "Company":"Blackstone Inc.",
-    "Symbol":"BX",
-    "Weight":"0.16",
-    "Price":"128.88",
-    "Chg":"-0.20",
-    "% Chg":"-0.15"
-  },
-  {
-    "#":"120",
-    "Company":"Marriott International",
-    "Symbol":"MAR",
-    "Weight":"0.16",
-    "Price":"377.83",
-    "Chg":"-0.10",
-    "% Chg":"-0.03"
-  },
-  {
-    "#":"121",
-    "Company":"Duke Energy",
-    "Symbol":"DUK",
-    "Weight":"0.15",
-    "Price":"127.84",
-    "Chg":"-0.19",
-    "% Chg":"-0.15"
-  },
-  {
-    "#":"122",
-    "Company":"CVS Health",
-    "Symbol":"CVS",
-    "Weight":"0.15",
-    "Price":"76.88",
-    "Chg":"-0.42",
-    "% Chg":"-0.55"
-  },
-  {
-    "#":"123",
-    "Company":"FedEx",
-    "Symbol":"FDX",
-    "Weight":"0.15",
-    "Price":"393.77",
-    "Chg":"1.39",
-    "% Chg":"0.35"
-  },
-  {
-    "#":"124",
-    "Company":"Northrop Grumman",
-    "Symbol":"NOC",
-    "Weight":"0.14",
-    "Price":"654.39",
-    "Chg":"-10.87",
-    "% Chg":"-1.63"
-  },
-  {
-    "#":"125",
-    "Company":"BNY Mellon",
-    "Symbol":"BK",
-    "Weight":"0.14",
-    "Price":"135.25",
-    "Chg":"0.15",
-    "% Chg":"0.11"
-  },
-  {
-    "#":"126",
-    "Company":"KKR",
-    "Symbol":"KKR",
-    "Weight":"0.14",
-    "Price":"103.86",
-    "Chg":"0.26",
-    "% Chg":"0.25"
-  },
-  {
-    "#":"127",
-    "Company":"PNC Financial Services",
-    "Symbol":"PNC",
-    "Weight":"0.14",
-    "Price":"227.52",
-    "Chg":"2.71",
-    "% Chg":"1.21"
-  },
-  {
-    "#":"128",
-    "Company":"Intercontinental Exchange",
-    "Symbol":"ICE",
-    "Weight":"0.14",
-    "Price":"160.75",
-    "Chg":"-0.49",
-    "% Chg":"-0.30"
-  },
-  {
-    "#":"129",
-    "Company":"United Parcel Service",
-    "Symbol":"UPS",
-    "Weight":"0.14",
-    "Price":"107.04",
-    "Chg":"0.60",
-    "% Chg":"0.57"
-  },
-  {
-    "#":"130",
-    "Company":"Quanta Services",
-    "Symbol":"PWR",
-    "Weight":"0.14",
-    "Price":"604.56",
-    "Chg":"2.68",
-    "% Chg":"0.45"
-  },
-  {
-    "#":"131",
-    "Company":"Waste Management",
-    "Symbol":"WM",
-    "Weight":"0.14",
-    "Price":"224.32",
-    "Chg":"0.37",
-    "% Chg":"0.16"
-  },
-  {
-    "#":"132",
-    "Company":"Boston Scientific",
-    "Symbol":"BSX",
-    "Weight":"0.14",
-    "Price":"60.79",
-    "Chg":"-3.44",
-    "% Chg":"-5.36"
-  },
-  {
-    "#":"133",
-    "Company":"General Dynamics",
-    "Symbol":"GD",
-    "Weight":"0.14",
-    "Price":"331.40",
-    "Chg":"-4.89",
-    "% Chg":"-1.45"
-  },
-  {
-    "#":"134",
-    "Company":"U.S. Bancorp",
-    "Symbol":"USB",
-    "Weight":"0.14",
-    "Price":"57.13",
-    "Chg":"0.20",
-    "% Chg":"0.36"
-  },
-  {
-    "#":"135",
-    "Company":"Synopsys",
-    "Symbol":"SNPS",
-    "Weight":"0.14",
-    "Price":"461.77",
-    "Chg":"12.19",
-    "% Chg":"2.71"
-  },
-  {
-    "#":"136",
-    "Company":"Cadence Design Systems",
-    "Symbol":"CDNS",
-    "Weight":"0.14",
-    "Price":"318.05",
-    "Chg":"7.02",
-    "% Chg":"2.26"
-  },
-  {
-    "#":"137",
-    "Company":"Cummins",
-    "Symbol":"CMI",
-    "Weight":"0.14",
-    "Price":"633.37",
-    "Chg":"6.19",
-    "% Chg":"0.99"
-  },
-  {
-    "#":"138",
-    "Company":"Williams Companies",
-    "Symbol":"WMB",
-    "Weight":"0.13",
-    "Price":"70.84",
-    "Chg":"-0.31",
-    "% Chg":"-0.44"
-  },
-  {
-    "#":"139",
-    "Company":"Johnson Controls",
-    "Symbol":"JCI",
-    "Weight":"0.13",
-    "Price":"140.82",
-    "Chg":"-0.05",
-    "% Chg":"-0.04"
-  },
-  {
-    "#":"140",
-    "Company":"Airbnb",
-    "Symbol":"ABNB",
-    "Weight":"0.13",
-    "Price":"143.20",
-    "Chg":"1.65",
-    "% Chg":"1.16"
-  },
-  {
-    "#":"141",
-    "Company":"Sherwin-Williams",
-    "Symbol":"SHW",
-    "Weight":"0.13",
-    "Price":"343.44",
-    "Chg":"-2.11",
-    "% Chg":"-0.61"
-  },
-  {
-    "#":"142",
-    "Company":"American Tower",
-    "Symbol":"AMT",
-    "Weight":"0.13",
-    "Price":"180.90",
-    "Chg":"-1.46",
-    "% Chg":"-0.80"
-  },
-  {
-    "#":"143",
-    "Company":"Marsh & McLennan Companies, Inc.",
-    "Symbol":"MRSH",
-    "Weight":"0.13",
-    "Price":"174.60",
-    "Chg":"-1.20",
-    "% Chg":"-0.68"
-  },
-  {
-    "#":"144",
-    "Company":"DoorDash",
-    "Symbol":"DASH",
-    "Weight":"0.13",
-    "Price":"190.76",
-    "Chg":"6.87",
-    "% Chg":"3.74"
-  },
-  {
-    "#":"145",
-    "Company":"Emerson Electric",
-    "Symbol":"EMR",
-    "Weight":"0.13",
-    "Price":"146.74",
-    "Chg":"0.39",
-    "% Chg":"0.26"
-  },
-  {
-    "#":"146",
-    "Company":"Robinhood Markets, Inc.",
-    "Symbol":"HOOD",
-    "Weight":"0.13",
-    "Price":"91.09",
-    "Chg":"0.34",
-    "% Chg":"0.38"
-  },
-  {
-    "#":"147",
-    "Company":"Moody's Corporation",
-    "Symbol":"MCO",
-    "Weight":"0.13",
-    "Price":"460.05",
-    "Chg":"4.70",
-    "% Chg":"1.03"
-  },
-  {
-    "#":"148",
-    "Company":"Automatic Data Processing",
-    "Symbol":"ADP",
-    "Weight":"0.13",
-    "Price":"202.32",
-    "Chg":"1.85",
-    "% Chg":"0.92"
-  },
-  {
-    "#":"149",
-    "Company":"CSX Corporation",
-    "Symbol":"CSX",
-    "Weight":"0.13",
-    "Price":"43.65",
-    "Chg":"0.33",
-    "% Chg":"0.75"
-  },
-  {
-    "#":"150",
-    "Company":"3M",
-    "Symbol":"MMM",
-    "Weight":"0.12",
-    "Price":"151.94",
-    "Chg":"-2.61",
-    "% Chg":"-1.69"
-  },
-  {
-    "#":"151",
-    "Company":"Regeneron Pharmaceuticals",
-    "Symbol":"REGN",
-    "Weight":"0.12",
-    "Price":"749.99",
-    "Chg":"-0.59",
-    "% Chg":"-0.08"
-  },
-  {
-    "#":"152",
-    "Company":"CRH plc",
-    "Symbol":"CRH",
-    "Weight":"0.12",
-    "Price":"118.43",
-    "Chg":"1.38",
-    "% Chg":"1.18"
-  },
-  {
-    "#":"153",
-    "Company":"Illinois Tool Works",
-    "Symbol":"ITW",
-    "Weight":"0.12",
-    "Price":"271.93",
-    "Chg":"-0.33",
-    "% Chg":"-0.12"
-  },
-  {
-    "#":"154",
-    "Company":"Hilton Worldwide",
-    "Symbol":"HLT",
-    "Weight":"0.12",
-    "Price":"342.26",
-    "Chg":"1.24",
-    "% Chg":"0.36"
-  },
-  {
-    "#":"155",
-    "Company":"Schlumberger",
-    "Symbol":"SLB",
-    "Weight":"0.12",
-    "Price":"51.89",
-    "Chg":"-0.77",
+    "#":"20",
+    "Company":"Advanced Micro Devices Inc",
+    "Symbol":"AMD",
+    "Weight":"0.70",
+    "Price":"277.90",
+    "Chg":"2.95",
+    "% Chg":"1.07"
+  },
+  {
+    "#":"21",
+    "Company":"Costco Wholesale Corp",
+    "Symbol":"COST",
+    "Weight":"0.69",
+    "Price":"998.85",
+    "Chg":"1.01",
+    "% Chg":"0.10"
+  },
+  {
+    "#":"22",
+    "Company":"Netflix Inc",
+    "Symbol":"NFLX",
+    "Weight":"0.61",
+    "Price":"93.43",
+    "Chg":"-1.40",
     "% Chg":"-1.47"
   },
   {
-    "#":"156",
-    "Company":"Ecolab",
-    "Symbol":"ECL",
-    "Weight":"0.12",
-    "Price":"275.61",
-    "Chg":"0.81",
-    "% Chg":"0.29"
+    "#":"23",
+    "Company":"Bank of America Corp",
+    "Symbol":"BAC",
+    "Weight":"0.60",
+    "Price":"53.97",
+    "Chg":"0.02",
+    "% Chg":"0.04"
   },
   {
-    "#":"157",
-    "Company":"O'Reilly Auto Parts",
-    "Symbol":"ORLY",
-    "Weight":"0.12",
-    "Price":"92.93",
-    "Chg":"-0.78",
-    "% Chg":"-0.83"
+    "#":"24",
+    "Company":"Caterpillar Inc",
+    "Symbol":"CAT",
+    "Weight":"0.58",
+    "Price":"808.18",
+    "Chg":"9.78",
+    "% Chg":"1.23"
   },
   {
-    "#":"158",
-    "Company":"Royal Caribbean Group",
-    "Symbol":"RCL",
-    "Weight":"0.12",
-    "Price":"281.08",
-    "Chg":"-4.40",
-    "% Chg":"-1.54"
+    "#":"25",
+    "Company":"Chevron Corp",
+    "Symbol":"CVX",
+    "Weight":"0.57",
+    "Price":"184.02",
+    "Chg":"0.77",
+    "% Chg":"0.42"
   },
   {
-    "#":"159",
-    "Company":"Monster Beverage",
-    "Symbol":"MNST",
-    "Weight":"0.12",
-    "Price":"77.19",
-    "Chg":"0.47",
-    "% Chg":"0.62"
+    "#":"26",
+    "Company":"AbbVie Inc",
+    "Symbol":"ABBV",
+    "Weight":"0.56",
+    "Price":"204.27",
+    "Chg":"0.56",
+    "% Chg":"0.28"
   },
   {
-    "#":"160",
-    "Company":"Motorola Solutions",
-    "Symbol":"MSI",
-    "Weight":"0.12",
-    "Price":"446.76",
-    "Chg":"4.80",
-    "% Chg":"1.09"
+    "#":"27",
+    "Company":"Palantir Technologies Inc",
+    "Symbol":"PLTR",
+    "Weight":"0.54",
+    "Price":"146.47",
+    "Chg":"0.59",
+    "% Chg":"0.40"
   },
   {
-    "#":"161",
-    "Company":"Cigna",
-    "Symbol":"CI",
-    "Weight":"0.11",
-    "Price":"280.69",
-    "Chg":"2.05",
-    "% Chg":"0.73"
+    "#":"28",
+    "Company":"Cisco Systems Inc",
+    "Symbol":"CSCO",
+    "Weight":"0.54",
+    "Price":"88.50",
+    "Chg":"0.79",
+    "% Chg":"0.90"
   },
   {
-    "#":"162",
-    "Company":"Apollo Global Management",
-    "Symbol":"APO",
-    "Weight":"0.11",
-    "Price":"127.12",
-    "Chg":"2.50",
-    "% Chg":"2.01"
-  },
-  {
-    "#":"163",
-    "Company":"Ross Stores",
-    "Symbol":"ROST",
-    "Weight":"0.11",
-    "Price":"227.98",
-    "Chg":"0.16",
-    "% Chg":"0.07"
-  },
-  {
-    "#":"164",
-    "Company":"Mondelez International",
-    "Symbol":"MDLZ",
-    "Weight":"0.11",
-    "Price":"57.04",
-    "Chg":"-0.21",
-    "% Chg":"-0.37"
-  },
-  {
-    "#":"165",
-    "Company":"Monolithic Power Systems",
-    "Symbol":"MPWR",
-    "Weight":"0.11",
-    "Price":"1486.60",
-    "Chg":"18.25",
-    "% Chg":"1.24"
-  },
-  {
-    "#":"166",
-    "Company":"General Motors",
-    "Symbol":"GM",
-    "Weight":"0.11",
-    "Price":"80.45",
-    "Chg":"-0.87",
-    "% Chg":"-1.06"
-  },
-  {
-    "#":"167",
-    "Company":"TE Connectivity",
-    "Symbol":"TEL",
-    "Weight":"0.11",
-    "Price":"247.54",
-    "Chg":"1.40",
-    "% Chg":"0.57"
-  },
-  {
-    "#":"168",
-    "Company":"American Electric Power",
-    "Symbol":"AEP",
-    "Weight":"0.11",
-    "Price":"133.44",
-    "Chg":"-0.22",
-    "% Chg":"-0.16"
-  },
-  {
-    "#":"169",
-    "Company":"TransDigm Group",
-    "Symbol":"TDG",
-    "Weight":"0.11",
-    "Price":"1270.54",
-    "Chg":"4.66",
-    "% Chg":"0.37"
-  },
-  {
-    "#":"170",
-    "Company":"Cintas",
-    "Symbol":"CTAS",
-    "Weight":"0.11",
-    "Price":"178.47",
-    "Chg":"-0.70",
-    "% Chg":"-0.39"
-  },
-  {
-    "#":"171",
-    "Company":"Ciena Corporation",
-    "Symbol":"CIEN",
-    "Weight":"0.11",
-    "Price":"504.62",
-    "Chg":"-2.81",
-    "% Chg":"-0.55"
-  },
-  {
-    "#":"172",
-    "Company":"Kinder Morgan",
-    "Symbol":"KMI",
-    "Weight":"0.11",
-    "Price":"32.02",
-    "Chg":"-0.01",
-    "% Chg":"-0.02"
-  },
-  {
-    "#":"173",
-    "Company":"Aon",
-    "Symbol":"AON",
-    "Weight":"0.11",
-    "Price":"332.11",
-    "Chg":"0.31",
-    "% Chg":"0.09"
-  },
-  {
-    "#":"174",
-    "Company":"Digital Realty",
-    "Symbol":"DLR",
-    "Weight":"0.11",
-    "Price":"203.97",
-    "Chg":"0.35",
-    "% Chg":"0.17"
-  },
-  {
-    "#":"175",
-    "Company":"Elevance Health",
-    "Symbol":"ELV",
-    "Weight":"0.11",
-    "Price":"316.20",
-    "Chg":"-6.85",
-    "% Chg":"-2.12"
-  },
-  {
-    "#":"176",
-    "Company":"EOG Resources",
-    "Symbol":"EOG",
-    "Weight":"0.11",
-    "Price":"129.16",
-    "Chg":"0.73",
-    "% Chg":"0.57"
-  },
-  {
-    "#":"177",
-    "Company":"Nike, Inc.",
-    "Symbol":"NKE",
-    "Weight":"0.11",
-    "Price":"46.47",
-    "Chg":"0.44",
-    "% Chg":"0.95"
-  },
-  {
-    "#":"178",
-    "Company":"Warner Bros. Discovery",
-    "Symbol":"WBD",
-    "Weight":"0.11",
-    "Price":"27.45",
-    "Chg":"-0.02",
-    "% Chg":"-0.09"
-  },
-  {
-    "#":"179",
-    "Company":"Norfolk Southern Railway",
-    "Symbol":"NSC",
-    "Weight":"0.11",
-    "Price":"303.74",
-    "Chg":"1.36",
-    "% Chg":"0.45"
-  },
-  {
-    "#":"180",
-    "Company":"Simon Property Group",
-    "Symbol":"SPG",
-    "Weight":"0.10",
-    "Price":"208.06",
-    "Chg":"1.83",
-    "% Chg":"0.88"
-  },
-  {
-    "#":"181",
-    "Company":"Paccar",
-    "Symbol":"PCAR",
-    "Weight":"0.10",
-    "Price":"128.20",
-    "Chg":"1.95",
-    "% Chg":"1.54"
-  },
-  {
-    "#":"182",
-    "Company":"Valero Energy",
-    "Symbol":"VLO",
-    "Weight":"0.10",
-    "Price":"224.94",
-    "Chg":"1.29",
-    "% Chg":"0.58"
-  },
-  {
-    "#":"183",
-    "Company":"Colgate-Palmolive",
-    "Symbol":"CL",
-    "Weight":"0.10",
-    "Price":"83.09",
-    "Chg":"-2.72",
-    "% Chg":"-3.17"
-  },
-  {
-    "#":"184",
-    "Company":"Air Products",
-    "Symbol":"APD",
-    "Weight":"0.10",
-    "Price":"295.56",
-    "Chg":"3.75",
-    "% Chg":"1.28"
-  },
-  {
-    "#":"185",
-    "Company":"L3Harris",
-    "Symbol":"LHX",
-    "Weight":"0.10",
-    "Price":"347.68",
-    "Chg":"-2.67",
-    "% Chg":"-0.76"
-  },
-  {
-    "#":"186",
-    "Company":"Coherent, Inc.",
-    "Symbol":"COHR",
-    "Weight":"0.10",
-    "Price":"346.09",
-    "Chg":"1.07",
-    "% Chg":"0.31"
-  },
-  {
-    "#":"187",
-    "Company":"Republic Services",
-    "Symbol":"RSG",
-    "Weight":"0.10",
-    "Price":"207.93",
-    "Chg":"0.27",
-    "% Chg":"0.13"
-  },
-  {
-    "#":"188",
-    "Company":"Lumentum Holdings Inc.",
-    "Symbol":"LITE",
-    "Weight":"0.10",
-    "Price":"899.10",
-    "Chg":"5.03",
-    "% Chg":"0.56"
-  },
-  {
-    "#":"189",
-    "Company":"Travelers Companies The",
-    "Symbol":"TRV",
-    "Weight":"0.10",
-    "Price":"300.39",
-    "Chg":"-0.42",
-    "% Chg":"-0.14"
-  },
-  {
-    "#":"190",
-    "Company":"Truist Financial",
-    "Symbol":"TFC",
-    "Weight":"0.10",
-    "Price":"50.91",
-    "Chg":"0.34",
-    "% Chg":"0.66"
-  },
-  {
-    "#":"191",
-    "Company":"Marathon Petroleum",
-    "Symbol":"MPC",
-    "Weight":"0.10",
-    "Price":"214.12",
-    "Chg":"0.43",
-    "% Chg":"0.20"
-  },
-  {
-    "#":"192",
-    "Company":"Cencora",
-    "Symbol":"COR",
-    "Weight":"0.10",
-    "Price":"321.33",
-    "Chg":"-6.23",
-    "% Chg":"-1.90"
-  },
-  {
-    "#":"193",
-    "Company":"Phillips 66",
-    "Symbol":"PSX",
-    "Weight":"0.10",
-    "Price":"155.38",
-    "Chg":"-0.99",
+    "#":"29",
+    "Company":"Home Depot Inc\/The",
+    "Symbol":"HD",
+    "Weight":"0.54",
+    "Price":"348.75",
+    "Chg":"-2.24",
     "% Chg":"-0.64"
   },
   {
-    "#":"194",
-    "Company":"Fortinet",
-    "Symbol":"FTNT",
-    "Weight":"0.09",
-    "Price":"82.25",
-    "Chg":"0.41",
+    "#":"30",
+    "Company":"Intel Corp",
+    "Symbol":"INTC",
+    "Weight":"0.52",
+    "Price":"66.37",
+    "Chg":"0.67",
+    "% Chg":"1.02"
+  },
+  {
+    "#":"31",
+    "Company":"Procter & Gamble Co\/The",
+    "Symbol":"PG",
+    "Weight":"0.52",
+    "Price":"143.10",
+    "Chg":"-1.39",
+    "% Chg":"-0.96"
+  },
+  {
+    "#":"32",
+    "Company":"Lam Research Corp",
+    "Symbol":"LRCX",
+    "Weight":"0.51",
+    "Price":"260.71",
+    "Chg":"-2.45",
+    "% Chg":"-0.93"
+  },
+  {
+    "#":"33",
+    "Company":"Coca-Cola Co\/The",
+    "Symbol":"KO",
+    "Weight":"0.50",
+    "Price":"74.86",
+    "Chg":"-0.62",
+    "% Chg":"-0.82"
+  },
+  {
+    "#":"34",
+    "Company":"UnitedHealth Group Inc",
+    "Symbol":"UNH",
+    "Weight":"0.49",
+    "Price":"347.40",
+    "Chg":"23.92",
+    "% Chg":"7.39"
+  },
+  {
+    "#":"35",
+    "Company":"Applied Materials Inc",
+    "Symbol":"AMAT",
+    "Weight":"0.48",
+    "Price":"393.41",
+    "Chg":"1.79",
+    "% Chg":"0.46"
+  },
+  {
+    "#":"36",
+    "Company":"General Electric Co",
+    "Symbol":"GE",
+    "Weight":"0.47",
+    "Price":"288.34",
+    "Chg":"-15.26",
+    "% Chg":"-5.03"
+  },
+  {
+    "#":"37",
+    "Company":"Morgan Stanley",
+    "Symbol":"MS",
+    "Weight":"0.47",
+    "Price":"190.37",
+    "Chg":"-0.33",
+    "% Chg":"-0.17"
+  },
+  {
+    "#":"38",
+    "Company":"Merck & Co Inc",
+    "Symbol":"MRK",
+    "Weight":"0.43",
+    "Price":"112.49",
+    "Chg":"-4.61",
+    "% Chg":"-3.94"
+  },
+  {
+    "#":"39",
+    "Company":"Goldman Sachs Group Inc\/The",
+    "Symbol":"GS",
+    "Weight":"0.43",
+    "Price":"933.35",
+    "Chg":"-8.39",
+    "% Chg":"-0.89"
+  },
+  {
+    "#":"40",
+    "Company":"GE Vernova Inc",
+    "Symbol":"GEV",
+    "Weight":"0.42",
+    "Price":"994.60",
+    "Chg":"4.42",
+    "% Chg":"0.45"
+  },
+  {
+    "#":"41",
+    "Company":"RTX Corp",
+    "Symbol":"RTX",
+    "Weight":"0.39",
+    "Price":"188.33",
+    "Chg":"-7.46",
+    "% Chg":"-3.81"
+  },
+  {
+    "#":"42",
+    "Company":"Wells Fargo & Co",
+    "Symbol":"WFC",
+    "Weight":"0.39",
+    "Price":"81.84",
+    "Chg":"-0.13",
+    "% Chg":"-0.15"
+  },
+  {
+    "#":"43",
+    "Company":"Philip Morris International Inc",
+    "Symbol":"PM",
+    "Weight":"0.38",
+    "Price":"156.97",
+    "Chg":"-0.58",
+    "% Chg":"-0.37"
+  },
+  {
+    "#":"44",
+    "Company":"International Business Machines Corp",
+    "Symbol":"IBM",
+    "Weight":"0.37",
+    "Price":"254.71",
+    "Chg":"1.00",
+    "% Chg":"0.39"
+  },
+  {
+    "#":"45",
+    "Company":"KLA Corp",
+    "Symbol":"KLAC",
+    "Weight":"0.37",
+    "Price":"1798.11",
+    "Chg":"-7.21",
+    "% Chg":"-0.40"
+  },
+  {
+    "#":"46",
+    "Company":"Linde PLC",
+    "Symbol":"LIN",
+    "Weight":"0.36",
+    "Price":"496.97",
+    "Chg":"-1.18",
+    "% Chg":"-0.24"
+  },
+  {
+    "#":"47",
+    "Company":"American Express Co",
+    "Symbol":"AXP",
+    "Weight":"0.35",
+    "Price":"332.12",
+    "Chg":"2.25",
+    "% Chg":"0.68"
+  },
+  {
+    "#":"48",
+    "Company":"Citigroup Inc",
+    "Symbol":"C",
+    "Weight":"0.35",
+    "Price":"132.91",
+    "Chg":"-0.14",
+    "% Chg":"-0.10"
+  },
+  {
+    "#":"49",
+    "Company":"T-Mobile US Inc",
+    "Symbol":"TMUS",
+    "Weight":"0.34",
+    "Price":"197.30",
+    "Chg":"-1.06",
+    "% Chg":"-0.53"
+  },
+  {
+    "#":"50",
+    "Company":"Arista Networks Inc",
+    "Symbol":"ANET",
+    "Weight":"0.34",
+    "Price":"172.16",
+    "Chg":"5.31",
+    "% Chg":"3.18"
+  },
+  {
+    "#":"51",
+    "Company":"McDonald's Corp",
+    "Symbol":"MCD",
+    "Weight":"0.34",
+    "Price":"304.73",
+    "Chg":"-2.21",
+    "% Chg":"-0.72"
+  },
+  {
+    "#":"52",
+    "Company":"PepsiCo Inc",
+    "Symbol":"PEP",
+    "Weight":"0.33",
+    "Price":"154.75",
+    "Chg":"-2.24",
+    "% Chg":"-1.42"
+  },
+  {
+    "#":"53",
+    "Company":"Texas Instruments Inc",
+    "Symbol":"TXN",
+    "Weight":"0.33",
+    "Price":"231.52",
+    "Chg":"-2.18",
+    "% Chg":"-0.93"
+  },
+  {
+    "#":"54",
+    "Company":"Thermo Fisher Scientific Inc",
+    "Symbol":"TMO",
+    "Weight":"0.31",
+    "Price":"529.51",
+    "Chg":"3.49",
+    "% Chg":"0.66"
+  },
+  {
+    "#":"55",
+    "Company":"Verizon Communications Inc",
+    "Symbol":"VZ",
+    "Weight":"0.30",
+    "Price":"46.69",
+    "Chg":"0.25",
+    "% Chg":"0.54"
+  },
+  {
+    "#":"56",
+    "Company":"NextEra Energy Inc",
+    "Symbol":"NEE",
+    "Weight":"0.30",
+    "Price":"91.64",
+    "Chg":"-0.37",
+    "% Chg":"-0.40"
+  },
+  {
+    "#":"57",
+    "Company":"Amphenol Corp",
+    "Symbol":"APH",
+    "Weight":"0.29",
+    "Price":"153.33",
+    "Chg":"0.52",
+    "% Chg":"0.34"
+  },
+  {
+    "#":"58",
+    "Company":"Walt Disney Co\/The",
+    "Symbol":"DIS",
+    "Weight":"0.29",
+    "Price":"104.88",
+    "Chg":"-1.42",
+    "% Chg":"-1.34"
+  },
+  {
+    "#":"59",
+    "Company":"Amgen Inc",
+    "Symbol":"AMGN",
+    "Weight":"0.29",
+    "Price":"342.48",
+    "Chg":"-7.68",
+    "% Chg":"-2.19"
+  },
+  {
+    "#":"60",
+    "Company":"Analog Devices Inc",
+    "Symbol":"ADI",
+    "Weight":"0.28",
+    "Price":"375.10",
+    "Chg":"-5.95",
+    "% Chg":"-1.56"
+  },
+  {
+    "#":"61",
+    "Company":"AT&T Inc",
+    "Symbol":"T",
+    "Weight":"0.28",
+    "Price":"26.21",
+    "Chg":"0.04",
+    "% Chg":"0.13"
+  },
+  {
+    "#":"62",
+    "Company":"TJX Cos Inc\/The",
+    "Symbol":"TJX",
+    "Weight":"0.27",
+    "Price":"159.73",
+    "Chg":"0.04",
+    "% Chg":"0.03"
+  },
+  {
+    "#":"63",
+    "Company":"Boeing Co\/The",
+    "Symbol":"BA",
+    "Weight":"0.27",
+    "Price":"220.84",
+    "Chg":"-4.24",
+    "% Chg":"-1.88"
+  },
+  {
+    "#":"64",
+    "Company":"Gilead Sciences Inc",
+    "Symbol":"GILD",
+    "Weight":"0.26",
+    "Price":"132.78",
+    "Chg":"-3.09",
+    "% Chg":"-2.27"
+  },
+  {
+    "#":"65",
+    "Company":"Blackrock Inc",
+    "Symbol":"BLK",
+    "Weight":"0.25",
+    "Price":"1055.88",
+    "Chg":"7.46",
+    "% Chg":"0.71"
+  },
+  {
+    "#":"66",
+    "Company":"Abbott Laboratories",
+    "Symbol":"ABT",
+    "Weight":"0.25",
+    "Price":"94.29",
+    "Chg":"-1.71",
+    "% Chg":"-1.78"
+  },
+  {
+    "#":"67",
+    "Company":"Intuitive Surgical Inc",
+    "Symbol":"ISRG",
+    "Weight":"0.25",
+    "Price":"459.73",
+    "Chg":"-5.87",
+    "% Chg":"-1.26"
+  },
+  {
+    "#":"68",
+    "Company":"AppLovin Corp",
+    "Symbol":"APP",
+    "Weight":"0.25",
+    "Price":"481.67",
+    "Chg":"-9.29",
+    "% Chg":"-1.89"
+  },
+  {
+    "#":"69",
+    "Company":"Charles Schwab Corp\/The",
+    "Symbol":"SCHW",
+    "Weight":"0.25",
+    "Price":"92.57",
+    "Chg":"-0.58",
+    "% Chg":"-0.62"
+  },
+  {
+    "#":"70",
+    "Company":"Eaton Corp PLC",
+    "Symbol":"ETN",
+    "Weight":"0.25",
+    "Price":"412.53",
+    "Chg":"4.96",
+    "% Chg":"1.22"
+  },
+  {
+    "#":"71",
+    "Company":"Deere & Co",
+    "Symbol":"DE",
+    "Weight":"0.25",
+    "Price":"590.52",
+    "Chg":"-4.00",
+    "% Chg":"-0.67"
+  },
+  {
+    "#":"72",
+    "Company":"Uber Technologies Inc",
+    "Symbol":"UBER",
+    "Weight":"0.25",
+    "Price":"77.56",
+    "Chg":"0.07",
+    "% Chg":"0.08"
+  },
+  {
+    "#":"73",
+    "Company":"Pfizer Inc",
+    "Symbol":"PFE",
+    "Weight":"0.24",
+    "Price":"27.36",
+    "Chg":"-0.16",
+    "% Chg":"-0.57"
+  },
+  {
+    "#":"74",
+    "Company":"Salesforce Inc",
+    "Symbol":"CRM",
+    "Weight":"0.24",
+    "Price":"190.10",
+    "Chg":"3.83",
+    "% Chg":"2.06"
+  },
+  {
+    "#":"75",
+    "Company":"Booking Holdings Inc",
+    "Symbol":"BKNG",
+    "Weight":"0.24",
+    "Price":"192.32",
+    "Chg":"0.29",
+    "% Chg":"0.15"
+  },
+  {
+    "#":"76",
+    "Company":"Union Pacific Corp",
+    "Symbol":"UNP",
+    "Weight":"0.23",
+    "Price":"249.88",
+    "Chg":"-2.30",
+    "% Chg":"-0.91"
+  },
+  {
+    "#":"77",
+    "Company":"QUALCOMM Inc",
+    "Symbol":"QCOM",
+    "Weight":"0.23",
+    "Price":"136.61",
+    "Chg":"-0.91",
+    "% Chg":"-0.66"
+  },
+  {
+    "#":"78",
+    "Company":"Welltower Inc",
+    "Symbol":"WELL",
+    "Weight":"0.22",
+    "Price":"203.96",
+    "Chg":"-5.49",
+    "% Chg":"-2.62"
+  },
+  {
+    "#":"79",
+    "Company":"ConocoPhillips",
+    "Symbol":"COP",
+    "Weight":"0.22",
+    "Price":"117.75",
+    "Chg":"1.30",
+    "% Chg":"1.11"
+  },
+  {
+    "#":"80",
+    "Company":"Lowe's Cos Inc",
+    "Symbol":"LOW",
+    "Weight":"0.22",
+    "Price":"254.47",
+    "Chg":"1.18",
+    "% Chg":"0.46"
+  },
+  {
+    "#":"81",
+    "Company":"Palo Alto Networks Inc",
+    "Symbol":"PANW",
+    "Weight":"0.22",
+    "Price":"175.50",
+    "Chg":"5.94",
+    "% Chg":"3.51"
+  },
+  {
+    "#":"82",
+    "Company":"Corning Inc",
+    "Symbol":"GLW",
+    "Weight":"0.22",
+    "Price":"165.27",
+    "Chg":"-0.11",
+    "% Chg":"-0.07"
+  },
+  {
+    "#":"83",
+    "Company":"Honeywell International Inc",
+    "Symbol":"HON",
+    "Weight":"0.22",
+    "Price":"223.99",
+    "Chg":"-5.75",
+    "% Chg":"-2.50"
+  },
+  {
+    "#":"84",
+    "Company":"Danaher Corp",
+    "Symbol":"DHR",
+    "Weight":"0.21",
+    "Price":"195.65",
+    "Chg":"0.15",
+    "% Chg":"0.08"
+  },
+  {
+    "#":"85",
+    "Company":"Dell Technologies Inc",
+    "Symbol":"DELL",
+    "Weight":"0.21",
+    "Price":"209.48",
+    "Chg":"5.24",
+    "% Chg":"2.57"
+  },
+  {
+    "#":"86",
+    "Company":"Sandisk Corp\/DE",
+    "Symbol":"SNDK",
+    "Weight":"0.21",
+    "Price":"902.22",
+    "Chg":"-10.80",
+    "% Chg":"-1.18"
+  },
+  {
+    "#":"87",
+    "Company":"S&P Global Inc",
+    "Symbol":"SPGI",
+    "Weight":"0.21",
+    "Price":"449.13",
+    "Chg":"6.39",
+    "% Chg":"1.44"
+  },
+  {
+    "#":"88",
+    "Company":"Prologis Inc",
+    "Symbol":"PLD",
+    "Weight":"0.21",
+    "Price":"142.49",
+    "Chg":"-2.54",
+    "% Chg":"-1.75"
+  },
+  {
+    "#":"89",
+    "Company":"Lockheed Martin Corp",
+    "Symbol":"LMT",
+    "Weight":"0.20",
+    "Price":"571.23",
+    "Chg":"-10.05",
+    "% Chg":"-1.73"
+  },
+  {
+    "#":"90",
+    "Company":"Stryker Corp",
+    "Symbol":"SYK",
+    "Weight":"0.20",
+    "Price":"335.15",
+    "Chg":"-3.19",
+    "% Chg":"-0.94"
+  },
+  {
+    "#":"91",
+    "Company":"Capital One Financial Corp",
+    "Symbol":"COF",
+    "Weight":"0.20",
+    "Price":"205.24",
+    "Chg":"-0.47",
+    "% Chg":"-0.23"
+  },
+  {
+    "#":"92",
+    "Company":"Chubb Ltd",
+    "Symbol":"CB",
+    "Weight":"0.20",
+    "Price":"326.94",
+    "Chg":"-3.05",
+    "% Chg":"-0.93"
+  },
+  {
+    "#":"93",
+    "Company":"Western Digital Corp",
+    "Symbol":"WDC",
+    "Weight":"0.20",
+    "Price":"373.96",
+    "Chg":"-0.15",
+    "% Chg":"-0.04"
+  },
+  {
+    "#":"94",
+    "Company":"Parker-Hannifin Corp",
+    "Symbol":"PH",
+    "Weight":"0.19",
+    "Price":"976.69",
+    "Chg":"-19.75",
+    "% Chg":"-1.98"
+  },
+  {
+    "#":"95",
+    "Company":"Seagate Technology Holdings PLC",
+    "Symbol":"STX",
+    "Weight":"0.19",
+    "Price":"542.36",
+    "Chg":"2.61",
+    "% Chg":"0.48"
+  },
+  {
+    "#":"96",
+    "Company":"Vertiv Holdings",
+    "Symbol":"VRT",
+    "Weight":"0.19",
+    "Price":"317.31",
+    "Chg":"2.90",
+    "% Chg":"0.92"
+  },
+  {
+    "#":"97",
+    "Company":"Accenture PLC",
+    "Symbol":"ACN",
+    "Weight":"0.19",
+    "Price":"196.52",
+    "Chg":"1.46",
+    "% Chg":"0.75"
+  },
+  {
+    "#":"98",
+    "Company":"Progressive Corp\/The",
+    "Symbol":"PGR",
+    "Weight":"0.19",
+    "Price":"206.37",
+    "Chg":"2.59",
+    "% Chg":"1.27"
+  },
+  {
+    "#":"99",
+    "Company":"Bristol-Myers Squibb Co",
+    "Symbol":"BMY",
+    "Weight":"0.19",
+    "Price":"58.65",
+    "Chg":"-0.48",
+    "% Chg":"-0.81"
+  },
+  {
+    "#":"100",
+    "Company":"Newmont Corp",
+    "Symbol":"NEM",
+    "Weight":"0.19",
+    "Price":"110.76",
+    "Chg":"-4.08",
+    "% Chg":"-3.56"
+  },
+  {
+    "#":"101",
+    "Company":"Crowdstrike Holdings Inc",
+    "Symbol":"CRWD",
+    "Weight":"0.18",
+    "Price":"452.20",
+    "Chg":"19.05",
+    "% Chg":"4.40"
+  },
+  {
+    "#":"102",
+    "Company":"Intuit Inc",
+    "Symbol":"INTU",
+    "Weight":"0.18",
+    "Price":"412.08",
+    "Chg":"7.25",
+    "% Chg":"1.79"
+  },
+  {
+    "#":"103",
+    "Company":"Vertex Pharmaceuticals Inc",
+    "Symbol":"VRTX",
+    "Weight":"0.17",
+    "Price":"436.66",
+    "Chg":"-2.52",
+    "% Chg":"-0.57"
+  },
+  {
+    "#":"104",
+    "Company":"Starbucks Corp",
+    "Symbol":"SBUX",
+    "Weight":"0.17",
+    "Price":"97.45",
+    "Chg":"-1.50",
+    "% Chg":"-1.52"
+  },
+  {
+    "#":"105",
+    "Company":"Medtronic PLC",
+    "Symbol":"MDT",
+    "Weight":"0.17",
+    "Price":"84.27",
+    "Chg":"-0.73",
+    "% Chg":"-0.86"
+  },
+  {
+    "#":"106",
+    "Company":"Altria Group Inc",
+    "Symbol":"MO",
+    "Weight":"0.17",
+    "Price":"64.72",
+    "Chg":"0.11",
+    "% Chg":"0.17"
+  },
+  {
+    "#":"107",
+    "Company":"Equinix Inc",
+    "Symbol":"EQIX",
+    "Weight":"0.17",
+    "Price":"1091.34",
+    "Chg":"-12.63",
+    "% Chg":"-1.14"
+  },
+  {
+    "#":"108",
+    "Company":"Comcast Corp",
+    "Symbol":"CMCSA",
+    "Weight":"0.17",
+    "Price":"29.73",
+    "Chg":"0.00",
+    "% Chg":"0.02"
+  },
+  {
+    "#":"109",
+    "Company":"Trane Technologies PLC",
+    "Symbol":"TT",
+    "Weight":"0.16",
+    "Price":"479.63",
+    "Chg":"2.39",
     "% Chg":"0.50"
   },
   {
-    "#":"195",
-    "Company":"Sempra",
-    "Symbol":"SRE",
-    "Weight":"0.09",
-    "Price":"93.10",
-    "Chg":"-0.92",
-    "% Chg":"-0.98"
+    "#":"110",
+    "Company":"ServiceNow Inc",
+    "Symbol":"NOW",
+    "Weight":"0.16",
+    "Price":"102.42",
+    "Chg":"2.70",
+    "% Chg":"2.71"
   },
   {
-    "#":"196",
-    "Company":"Realty Income",
-    "Symbol":"O",
-    "Weight":"0.09",
-    "Price":"64.87",
-    "Chg":"-0.22",
-    "% Chg":"-0.34"
+    "#":"111",
+    "Company":"HCA Healthcare Inc",
+    "Symbol":"HCA",
+    "Weight":"0.16",
+    "Price":"472.95",
+    "Chg":"-5.18",
+    "% Chg":"-1.08"
   },
   {
-    "#":"197",
-    "Company":"Comfort Systems USA, Inc.",
-    "Symbol":"FIX",
-    "Weight":"0.09",
-    "Price":"1679.03",
-    "Chg":"28.56",
+    "#":"112",
+    "Company":"Southern Co\/The",
+    "Symbol":"SO",
+    "Weight":"0.16",
+    "Price":"92.82",
+    "Chg":"-0.69",
+    "% Chg":"-0.74"
+  },
+  {
+    "#":"113",
+    "Company":"CME Group Inc",
+    "Symbol":"CME",
+    "Weight":"0.16",
+    "Price":"285.16",
+    "Chg":"-2.29",
+    "% Chg":"-0.80"
+  },
+  {
+    "#":"114",
+    "Company":"McKesson Corp",
+    "Symbol":"MCK",
+    "Weight":"0.16",
+    "Price":"842.70",
+    "Chg":"-16.34",
+    "% Chg":"-1.90"
+  },
+  {
+    "#":"115",
+    "Company":"Blackstone Inc",
+    "Symbol":"BX",
+    "Weight":"0.16",
+    "Price":"131.22",
+    "Chg":"2.23",
     "% Chg":"1.73"
   },
   {
-    "#":"198",
-    "Company":"AutoZone",
-    "Symbol":"AZO",
-    "Weight":"0.09",
-    "Price":"3580.30",
-    "Chg":"7.92",
-    "% Chg":"0.22"
+    "#":"116",
+    "Company":"Adobe Inc",
+    "Symbol":"ADBE",
+    "Weight":"0.16",
+    "Price":"250.37",
+    "Chg":"1.74",
+    "% Chg":"0.70"
   },
   {
-    "#":"199",
-    "Company":"Aflac",
-    "Symbol":"AFL",
-    "Weight":"0.09",
-    "Price":"114.47",
-    "Chg":"-0.05",
-    "% Chg":"-0.05"
+    "#":"117",
+    "Company":"Constellation Energy Corp",
+    "Symbol":"CEG",
+    "Weight":"0.16",
+    "Price":"279.25",
+    "Chg":"-8.31",
+    "% Chg":"-2.89"
   },
   {
-    "#":"200",
-    "Company":"Target Corporation",
-    "Symbol":"TGT",
-    "Weight":"0.09",
-    "Price":"129.69",
-    "Chg":"1.85",
-    "% Chg":"1.45"
+    "#":"118",
+    "Company":"Howmet Aerospace Inc",
+    "Symbol":"HWM",
+    "Weight":"0.15",
+    "Price":"248.53",
+    "Chg":"-7.09",
+    "% Chg":"-2.77"
   },
   {
-    "#":"201",
-    "Company":"Teradyne",
-    "Symbol":"TER",
-    "Weight":"0.09",
-    "Price":"375.11",
-    "Chg":"-5.27",
-    "% Chg":"-1.39"
+    "#":"119",
+    "Company":"Marriott International Inc\/MD",
+    "Symbol":"MAR",
+    "Weight":"0.15",
+    "Price":"374.92",
+    "Chg":"-3.80",
+    "% Chg":"-1.00"
   },
   {
-    "#":"202",
-    "Company":"Baker Hughes",
-    "Symbol":"BKR",
-    "Weight":"0.09",
-    "Price":"58.77",
-    "Chg":"-1.02",
-    "% Chg":"-1.70"
+    "#":"120",
+    "Company":"CVS Health Corp",
+    "Symbol":"CVS",
+    "Weight":"0.15",
+    "Price":"77.11",
+    "Chg":"0.53",
+    "% Chg":"0.69"
   },
   {
-    "#":"203",
-    "Company":"Keysight Technologies",
-    "Symbol":"KEYS",
-    "Weight":"0.09",
-    "Price":"335.41",
-    "Chg":"1.07",
-    "% Chg":"0.32"
+    "#":"121",
+    "Company":"Duke Energy Corp",
+    "Symbol":"DUK",
+    "Weight":"0.15",
+    "Price":"126.80",
+    "Chg":"-1.06",
+    "% Chg":"-0.83"
   },
   {
-    "#":"204",
-    "Company":"Arthur J. Gallagher & Co.",
-    "Symbol":"AJG",
-    "Weight":"0.09",
-    "Price":"222.74",
-    "Chg":"1.13",
-    "% Chg":"0.51"
+    "#":"122",
+    "Company":"Freeport-McMoRan Inc",
+    "Symbol":"FCX",
+    "Weight":"0.15",
+    "Price":"68.63",
+    "Chg":"-1.55",
+    "% Chg":"-2.21"
   },
   {
-    "#":"205",
-    "Company":"Carvana Co.",
-    "Symbol":"CVNA",
-    "Weight":"0.09",
-    "Price":"397.95",
-    "Chg":"10.42",
+    "#":"123",
+    "Company":"Bank of New York Mellon Corp\/The",
+    "Symbol":"BK",
+    "Weight":"0.15",
+    "Price":"137.42",
+    "Chg":"2.05",
+    "% Chg":"1.52"
+  },
+  {
+    "#":"124",
+    "Company":"KKR & Co Inc",
+    "Symbol":"KKR",
+    "Weight":"0.15",
+    "Price":"105.72",
+    "Chg":"1.80",
+    "% Chg":"1.73"
+  },
+  {
+    "#":"125",
+    "Company":"FedEx Corp",
+    "Symbol":"FDX",
+    "Weight":"0.15",
+    "Price":"393.13",
+    "Chg":"-0.63",
+    "% Chg":"-0.16"
+  },
+  {
+    "#":"126",
+    "Company":"PNC Financial Services Group Inc\/The",
+    "Symbol":"PNC",
+    "Weight":"0.14",
+    "Price":"227.88",
+    "Chg":"0.85",
+    "% Chg":"0.38"
+  },
+  {
+    "#":"127",
+    "Company":"Boston Scientific Corp",
+    "Symbol":"BSX",
+    "Weight":"0.14",
+    "Price":"61.14",
+    "Chg":"0.15",
+    "% Chg":"0.24"
+  },
+  {
+    "#":"128",
+    "Company":"Quanta Services Inc",
+    "Symbol":"PWR",
+    "Weight":"0.14",
+    "Price":"604.91",
+    "Chg":"-0.06",
+    "% Chg":"-0.01"
+  },
+  {
+    "#":"129",
+    "Company":"Cadence Design Systems Inc",
+    "Symbol":"CDNS",
+    "Weight":"0.14",
+    "Price":"328.24",
+    "Chg":"9.74",
+    "% Chg":"3.06"
+  },
+  {
+    "#":"130",
+    "Company":"Intercontinental Exchange Inc",
+    "Symbol":"ICE",
+    "Weight":"0.14",
+    "Price":"159.97",
+    "Chg":"-0.64",
+    "% Chg":"-0.40"
+  },
+  {
+    "#":"131",
+    "Company":"Synopsys Inc",
+    "Symbol":"SNPS",
+    "Weight":"0.14",
+    "Price":"473.01",
+    "Chg":"12.06",
+    "% Chg":"2.62"
+  },
+  {
+    "#":"132",
+    "Company":"United Parcel Service Inc",
+    "Symbol":"UPS",
+    "Weight":"0.14",
+    "Price":"106.15",
+    "Chg":"-0.96",
+    "% Chg":"-0.90"
+  },
+  {
+    "#":"133",
+    "Company":"Waste Management Inc",
+    "Symbol":"WM",
+    "Weight":"0.14",
+    "Price":"222.98",
+    "Chg":"-1.20",
+    "% Chg":"-0.53"
+  },
+  {
+    "#":"134",
+    "Company":"US Bancorp",
+    "Symbol":"USB",
+    "Weight":"0.14",
+    "Price":"57.00",
+    "Chg":"0.00",
+    "% Chg":"0.01"
+  },
+  {
+    "#":"135",
+    "Company":"General Dynamics Corp",
+    "Symbol":"GD",
+    "Weight":"0.14",
+    "Price":"326.11",
+    "Chg":"-6.03",
+    "% Chg":"-1.82"
+  },
+  {
+    "#":"136",
+    "Company":"Cummins Inc",
+    "Symbol":"CMI",
+    "Weight":"0.14",
+    "Price":"638.18",
+    "Chg":"1.57",
+    "% Chg":"0.25"
+  },
+  {
+    "#":"137",
+    "Company":"Northrop Grumman Corp",
+    "Symbol":"NOC",
+    "Weight":"0.14",
+    "Price":"619.31",
+    "Chg":"-37.67",
+    "% Chg":"-5.73"
+  },
+  {
+    "#":"138",
+    "Company":"Airbnb Inc",
+    "Symbol":"ABNB",
+    "Weight":"0.13",
+    "Price":"143.97",
+    "Chg":"0.38",
+    "% Chg":"0.26"
+  },
+  {
+    "#":"139",
+    "Company":"Johnson Controls International plc",
+    "Symbol":"JCI",
+    "Weight":"0.13",
+    "Price":"140.88",
+    "Chg":"-0.10",
+    "% Chg":"-0.07"
+  },
+  {
+    "#":"140",
+    "Company":"Williams Cos Inc\/The",
+    "Symbol":"WMB",
+    "Weight":"0.13",
+    "Price":"70.27",
+    "Chg":"-0.64",
+    "% Chg":"-0.90"
+  },
+  {
+    "#":"141",
+    "Company":"Marsh & McLennan Cos Inc",
+    "Symbol":"MRSH",
+    "Weight":"0.13",
+    "Price":"175.57",
+    "Chg":"0.98",
+    "% Chg":"0.56"
+  },
+  {
+    "#":"142",
+    "Company":"Sherwin-Williams Co\/The",
+    "Symbol":"SHW",
+    "Weight":"0.13",
+    "Price":"340.21",
+    "Chg":"-3.72",
+    "% Chg":"-1.08"
+  },
+  {
+    "#":"143",
+    "Company":"Moody's Corp",
+    "Symbol":"MCO",
+    "Weight":"0.13",
+    "Price":"467.68",
+    "Chg":"7.76",
+    "% Chg":"1.69"
+  },
+  {
+    "#":"144",
+    "Company":"American Tower Corp",
+    "Symbol":"AMT",
+    "Weight":"0.13",
+    "Price":"177.41",
+    "Chg":"-4.25",
+    "% Chg":"-2.34"
+  },
+  {
+    "#":"145",
+    "Company":"Automatic Data Processing Inc",
+    "Symbol":"ADP",
+    "Weight":"0.13",
+    "Price":"203.82",
+    "Chg":"1.43",
+    "% Chg":"0.71"
+  },
+  {
+    "#":"146",
+    "Company":"Emerson Electric Co",
+    "Symbol":"EMR",
+    "Weight":"0.13",
+    "Price":"145.86",
+    "Chg":"-0.91",
+    "% Chg":"-0.62"
+  },
+  {
+    "#":"147",
+    "Company":"DoorDash Inc",
+    "Symbol":"DASH",
+    "Weight":"0.13",
+    "Price":"187.70",
+    "Chg":"-2.10",
+    "% Chg":"-1.11"
+  },
+  {
+    "#":"148",
+    "Company":"CSX Corp",
+    "Symbol":"CSX",
+    "Weight":"0.13",
+    "Price":"43.45",
+    "Chg":"-0.26",
+    "% Chg":"-0.59"
+  },
+  {
+    "#":"149",
+    "Company":"SLB Ltd",
+    "Symbol":"SLB",
+    "Weight":"0.12",
+    "Price":"52.89",
+    "Chg":"0.69",
+    "% Chg":"1.32"
+  },
+  {
+    "#":"150",
+    "Company":"Robinhood Markets Inc",
+    "Symbol":"HOOD",
+    "Weight":"0.12",
+    "Price":"87.67",
+    "Chg":"-3.61",
+    "% Chg":"-3.95"
+  },
+  {
+    "#":"151",
+    "Company":"CRH PLC",
+    "Symbol":"CRH",
+    "Weight":"0.12",
+    "Price":"118.10",
+    "Chg":"-0.46",
+    "% Chg":"-0.39"
+  },
+  {
+    "#":"152",
+    "Company":"3M Co",
+    "Symbol":"MMM",
+    "Weight":"0.12",
+    "Price":"150.44",
+    "Chg":"-0.96",
+    "% Chg":"-0.63"
+  },
+  {
+    "#":"153",
+    "Company":"Illinois Tool Works Inc",
+    "Symbol":"ITW",
+    "Weight":"0.12",
+    "Price":"271.58",
+    "Chg":"-1.10",
+    "% Chg":"-0.40"
+  },
+  {
+    "#":"154",
+    "Company":"Regeneron Pharmaceuticals Inc",
+    "Symbol":"REGN",
+    "Weight":"0.12",
+    "Price":"739.82",
+    "Chg":"-9.59",
+    "% Chg":"-1.28"
+  },
+  {
+    "#":"155",
+    "Company":"O'Reilly Automotive Inc",
+    "Symbol":"ORLY",
+    "Weight":"0.12",
+    "Price":"93.19",
+    "Chg":"0.36",
+    "% Chg":"0.39"
+  },
+  {
+    "#":"156",
+    "Company":"Hilton Worldwide Holdings Inc",
+    "Symbol":"HLT",
+    "Weight":"0.12",
+    "Price":"340.15",
+    "Chg":"-2.74",
+    "% Chg":"-0.80"
+  },
+  {
+    "#":"157",
+    "Company":"Ecolab Inc",
+    "Symbol":"ECL",
+    "Weight":"0.12",
+    "Price":"273.49",
+    "Chg":"-2.19",
+    "% Chg":"-0.79"
+  },
+  {
+    "#":"158",
+    "Company":"Apollo Global Management Inc",
+    "Symbol":"APO",
+    "Weight":"0.12",
+    "Price":"129.24",
+    "Chg":"1.91",
+    "% Chg":"1.50"
+  },
+  {
+    "#":"159",
+    "Company":"Royal Caribbean Cruises Ltd",
+    "Symbol":"RCL",
+    "Weight":"0.12",
+    "Price":"275.72",
+    "Chg":"-6.55",
+    "% Chg":"-2.32"
+  },
+  {
+    "#":"160",
+    "Company":"Monolithic Power Systems Inc",
+    "Symbol":"MPWR",
+    "Weight":"0.12",
+    "Price":"1509.10",
+    "Chg":"18.24",
+    "% Chg":"1.22"
+  },
+  {
+    "#":"161",
+    "Company":"Cigna Group\/The",
+    "Symbol":"CI",
+    "Weight":"0.12",
+    "Price":"281.11",
+    "Chg":"1.19",
+    "% Chg":"0.43"
+  },
+  {
+    "#":"162",
+    "Company":"Motorola Solutions Inc",
+    "Symbol":"MSI",
+    "Weight":"0.11",
+    "Price":"444.99",
+    "Chg":"-1.93",
+    "% Chg":"-0.43"
+  },
+  {
+    "#":"163",
+    "Company":"Monster Beverage Corp",
+    "Symbol":"MNST",
+    "Weight":"0.11",
+    "Price":"75.31",
+    "Chg":"-1.92",
+    "% Chg":"-2.48"
+  },
+  {
+    "#":"164",
+    "Company":"TE Connectivity PLC",
+    "Symbol":"TEL",
+    "Weight":"0.11",
+    "Price":"249.45",
+    "Chg":"1.79",
+    "% Chg":"0.72"
+  },
+  {
+    "#":"165",
+    "Company":"Ross Stores Inc",
+    "Symbol":"ROST",
+    "Weight":"0.11",
+    "Price":"226.33",
+    "Chg":"-1.92",
+    "% Chg":"-0.84"
+  },
+  {
+    "#":"166",
+    "Company":"Mondelez International Inc",
+    "Symbol":"MDLZ",
+    "Weight":"0.11",
+    "Price":"56.57",
+    "Chg":"-0.74",
+    "% Chg":"-1.29"
+  },
+  {
+    "#":"167",
+    "Company":"General Motors Co",
+    "Symbol":"GM",
+    "Weight":"0.11",
+    "Price":"80.28",
+    "Chg":"-0.26",
+    "% Chg":"-0.32"
+  },
+  {
+    "#":"168",
+    "Company":"American Electric Power Co Inc",
+    "Symbol":"AEP",
+    "Weight":"0.11",
+    "Price":"132.92",
+    "Chg":"-0.36",
+    "% Chg":"-0.27"
+  },
+  {
+    "#":"169",
+    "Company":"Elevance Health Inc",
+    "Symbol":"ELV",
+    "Weight":"0.11",
+    "Price":"327.96",
+    "Chg":"8.60",
     "% Chg":"2.69"
   },
   {
-    "#":"206",
-    "Company":"Coinbase Global",
-    "Symbol":"COIN",
+    "#":"170",
+    "Company":"Aon PLC",
+    "Symbol":"AON",
+    "Weight":"0.11",
+    "Price":"333.75",
+    "Chg":"1.80",
+    "% Chg":"0.54"
+  },
+  {
+    "#":"171",
+    "Company":"Cintas Corp",
+    "Symbol":"CTAS",
+    "Weight":"0.11",
+    "Price":"178.22",
+    "Chg":"-0.47",
+    "% Chg":"-0.26"
+  },
+  {
+    "#":"172",
+    "Company":"Ciena",
+    "Symbol":"CIEN",
+    "Weight":"0.11",
+    "Price":"496.48",
+    "Chg":"-6.79",
+    "% Chg":"-1.35"
+  },
+  {
+    "#":"173",
+    "Company":"Kinder Morgan Inc",
+    "Symbol":"KMI",
+    "Weight":"0.11",
+    "Price":"31.49",
+    "Chg":"-0.45",
+    "% Chg":"-1.41"
+  },
+  {
+    "#":"174",
+    "Company":"EOG Resources Inc",
+    "Symbol":"EOG",
+    "Weight":"0.11",
+    "Price":"130.71",
+    "Chg":"1.55",
+    "% Chg":"1.20"
+  },
+  {
+    "#":"175",
+    "Company":"Digital Realty Trust Inc",
+    "Symbol":"DLR",
+    "Weight":"0.11",
+    "Price":"202.22",
+    "Chg":"-1.69",
+    "% Chg":"-0.83"
+  },
+  {
+    "#":"176",
+    "Company":"TransDigm Group Inc",
+    "Symbol":"TDG",
+    "Weight":"0.11",
+    "Price":"1218.25",
+    "Chg":"-56.37",
+    "% Chg":"-4.42"
+  },
+  {
+    "#":"177",
+    "Company":"Warner Bros Discovery Inc",
+    "Symbol":"WBD",
+    "Weight":"0.11",
+    "Price":"27.39",
+    "Chg":"-0.04",
+    "% Chg":"-0.13"
+  },
+  {
+    "#":"178",
+    "Company":"Valero Energy Corp",
+    "Symbol":"VLO",
+    "Weight":"0.11",
+    "Price":"229.44",
+    "Chg":"3.16",
+    "% Chg":"1.40"
+  },
+  {
+    "#":"179",
+    "Company":"NIKE Inc",
+    "Symbol":"NKE",
+    "Weight":"0.11",
+    "Price":"46.29",
+    "Chg":"-0.19",
+    "% Chg":"-0.40"
+  },
+  {
+    "#":"180",
+    "Company":"Norfolk Southern Corp",
+    "Symbol":"NSC",
+    "Weight":"0.11",
+    "Price":"302.27",
+    "Chg":"-1.86",
+    "% Chg":"-0.61"
+  },
+  {
+    "#":"181",
+    "Company":"PACCAR Inc",
+    "Symbol":"PCAR",
+    "Weight":"0.10",
+    "Price":"127.68",
+    "Chg":"-0.63",
+    "% Chg":"-0.49"
+  },
+  {
+    "#":"182",
+    "Company":"Simon Property Group Inc",
+    "Symbol":"SPG",
+    "Weight":"0.10",
+    "Price":"205.31",
+    "Chg":"-2.25",
+    "% Chg":"-1.09"
+  },
+  {
+    "#":"183",
+    "Company":"Colgate-Palmolive Co",
+    "Symbol":"CL",
+    "Weight":"0.10",
+    "Price":"82.55",
+    "Chg":"-0.98",
+    "% Chg":"-1.17"
+  },
+  {
+    "#":"184",
+    "Company":"Air Products and Chemicals Inc",
+    "Symbol":"APD",
+    "Weight":"0.10",
+    "Price":"296.71",
+    "Chg":"0.56",
+    "% Chg":"0.19"
+  },
+  {
+    "#":"185",
+    "Company":"Coherent",
+    "Symbol":"COHR",
+    "Weight":"0.10",
+    "Price":"343.98",
+    "Chg":"-3.53",
+    "% Chg":"-1.01"
+  },
+  {
+    "#":"186",
+    "Company":"Marathon Petroleum Corp",
+    "Symbol":"MPC",
+    "Weight":"0.10",
+    "Price":"216.76",
+    "Chg":"2.64",
+    "% Chg":"1.23"
+  },
+  {
+    "#":"187",
+    "Company":"Republic Services Inc",
+    "Symbol":"RSG",
+    "Weight":"0.10",
+    "Price":"206.55",
+    "Chg":"-1.90",
+    "% Chg":"-0.91"
+  },
+  {
+    "#":"188",
+    "Company":"Travelers Cos Inc\/The",
+    "Symbol":"TRV",
+    "Weight":"0.10",
+    "Price":"299.32",
+    "Chg":"-1.46",
+    "% Chg":"-0.48"
+  },
+  {
+    "#":"189",
+    "Company":"Truist Financial Corp",
+    "Symbol":"TFC",
+    "Weight":"0.10",
+    "Price":"51.08",
+    "Chg":"0.24",
+    "% Chg":"0.47"
+  },
+  {
+    "#":"190",
+    "Company":"L3Harris Technologies Inc",
+    "Symbol":"LHX",
+    "Weight":"0.10",
+    "Price":"339.08",
+    "Chg":"-9.49",
+    "% Chg":"-2.72"
+  },
+  {
+    "#":"191",
+    "Company":"Phillips 66",
+    "Symbol":"PSX",
+    "Weight":"0.10",
+    "Price":"157.59",
+    "Chg":"1.84",
+    "% Chg":"1.18"
+  },
+  {
+    "#":"192",
+    "Company":"Fortinet Inc",
+    "Symbol":"FTNT",
+    "Weight":"0.10",
+    "Price":"84.95",
+    "Chg":"2.35",
+    "% Chg":"2.84"
+  },
+  {
+    "#":"193",
+    "Company":"Cencora Inc",
+    "Symbol":"COR",
+    "Weight":"0.10",
+    "Price":"314.95",
+    "Chg":"-8.06",
+    "% Chg":"-2.50"
+  },
+  {
+    "#":"194",
+    "Company":"Sempra",
+    "Symbol":"SRE",
     "Weight":"0.09",
-    "Price":"211.80",
-    "Chg":"5.47",
-    "% Chg":"2.65"
+    "Price":"93.28",
+    "Chg":"-0.10",
+    "% Chg":"-0.11"
+  },
+  {
+    "#":"195",
+    "Company":"Lumentum Holdings",
+    "Symbol":"LITE",
+    "Weight":"0.09",
+    "Price":"851.91",
+    "Chg":"-43.20",
+    "% Chg":"-4.83"
+  },
+  {
+    "#":"196",
+    "Company":"Target Corp",
+    "Symbol":"TGT",
+    "Weight":"0.09",
+    "Price":"132.41",
+    "Chg":"2.23",
+    "% Chg":"1.71"
+  },
+  {
+    "#":"197",
+    "Company":"Realty Income Corp",
+    "Symbol":"O",
+    "Weight":"0.09",
+    "Price":"64.16",
+    "Chg":"-0.76",
+    "% Chg":"-1.17"
+  },
+  {
+    "#":"198",
+    "Company":"Aflac Inc",
+    "Symbol":"AFL",
+    "Weight":"0.09",
+    "Price":"115.45",
+    "Chg":"0.78",
+    "% Chg":"0.68"
+  },
+  {
+    "#":"199",
+    "Company":"Baker Hughes Co",
+    "Symbol":"BKR",
+    "Weight":"0.09",
+    "Price":"59.93",
+    "Chg":"0.76",
+    "% Chg":"1.29"
+  },
+  {
+    "#":"200",
+    "Company":"AutoZone Inc",
+    "Symbol":"AZO",
+    "Weight":"0.09",
+    "Price":"3599.06",
+    "Chg":"16.56",
+    "% Chg":"0.46"
+  },
+  {
+    "#":"201",
+    "Company":"Teradyne Inc",
+    "Symbol":"TER",
+    "Weight":"0.09",
+    "Price":"377.88",
+    "Chg":"2.67",
+    "% Chg":"0.71"
+  },
+  {
+    "#":"202",
+    "Company":"Comfort Systems USA Inc",
+    "Symbol":"FIX",
+    "Weight":"0.09",
+    "Price":"1672.96",
+    "Chg":"-7.13",
+    "% Chg":"-0.42"
+  },
+  {
+    "#":"203",
+    "Company":"Keysight Technologies Inc",
+    "Symbol":"KEYS",
+    "Weight":"0.09",
+    "Price":"337.94",
+    "Chg":"2.80",
+    "% Chg":"0.84"
+  },
+  {
+    "#":"204",
+    "Company":"Arthur J Gallagher & Co",
+    "Symbol":"AJG",
+    "Weight":"0.09",
+    "Price":"224.01",
+    "Chg":"0.94",
+    "% Chg":"0.42"
+  },
+  {
+    "#":"205",
+    "Company":"Carvana Co",
+    "Symbol":"CVNA",
+    "Weight":"0.09",
+    "Price":"400.58",
+    "Chg":"-1.41",
+    "% Chg":"-0.35"
+  },
+  {
+    "#":"206",
+    "Company":"NXP Semiconductors NV",
+    "Symbol":"NXPI",
+    "Weight":"0.09",
+    "Price":"224.12",
+    "Chg":"2.78",
+    "% Chg":"1.25"
   },
   {
     "#":"207",
-    "Company":"NXP Semiconductors",
-    "Symbol":"NXPI",
+    "Company":"Allstate Corp\/The",
+    "Symbol":"ALL",
     "Weight":"0.09",
-    "Price":"220.65",
-    "Chg":"4.62",
-    "% Chg":"2.14"
+    "Price":"215.97",
+    "Chg":"0.82",
+    "% Chg":"0.38"
   },
   {
     "#":"208",
-    "Company":"Allstate",
-    "Symbol":"ALL",
+    "Company":"WW Grainger Inc",
+    "Symbol":"GWW",
     "Weight":"0.09",
-    "Price":"214.86",
-    "Chg":"-1.30",
-    "% Chg":"-0.60"
+    "Price":"1165.85",
+    "Chg":"2.75",
+    "% Chg":"0.24"
   },
   {
     "#":"209",
-    "Company":"W. W. Grainger",
-    "Symbol":"GWW",
+    "Company":"Occidental Petroleum Corp",
+    "Symbol":"OXY",
     "Weight":"0.09",
-    "Price":"1163.06",
-    "Chg":"0.12",
-    "% Chg":"0.01"
+    "Price":"55.35",
+    "Chg":"0.87",
+    "% Chg":"1.60"
   },
   {
     "#":"210",
     "Company":"Public Storage",
     "Symbol":"PSA",
     "Weight":"0.08",
-    "Price":"311.19",
-    "Chg":"1.97",
-    "% Chg":"0.64"
+    "Price":"309.58",
+    "Chg":"-2.59",
+    "% Chg":"-0.83"
   },
   {
     "#":"211",
-    "Company":"Dominion Energy",
+    "Company":"Dominion Energy Inc",
     "Symbol":"D",
     "Weight":"0.08",
-    "Price":"61.99",
-    "Chg":"-0.43",
-    "% Chg":"-0.69"
+    "Price":"61.59",
+    "Chg":"-0.63",
+    "% Chg":"-1.01"
   },
   {
     "#":"212",
-    "Company":"Ametek",
-    "Symbol":"AME",
+    "Company":"Corteva Inc",
+    "Symbol":"CTVA",
     "Weight":"0.08",
-    "Price":"236.76",
-    "Chg":"0.50",
-    "% Chg":"0.21"
+    "Price":"80.22",
+    "Chg":"-0.07",
+    "% Chg":"-0.08"
   },
   {
     "#":"213",
-    "Company":"Occidental Petroleum",
-    "Symbol":"OXY",
+    "Company":"AMETEK Inc",
+    "Symbol":"AME",
     "Weight":"0.08",
-    "Price":"54.42",
-    "Chg":"0.63",
-    "% Chg":"1.17"
-  },
-  {
-    "#":"214",
-    "Company":"Corteva",
-    "Symbol":"CTVA",
-    "Weight":"0.08",
-    "Price":"80.18",
-    "Chg":"-0.16",
-    "% Chg":"-0.20"
-  },
-  {
-    "#":"215",
-    "Company":"Vistra Corp.",
-    "Symbol":"VST",
-    "Weight":"0.08",
-    "Price":"158.71",
-    "Chg":"-4.75",
-    "% Chg":"-2.90"
-  },
-  {
-    "#":"216",
-    "Company":"ONEOK",
-    "Symbol":"OKE",
-    "Weight":"0.08",
-    "Price":"83.59",
-    "Chg":"0.08",
-    "% Chg":"0.09"
-  },
-  {
-    "#":"217",
-    "Company":"Fastenal",
-    "Symbol":"FAST",
-    "Weight":"0.08",
-    "Price":"45.51",
-    "Chg":"-0.27",
-    "% Chg":"-0.60"
-  },
-  {
-    "#":"218",
-    "Company":"Entergy",
-    "Symbol":"ETR",
-    "Weight":"0.08",
-    "Price":"113.25",
-    "Chg":"-2.27",
-    "% Chg":"-1.97"
-  },
-  {
-    "#":"219",
-    "Company":"Autodesk",
-    "Symbol":"ADSK",
-    "Weight":"0.08",
-    "Price":"244.69",
-    "Chg":"2.67",
-    "% Chg":"1.11"
-  },
-  {
-    "#":"220",
-    "Company":"Zoetis",
-    "Symbol":"ZTS",
-    "Weight":"0.08",
-    "Price":"122.64",
-    "Chg":"0.26",
-    "% Chg":"0.21"
-  },
-  {
-    "#":"221",
-    "Company":"Diamondback Energy",
-    "Symbol":"FANG",
-    "Weight":"0.08",
-    "Price":"183.26",
-    "Chg":"2.99",
-    "% Chg":"1.66"
-  },
-  {
-    "#":"222",
-    "Company":"Carrier Global",
-    "Symbol":"CARR",
-    "Weight":"0.08",
-    "Price":"61.70",
-    "Chg":"0.38",
-    "% Chg":"0.61"
-  },
-  {
-    "#":"223",
-    "Company":"Ford Motor Company",
-    "Symbol":"F",
-    "Weight":"0.08",
-    "Price":"12.84",
-    "Chg":"-0.03",
-    "% Chg":"-0.27"
-  },
-  {
-    "#":"224",
-    "Company":"Garmin",
-    "Symbol":"GRMN",
-    "Weight":"0.08",
-    "Price":"266.92",
-    "Chg":"-0.50",
-    "% Chg":"-0.19"
-  },
-  {
-    "#":"225",
-    "Company":"United Rentals",
-    "Symbol":"URI",
-    "Weight":"0.08",
-    "Price":"816.47",
-    "Chg":"20.32",
-    "% Chg":"2.55"
-  },
-  {
-    "#":"226",
-    "Company":"Electronic Arts",
-    "Symbol":"EA",
-    "Weight":"0.08",
-    "Price":"203.27",
-    "Chg":"-0.56",
-    "% Chg":"-0.27"
-  },
-  {
-    "#":"227",
-    "Company":"MetLife",
-    "Symbol":"MET",
-    "Weight":"0.08",
-    "Price":"77.56",
-    "Chg":"-0.52",
-    "% Chg":"-0.66"
-  },
-  {
-    "#":"228",
-    "Company":"Xcel Energy",
-    "Symbol":"XEL",
-    "Weight":"0.08",
-    "Price":"80.40",
-    "Chg":"-0.68",
-    "% Chg":"-0.84"
-  },
-  {
-    "#":"229",
-    "Company":"Nasdaq, Inc.",
-    "Symbol":"NDAQ",
-    "Weight":"0.08",
-    "Price":"87.49",
-    "Chg":"-1.12",
-    "% Chg":"-1.27"
-  },
-  {
-    "#":"230",
-    "Company":"Cardinal Health",
-    "Symbol":"CAH",
-    "Weight":"0.08",
-    "Price":"210.87",
-    "Chg":"-3.12",
-    "% Chg":"-1.46"
-  },
-  {
-    "#":"231",
-    "Company":"Targa Resources",
-    "Symbol":"TRGP",
-    "Weight":"0.08",
-    "Price":"230.73",
-    "Chg":"-4.77",
-    "% Chg":"-2.03"
-  },
-  {
-    "#":"232",
-    "Company":"eBay",
-    "Symbol":"EBAY",
-    "Weight":"0.07",
-    "Price":"106.72",
-    "Chg":"2.07",
-    "% Chg":"1.98"
-  },
-  {
-    "#":"233",
-    "Company":"Exelon",
-    "Symbol":"EXC",
-    "Weight":"0.07",
-    "Price":"46.40",
-    "Chg":"-0.62",
-    "% Chg":"-1.33"
-  },
-  {
-    "#":"234",
-    "Company":"Edwards Lifesciences",
-    "Symbol":"EW",
-    "Weight":"0.07",
-    "Price":"81.85",
-    "Chg":"0.86",
-    "% Chg":"1.06"
-  },
-  {
-    "#":"235",
-    "Company":"Delta Air Lines",
-    "Symbol":"DAL",
-    "Weight":"0.07",
-    "Price":"71.05",
-    "Chg":"-0.67",
-    "% Chg":"-0.93"
-  },
-  {
-    "#":"236",
-    "Company":"Chipotle Mexican Grill",
-    "Symbol":"CMG",
-    "Weight":"0.07",
-    "Price":"35.74",
-    "Chg":"-0.09",
-    "% Chg":"-0.24"
-  },
-  {
-    "#":"237",
-    "Company":"Old Dominion",
-    "Symbol":"ODFL",
-    "Weight":"0.07",
-    "Price":"223.16",
-    "Chg":"5.40",
-    "% Chg":"2.48"
-  },
-  {
-    "#":"238",
-    "Company":"Rockwell Automation",
-    "Symbol":"ROK",
-    "Weight":"0.07",
-    "Price":"413.73",
-    "Chg":"-2.00",
-    "% Chg":"-0.48"
-  },
-  {
-    "#":"239",
-    "Company":"PayPal",
-    "Symbol":"PYPL",
-    "Weight":"0.07",
-    "Price":"51.41",
-    "Chg":"0.59",
-    "% Chg":"1.17"
-  },
-  {
-    "#":"240",
-    "Company":"Idexx Laboratories",
-    "Symbol":"IDXX",
-    "Weight":"0.07",
-    "Price":"581.15",
-    "Chg":"-8.10",
-    "% Chg":"-1.37"
-  },
-  {
-    "#":"241",
-    "Company":"Fifth Third Bancorp",
-    "Symbol":"FITB",
-    "Weight":"0.07",
-    "Price":"50.88",
-    "Chg":"0.53",
-    "% Chg":"1.06"
-  },
-  {
-    "#":"242",
-    "Company":"Nucor",
-    "Symbol":"NUE",
-    "Weight":"0.07",
-    "Price":"202.30",
-    "Chg":"6.43",
-    "% Chg":"3.28"
-  },
-  {
-    "#":"243",
-    "Company":"Datadog",
-    "Symbol":"DDOG",
-    "Weight":"0.07",
-    "Price":"129.03",
-    "Chg":"2.42",
-    "% Chg":"1.91"
-  },
-  {
-    "#":"244",
-    "Company":"Wabtec",
-    "Symbol":"WAB",
-    "Weight":"0.07",
-    "Price":"265.15",
-    "Chg":"1.78",
-    "% Chg":"0.68"
-  },
-  {
-    "#":"245",
-    "Company":"Becton Dickinson",
-    "Symbol":"BDX",
-    "Weight":"0.07",
-    "Price":"157.61",
-    "Chg":"-0.93",
-    "% Chg":"-0.59"
-  },
-  {
-    "#":"246",
-    "Company":"Yum! Brands",
-    "Symbol":"YUM",
-    "Weight":"0.07",
-    "Price":"161.72",
-    "Chg":"-1.07",
-    "% Chg":"-0.66"
-  },
-  {
-    "#":"247",
-    "Company":"CBRE Group",
-    "Symbol":"CBRE",
-    "Weight":"0.07",
-    "Price":"152.25",
-    "Chg":"0.75",
-    "% Chg":"0.49"
-  },
-  {
-    "#":"248",
-    "Company":"Block, Inc.",
-    "Symbol":"XYZ",
-    "Weight":"0.07",
-    "Price":"73.60",
-    "Chg":"2.34",
-    "% Chg":"3.29"
-  },
-  {
-    "#":"249",
-    "Company":"D. R. Horton",
-    "Symbol":"DHI",
-    "Weight":"0.07",
-    "Price":"151.82",
-    "Chg":"2.01",
-    "% Chg":"1.34"
-  },
-  {
-    "#":"250",
-    "Company":"Microchip Technology",
-    "Symbol":"MCHP",
-    "Weight":"0.07",
-    "Price":"80.45",
-    "Chg":"1.69",
-    "% Chg":"2.15"
-  },
-  {
-    "#":"251",
-    "Company":"American International Group",
-    "Symbol":"AIG",
-    "Weight":"0.07",
-    "Price":"78.38",
-    "Chg":"-0.30",
-    "% Chg":"-0.38"
-  },
-  {
-    "#":"252",
-    "Company":"State Street Corporation",
-    "Symbol":"STT",
-    "Weight":"0.06",
-    "Price":"150.00",
-    "Chg":"4.56",
-    "% Chg":"3.14"
-  },
-  {
-    "#":"253",
-    "Company":"MSCI",
-    "Symbol":"MSCI",
-    "Weight":"0.06",
-    "Price":"567.15",
-    "Chg":"-1.40",
-    "% Chg":"-0.25"
-  },
-  {
-    "#":"254",
-    "Company":"Kroger",
-    "Symbol":"KR",
-    "Weight":"0.06",
-    "Price":"67.64",
-    "Chg":"-0.55",
-    "% Chg":"-0.81"
-  },
-  {
-    "#":"255",
-    "Company":"Ameriprise Financial",
-    "Symbol":"AMP",
-    "Weight":"0.06",
-    "Price":"454.57",
-    "Chg":"-1.63",
-    "% Chg":"-0.36"
-  },
-  {
-    "#":"256",
-    "Company":"Consolidated Edison",
-    "Symbol":"ED",
-    "Weight":"0.06",
-    "Price":"109.26",
-    "Chg":"-0.89",
-    "% Chg":"-0.81"
-  },
-  {
-    "#":"257",
-    "Company":"Carnival",
-    "Symbol":"CCL",
-    "Weight":"0.06",
-    "Price":"28.99",
-    "Chg":"-0.23",
-    "% Chg":"-0.78"
-  },
-  {
-    "#":"258",
-    "Company":"Ventas",
-    "Symbol":"VTR",
-    "Weight":"0.06",
-    "Price":"84.44",
-    "Chg":"-0.66",
-    "% Chg":"-0.78"
-  },
-  {
-    "#":"259",
-    "Company":"Public Service Enterprise Group",
-    "Symbol":"PEG",
-    "Weight":"0.06",
-    "Price":"80.47",
-    "Chg":"-1.11",
-    "% Chg":"-1.36"
-  },
-  {
-    "#":"260",
-    "Company":"Take-Two Interactive",
-    "Symbol":"TTWO",
-    "Weight":"0.06",
-    "Price":"216.58",
-    "Chg":"4.54",
-    "% Chg":"2.14"
-  },
-  {
-    "#":"261",
-    "Company":"EchoStar Corporation",
-    "Symbol":"SATS",
-    "Weight":"0.06",
-    "Price":"134.23",
-    "Chg":"1.02",
-    "% Chg":"0.76"
-  },
-  {
-    "#":"262",
-    "Company":"Hershey Company The",
-    "Symbol":"HSY",
-    "Weight":"0.06",
-    "Price":"191.20",
-    "Chg":"-1.43",
-    "% Chg":"-0.74"
-  },
-  {
-    "#":"263",
-    "Company":"Vulcan Materials Company",
-    "Symbol":"VMC",
-    "Weight":"0.06",
-    "Price":"295.02",
-    "Chg":"3.31",
-    "% Chg":"1.13"
-  },
-  {
-    "#":"264",
-    "Company":"Crown Castle",
-    "Symbol":"CCI",
-    "Weight":"0.06",
-    "Price":"87.64",
-    "Chg":"-1.07",
-    "% Chg":"-1.20"
-  },
-  {
-    "#":"265",
-    "Company":"PG&E Corporation",
-    "Symbol":"PCG",
-    "Weight":"0.06",
-    "Price":"17.32",
-    "Chg":"0.05",
-    "% Chg":"0.32"
-  },
-  {
-    "#":"266",
-    "Company":"Hartford The",
-    "Symbol":"HIG",
-    "Weight":"0.06",
-    "Price":"138.59",
-    "Chg":"-1.25",
-    "% Chg":"-0.90"
-  },
-  {
-    "#":"267",
-    "Company":"Martin Marietta Materials",
-    "Symbol":"MLM",
-    "Weight":"0.06",
-    "Price":"628.22",
-    "Chg":"6.20",
-    "% Chg":"1.00"
-  },
-  {
-    "#":"268",
-    "Company":"Las Vegas Sands",
-    "Symbol":"LVS",
-    "Weight":"0.06",
-    "Price":"56.91",
-    "Chg":"-0.73",
-    "% Chg":"-1.27"
-  },
-  {
-    "#":"269",
-    "Company":"WEC Energy Group",
-    "Symbol":"WEC",
-    "Weight":"0.06",
-    "Price":"114.85",
-    "Chg":"-1.02",
+    "Price":"234.73",
+    "Chg":"-2.09",
     "% Chg":"-0.88"
   },
   {
-    "#":"270",
-    "Company":"EMCOR Group, Inc.",
-    "Symbol":"EME",
-    "Weight":"0.06",
-    "Price":"830.91",
-    "Chg":"24.86",
-    "% Chg":"3.08"
+    "#":"214",
+    "Company":"Coinbase Global Inc",
+    "Symbol":"COIN",
+    "Weight":"0.08",
+    "Price":"201.89",
+    "Chg":"-9.74",
+    "% Chg":"-4.60"
   },
   {
-    "#":"271",
-    "Company":"Hewlett Packard Enterprise",
+    "#":"215",
+    "Company":"Vistra Corp",
+    "Symbol":"VST",
+    "Weight":"0.08",
+    "Price":"156.41",
+    "Chg":"-3.19",
+    "% Chg":"-2.00"
+  },
+  {
+    "#":"216",
+    "Company":"ONEOK Inc",
+    "Symbol":"OKE",
+    "Weight":"0.08",
+    "Price":"83.84",
+    "Chg":"0.06",
+    "% Chg":"0.08"
+  },
+  {
+    "#":"217",
+    "Company":"Autodesk Inc",
+    "Symbol":"ADSK",
+    "Weight":"0.08",
+    "Price":"247.92",
+    "Chg":"2.61",
+    "% Chg":"1.06"
+  },
+  {
+    "#":"218",
+    "Company":"Fastenal Co",
+    "Symbol":"FAST",
+    "Weight":"0.08",
+    "Price":"45.53",
+    "Chg":"-0.03",
+    "% Chg":"-0.07"
+  },
+  {
+    "#":"219",
+    "Company":"Diamondback Energy Inc",
+    "Symbol":"FANG",
+    "Weight":"0.08",
+    "Price":"185.15",
+    "Chg":"1.70",
+    "% Chg":"0.93"
+  },
+  {
+    "#":"220",
+    "Company":"Carrier Global Corp",
+    "Symbol":"CARR",
+    "Weight":"0.08",
+    "Price":"62.30",
+    "Chg":"0.65",
+    "% Chg":"1.06"
+  },
+  {
+    "#":"221",
+    "Company":"Ford Motor Co",
+    "Symbol":"F",
+    "Weight":"0.08",
+    "Price":"12.88",
+    "Chg":"0.01",
+    "% Chg":"0.11"
+  },
+  {
+    "#":"222",
+    "Company":"Garmin Ltd",
+    "Symbol":"GRMN",
+    "Weight":"0.08",
+    "Price":"267.88",
+    "Chg":"0.36",
+    "% Chg":"0.13"
+  },
+  {
+    "#":"223",
+    "Company":"United Rentals Inc",
+    "Symbol":"URI",
+    "Weight":"0.08",
+    "Price":"818.90",
+    "Chg":"6.63",
+    "% Chg":"0.82"
+  },
+  {
+    "#":"224",
+    "Company":"Entergy Corp",
+    "Symbol":"ETR",
+    "Weight":"0.08",
+    "Price":"111.75",
+    "Chg":"-1.91",
+    "% Chg":"-1.68"
+  },
+  {
+    "#":"225",
+    "Company":"Zoetis Inc",
+    "Symbol":"ZTS",
+    "Weight":"0.08",
+    "Price":"121.50",
+    "Chg":"-1.22",
+    "% Chg":"-0.99"
+  },
+  {
+    "#":"226",
+    "Company":"Electronic Arts Inc",
+    "Symbol":"EA",
+    "Weight":"0.08",
+    "Price":"203.32",
+    "Chg":"-0.04",
+    "% Chg":"-0.02"
+  },
+  {
+    "#":"227",
+    "Company":"MetLife Inc",
+    "Symbol":"MET",
+    "Weight":"0.08",
+    "Price":"78.00",
+    "Chg":"0.30",
+    "% Chg":"0.39"
+  },
+  {
+    "#":"228",
+    "Company":"Nasdaq Inc",
+    "Symbol":"NDAQ",
+    "Weight":"0.08",
+    "Price":"88.44",
+    "Chg":"0.66",
+    "% Chg":"0.76"
+  },
+  {
+    "#":"229",
+    "Company":"Targa Resources Corp",
+    "Symbol":"TRGP",
+    "Weight":"0.08",
+    "Price":"231.22",
+    "Chg":"-0.29",
+    "% Chg":"-0.13"
+  },
+  {
+    "#":"230",
+    "Company":"Xcel Energy Inc",
+    "Symbol":"XEL",
+    "Weight":"0.08",
+    "Price":"79.36",
+    "Chg":"-0.96",
+    "% Chg":"-1.19"
+  },
+  {
+    "#":"231",
+    "Company":"Cardinal Health Inc",
+    "Symbol":"CAH",
+    "Weight":"0.08",
+    "Price":"206.85",
+    "Chg":"-4.33",
+    "% Chg":"-2.05"
+  },
+  {
+    "#":"232",
+    "Company":"Chipotle Mexican Grill Inc",
+    "Symbol":"CMG",
+    "Weight":"0.07",
+    "Price":"36.57",
+    "Chg":"0.74",
+    "% Chg":"2.07"
+  },
+  {
+    "#":"233",
+    "Company":"DR Horton Inc",
+    "Symbol":"DHI",
+    "Weight":"0.07",
+    "Price":"163.91",
+    "Chg":"10.57",
+    "% Chg":"6.89"
+  },
+  {
+    "#":"234",
+    "Company":"Exelon Corp",
+    "Symbol":"EXC",
+    "Weight":"0.07",
+    "Price":"46.38",
+    "Chg":"-0.02",
+    "% Chg":"-0.04"
+  },
+  {
+    "#":"235",
+    "Company":"eBay Inc",
+    "Symbol":"EBAY",
+    "Weight":"0.07",
+    "Price":"105.67",
+    "Chg":"-1.46",
+    "% Chg":"-1.36"
+  },
+  {
+    "#":"236",
+    "Company":"Nucor Corp",
+    "Symbol":"NUE",
+    "Weight":"0.07",
+    "Price":"207.40",
+    "Chg":"5.14",
+    "% Chg":"2.54"
+  },
+  {
+    "#":"237",
+    "Company":"Old Dominion Freight Line Inc",
+    "Symbol":"ODFL",
+    "Weight":"0.07",
+    "Price":"223.44",
+    "Chg":"0.06",
+    "% Chg":"0.03"
+  },
+  {
+    "#":"238",
+    "Company":"Rockwell Automation Inc",
+    "Symbol":"ROK",
+    "Weight":"0.07",
+    "Price":"414.27",
+    "Chg":"0.57",
+    "% Chg":"0.14"
+  },
+  {
+    "#":"239",
+    "Company":"Edwards Lifesciences Corp",
+    "Symbol":"EW",
+    "Weight":"0.07",
+    "Price":"80.56",
+    "Chg":"-0.88",
+    "% Chg":"-1.08"
+  },
+  {
+    "#":"240",
+    "Company":"PayPal Holdings Inc",
+    "Symbol":"PYPL",
+    "Weight":"0.07",
+    "Price":"51.57",
+    "Chg":"0.11",
+    "% Chg":"0.22"
+  },
+  {
+    "#":"241",
+    "Company":"Datadog Inc",
+    "Symbol":"DDOG",
+    "Weight":"0.07",
+    "Price":"131.10",
+    "Chg":"1.36",
+    "% Chg":"1.05"
+  },
+  {
+    "#":"242",
+    "Company":"Fifth Third Bancorp",
+    "Symbol":"FITB",
+    "Weight":"0.07",
+    "Price":"51.19",
+    "Chg":"0.21",
+    "% Chg":"0.41"
+  },
+  {
+    "#":"243",
+    "Company":"Delta Air Lines Inc",
+    "Symbol":"DAL",
+    "Weight":"0.07",
+    "Price":"70.50",
+    "Chg":"-0.71",
+    "% Chg":"-1.00"
+  },
+  {
+    "#":"244",
+    "Company":"IDEXX Laboratories Inc",
+    "Symbol":"IDXX",
+    "Weight":"0.07",
+    "Price":"582.11",
+    "Chg":"-0.95",
+    "% Chg":"-0.16"
+  },
+  {
+    "#":"245",
+    "Company":"Becton Dickinson & Co",
+    "Symbol":"BDX",
+    "Weight":"0.07",
+    "Price":"158.38",
+    "Chg":"-0.26",
+    "% Chg":"-0.16"
+  },
+  {
+    "#":"246",
+    "Company":"Yum! Brands Inc",
+    "Symbol":"YUM",
+    "Weight":"0.07",
+    "Price":"160.78",
+    "Chg":"-1.04",
+    "% Chg":"-0.65"
+  },
+  {
+    "#":"247",
+    "Company":"CBRE Group Inc",
+    "Symbol":"CBRE",
+    "Weight":"0.07",
+    "Price":"151.28",
+    "Chg":"-1.32",
+    "% Chg":"-0.86"
+  },
+  {
+    "#":"248",
+    "Company":"Westinghouse Air Brake Technologies Corp",
+    "Symbol":"WAB",
+    "Weight":"0.07",
+    "Price":"260.31",
+    "Chg":"-3.94",
+    "% Chg":"-1.49"
+  },
+  {
+    "#":"249",
+    "Company":"Block Inc",
+    "Symbol":"XYZ",
+    "Weight":"0.07",
+    "Price":"73.52",
+    "Chg":"-0.37",
+    "% Chg":"-0.50"
+  },
+  {
+    "#":"250",
+    "Company":"MSCI Inc",
+    "Symbol":"MSCI",
+    "Weight":"0.07",
+    "Price":"600.21",
+    "Chg":"33.26",
+    "% Chg":"5.87"
+  },
+  {
+    "#":"251",
+    "Company":"Microchip Technology Inc",
+    "Symbol":"MCHP",
+    "Weight":"0.07",
+    "Price":"80.50",
+    "Chg":"0.11",
+    "% Chg":"0.14"
+  },
+  {
+    "#":"252",
+    "Company":"State Street Corp",
+    "Symbol":"STT",
+    "Weight":"0.07",
+    "Price":"153.54",
+    "Chg":"3.36",
+    "% Chg":"2.24"
+  },
+  {
+    "#":"253",
+    "Company":"Ameriprise Financial Inc",
+    "Symbol":"AMP",
+    "Weight":"0.07",
+    "Price":"462.43",
+    "Chg":"5.84",
+    "% Chg":"1.28"
+  },
+  {
+    "#":"254",
+    "Company":"American International Group Inc",
+    "Symbol":"AIG",
+    "Weight":"0.06",
+    "Price":"78.23",
+    "Chg":"-0.33",
+    "% Chg":"-0.42"
+  },
+  {
+    "#":"255",
+    "Company":"Kroger Co\/The",
+    "Symbol":"KR",
+    "Weight":"0.06",
+    "Price":"68.09",
+    "Chg":"0.20",
+    "% Chg":"0.30"
+  },
+  {
+    "#":"256",
+    "Company":"Take-Two Interactive Software Inc",
+    "Symbol":"TTWO",
+    "Weight":"0.06",
+    "Price":"217.59",
+    "Chg":"0.74",
+    "% Chg":"0.34"
+  },
+  {
+    "#":"257",
+    "Company":"Consolidated Edison Inc",
+    "Symbol":"ED",
+    "Weight":"0.06",
+    "Price":"109.11",
+    "Chg":"-0.56",
+    "% Chg":"-0.51"
+  },
+  {
+    "#":"258",
+    "Company":"Public Service Enterprise Group Inc",
+    "Symbol":"PEG",
+    "Weight":"0.06",
+    "Price":"79.28",
+    "Chg":"-1.46",
+    "% Chg":"-1.81"
+  },
+  {
+    "#":"259",
+    "Company":"Ventas Inc",
+    "Symbol":"VTR",
+    "Weight":"0.06",
+    "Price":"82.37",
+    "Chg":"-2.28",
+    "% Chg":"-2.69"
+  },
+  {
+    "#":"260",
+    "Company":"Hewlett Packard Enterprise Co",
     "Symbol":"HPE",
     "Weight":"0.06",
-    "Price":"27.80",
-    "Chg":"1.36",
-    "% Chg":"5.16"
+    "Price":"29.09",
+    "Chg":"1.28",
+    "% Chg":"4.59"
   },
   {
-    "#":"272",
-    "Company":"Roper Technologies",
-    "Symbol":"ROP",
+    "#":"261",
+    "Company":"Hershey Co\/The",
+    "Symbol":"HSY",
     "Weight":"0.06",
-    "Price":"360.28",
-    "Chg":"-2.16",
-    "% Chg":"-0.60"
+    "Price":"189.96",
+    "Chg":"-1.49",
+    "% Chg":"-0.78"
   },
   {
-    "#":"273",
-    "Company":"Live Nation Entertainment",
-    "Symbol":"LYV",
+    "#":"262",
+    "Company":"Carnival Corp",
+    "Symbol":"CCL",
     "Weight":"0.06",
-    "Price":"155.63",
-    "Chg":"-0.93",
+    "Price":"27.75",
+    "Chg":"-1.26",
+    "% Chg":"-4.33"
+  },
+  {
+    "#":"263",
+    "Company":"Vulcan Materials Co",
+    "Symbol":"VMC",
+    "Weight":"0.06",
+    "Price":"293.02",
+    "Chg":"-1.75",
     "% Chg":"-0.59"
   },
   {
-    "#":"274",
-    "Company":"Sysco",
-    "Symbol":"SYY",
+    "#":"264",
+    "Company":"Hartford Insurance Group Inc\/The",
+    "Symbol":"HIG",
     "Weight":"0.06",
-    "Price":"75.99",
-    "Chg":"-0.28",
-    "% Chg":"-0.36"
+    "Price":"138.69",
+    "Chg":"-0.25",
+    "% Chg":"-0.18"
+  },
+  {
+    "#":"265",
+    "Company":"Las Vegas Sands Corp",
+    "Symbol":"LVS",
+    "Weight":"0.06",
+    "Price":"56.91",
+    "Chg":"-0.27",
+    "% Chg":"-0.48"
+  },
+  {
+    "#":"266",
+    "Company":"PG&E Corp",
+    "Symbol":"PCG",
+    "Weight":"0.06",
+    "Price":"17.14",
+    "Chg":"-0.21",
+    "% Chg":"-1.23"
+  },
+  {
+    "#":"267",
+    "Company":"Martin Marietta Materials Inc",
+    "Symbol":"MLM",
+    "Weight":"0.06",
+    "Price":"624.82",
+    "Chg":"-2.53",
+    "% Chg":"-0.40"
+  },
+  {
+    "#":"268",
+    "Company":"EchoStar",
+    "Symbol":"SATS",
+    "Weight":"0.06",
+    "Price":"130.23",
+    "Chg":"-4.88",
+    "% Chg":"-3.61"
+  },
+  {
+    "#":"269",
+    "Company":"Crown Castle Inc",
+    "Symbol":"CCI",
+    "Weight":"0.06",
+    "Price":"85.65",
+    "Chg":"-1.91",
+    "% Chg":"-2.18"
+  },
+  {
+    "#":"270",
+    "Company":"Roper Technologies Inc",
+    "Symbol":"ROP",
+    "Weight":"0.06",
+    "Price":"363.91",
+    "Chg":"4.04",
+    "% Chg":"1.12"
+  },
+  {
+    "#":"271",
+    "Company":"WEC Energy Group Inc",
+    "Symbol":"WEC",
+    "Weight":"0.06",
+    "Price":"114.30",
+    "Chg":"-0.84",
+    "% Chg":"-0.73"
+  },
+  {
+    "#":"272",
+    "Company":"EMCOR Group Inc",
+    "Symbol":"EME",
+    "Weight":"0.06",
+    "Price":"834.27",
+    "Chg":"3.16",
+    "% Chg":"0.38"
+  },
+  {
+    "#":"273",
+    "Company":"Live Nation Entertainment Inc",
+    "Symbol":"LYV",
+    "Weight":"0.06",
+    "Price":"155.42",
+    "Chg":"-0.67",
+    "% Chg":"-0.43"
+  },
+  {
+    "#":"274",
+    "Company":"Keurig Dr Pepper Inc",
+    "Symbol":"KDP",
+    "Weight":"0.06",
+    "Price":"26.62",
+    "Chg":"0.12",
+    "% Chg":"0.47"
   },
   {
     "#":"275",
-    "Company":"Interactive Brokers Group",
+    "Company":"Interactive Brokers Group Inc",
     "Symbol":"IBKR",
     "Weight":"0.06",
-    "Price":"80.95",
-    "Chg":"-0.76",
-    "% Chg":"-0.93"
+    "Price":"80.98",
+    "Chg":"-0.27",
+    "% Chg":"-0.33"
   },
   {
     "#":"276",
-    "Company":"Keurig Dr Pepper",
-    "Symbol":"KDP",
+    "Company":"Sysco Corp",
+    "Symbol":"SYY",
     "Weight":"0.06",
-    "Price":"26.52",
-    "Chg":"-0.02",
-    "% Chg":"-0.06"
+    "Price":"75.40",
+    "Chg":"-0.86",
+    "% Chg":"-1.13"
   },
   {
     "#":"277",
-    "Company":"Iron Mountain",
+    "Company":"Iron Mountain Inc",
     "Symbol":"IRM",
     "Weight":"0.06",
-    "Price":"120.49",
-    "Chg":"2.42",
-    "% Chg":"2.05"
+    "Price":"119.67",
+    "Chg":"-0.86",
+    "% Chg":"-0.71"
   },
   {
     "#":"278",
-    "Company":"Prudential Financial",
-    "Symbol":"PRU",
-    "Weight":"0.06",
-    "Price":"102.57",
-    "Chg":"0.92",
-    "% Chg":"0.91"
+    "Company":"EQT Corp",
+    "Symbol":"EQT",
+    "Weight":"0.05",
+    "Price":"56.73",
+    "Chg":"-0.27",
+    "% Chg":"-0.46"
   },
   {
     "#":"279",
-    "Company":"EQT Corporation",
-    "Symbol":"EQT",
-    "Weight":"0.06",
-    "Price":"56.85",
-    "Chg":"-1.63",
-    "% Chg":"-2.79"
+    "Company":"Jabil Inc",
+    "Symbol":"JBL",
+    "Weight":"0.05",
+    "Price":"334.41",
+    "Chg":"4.13",
+    "% Chg":"1.25"
   },
   {
     "#":"280",
-    "Company":"Huntington Bancshares",
+    "Company":"Huntington Bancshares Inc\/OH",
     "Symbol":"HBAN",
     "Weight":"0.05",
-    "Price":"17.09",
-    "Chg":"0.23",
-    "% Chg":"1.39"
+    "Price":"17.11",
+    "Chg":"0.05",
+    "% Chg":"0.26"
   },
   {
     "#":"281",
-    "Company":"Jabil",
-    "Symbol":"JBL",
+    "Company":"Arch Capital Group Ltd",
+    "Symbol":"ACGL",
     "Weight":"0.05",
-    "Price":"329.63",
-    "Chg":"7.94",
-    "% Chg":"2.47"
+    "Price":"97.78",
+    "Chg":"0.29",
+    "% Chg":"0.29"
   },
   {
     "#":"282",
-    "Company":"Arch Capital Group",
-    "Symbol":"ACGL",
+    "Company":"Agilent Technologies Inc",
+    "Symbol":"A",
     "Weight":"0.05",
-    "Price":"97.13",
-    "Chg":"-0.46",
-    "% Chg":"-0.47"
+    "Price":"122.58",
+    "Chg":"1.62",
+    "% Chg":"1.34"
   },
   {
     "#":"283",
-    "Company":"Fiserv, Inc.",
+    "Company":"Fiserv Inc",
     "Symbol":"FISV",
     "Weight":"0.05",
-    "Price":"64.31",
-    "Chg":"0.34",
-    "% Chg":"0.53"
+    "Price":"64.34",
+    "Chg":"0.20",
+    "% Chg":"0.31"
   },
   {
     "#":"284",
-    "Company":"Agilent Technologies",
-    "Symbol":"A",
+    "Company":"Prudential Financial Inc",
+    "Symbol":"PRU",
     "Weight":"0.05",
-    "Price":"120.56",
-    "Chg":"-1.31",
-    "% Chg":"-1.07"
+    "Price":"97.75",
+    "Chg":"-4.85",
+    "% Chg":"-4.73"
   },
   {
     "#":"285",
-    "Company":"GE HealthCare",
-    "Symbol":"GEHC",
+    "Company":"Paychex Inc",
+    "Symbol":"PAYX",
     "Weight":"0.05",
-    "Price":"74.06",
-    "Chg":"-0.60",
-    "% Chg":"-0.80"
+    "Price":"94.49",
+    "Chg":"1.40",
+    "% Chg":"1.50"
   },
   {
     "#":"286",
-    "Company":"Kenvue",
-    "Symbol":"KVUE",
+    "Company":"Expedia Group Inc",
+    "Symbol":"EXPE",
     "Weight":"0.05",
-    "Price":"17.54",
-    "Chg":"-0.07",
-    "% Chg":"-0.37"
+    "Price":"276.06",
+    "Chg":"2.82",
+    "% Chg":"1.03"
   },
   {
     "#":"287",
-    "Company":"Ingersoll Rand",
+    "Company":"Ingersoll Rand Inc",
     "Symbol":"IR",
     "Weight":"0.05",
-    "Price":"85.75",
-    "Chg":"-0.05",
-    "% Chg":"-0.06"
+    "Price":"86.22",
+    "Chg":"0.20",
+    "% Chg":"0.24"
   },
   {
     "#":"288",
-    "Company":"ON Semiconductor",
-    "Symbol":"ON",
+    "Company":"Workday Inc",
+    "Symbol":"WDAY",
     "Weight":"0.05",
-    "Price":"85.31",
-    "Chg":"2.30",
-    "% Chg":"2.77"
+    "Price":"131.09",
+    "Chg":"3.15",
+    "% Chg":"2.46"
   },
   {
     "#":"289",
-    "Company":"Expedia Group",
-    "Symbol":"EXPE",
+    "Company":"ON Semiconductor Corp",
+    "Symbol":"ON",
     "Weight":"0.05",
-    "Price":"272.62",
-    "Chg":"6.78",
-    "% Chg":"2.55"
+    "Price":"85.67",
+    "Chg":"0.11",
+    "% Chg":"0.12"
   },
   {
     "#":"290",
-    "Company":"NRG Energy",
-    "Symbol":"NRG",
+    "Company":"Kenvue Inc",
+    "Symbol":"KVUE",
     "Weight":"0.05",
-    "Price":"157.15",
-    "Chg":"-10.58",
-    "% Chg":"-6.31"
+    "Price":"17.50",
+    "Chg":"-0.07",
+    "% Chg":"-0.43"
   },
   {
     "#":"291",
-    "Company":"Paychex",
-    "Symbol":"PAYX",
+    "Company":"GE HealthCare Technologies Inc",
+    "Symbol":"GEHC",
     "Weight":"0.05",
-    "Price":"93.08",
-    "Chg":"1.12",
-    "% Chg":"1.22"
+    "Price":"73.62",
+    "Chg":"-0.53",
+    "% Chg":"-0.71"
   },
   {
     "#":"292",
-    "Company":"Workday, Inc.",
-    "Symbol":"WDAY",
+    "Company":"Archer-Daniels-Midland Co",
+    "Symbol":"ADM",
     "Weight":"0.05",
-    "Price":"127.75",
-    "Chg":"3.92",
-    "% Chg":"3.16"
+    "Price":"69.24",
+    "Chg":"0.87",
+    "% Chg":"1.27"
   },
   {
     "#":"293",
-    "Company":"Waters Corporation",
+    "Company":"Waters Corp",
     "Symbol":"WAT",
     "Weight":"0.05",
-    "Price":"334.24",
-    "Chg":"6.47",
-    "% Chg":"1.97"
+    "Price":"339.38",
+    "Chg":"3.77",
+    "% Chg":"1.12"
   },
   {
     "#":"294",
-    "Company":"Archer Daniels Midland",
-    "Symbol":"ADM",
+    "Company":"Copart Inc",
+    "Symbol":"CPRT",
     "Weight":"0.05",
-    "Price":"68.07",
-    "Chg":"1.03",
-    "% Chg":"1.53"
+    "Price":"34.37",
+    "Chg":"0.61",
+    "% Chg":"1.80"
   },
   {
     "#":"295",
-    "Company":"ResMed",
+    "Company":"ResMed Inc",
     "Symbol":"RMD",
     "Weight":"0.05",
-    "Price":"224.63",
-    "Chg":"-3.49",
-    "% Chg":"-1.53"
+    "Price":"224.95",
+    "Chg":"-1.19",
+    "% Chg":"-0.52"
   },
   {
     "#":"296",
-    "Company":"Kimberly-Clark",
+    "Company":"Kimberly-Clark Corp",
     "Symbol":"KMB",
     "Weight":"0.05",
-    "Price":"98.19",
+    "Price":"97.89",
     "Chg":"-0.65",
     "% Chg":"-0.66"
   },
   {
     "#":"297",
-    "Company":"Copart",
-    "Symbol":"CPRT",
+    "Company":"Axon Enterprise Inc",
+    "Symbol":"AXON",
     "Weight":"0.05",
-    "Price":"33.74",
-    "Chg":"0.29",
-    "% Chg":"0.88"
+    "Price":"401.88",
+    "Chg":"-1.87",
+    "% Chg":"-0.46"
   },
   {
     "#":"298",
-    "Company":"Axon Enterprise",
-    "Symbol":"AXON",
+    "Company":"M&T Bank Corp",
+    "Symbol":"MTB",
     "Weight":"0.05",
-    "Price":"402.14",
-    "Chg":"-0.71",
-    "% Chg":"-0.18"
+    "Price":"220.12",
+    "Chg":"0.44",
+    "% Chg":"0.20"
   },
   {
     "#":"299",
-    "Company":"M&T Bank",
-    "Symbol":"MTB",
+    "Company":"NRG Energy Inc",
+    "Symbol":"NRG",
     "Weight":"0.05",
-    "Price":"219.84",
-    "Chg":"1.05",
-    "% Chg":"0.48"
+    "Price":"151.96",
+    "Chg":"-5.22",
+    "% Chg":"-3.32"
   },
   {
     "#":"300",
-    "Company":"United Airlines Holdings",
+    "Company":"United Airlines Holdings Inc",
     "Symbol":"UAL",
     "Weight":"0.05",
-    "Price":"99.06",
-    "Chg":"-2.73",
-    "% Chg":"-2.69"
+    "Price":"98.81",
+    "Chg":"-0.10",
+    "% Chg":"-0.10"
   },
   {
     "#":"301",
-    "Company":"Cboe Global Markets",
-    "Symbol":"CBOE",
+    "Company":"Halliburton Co",
+    "Symbol":"HAL",
     "Weight":"0.05",
-    "Price":"304.81",
-    "Chg":"4.87",
-    "% Chg":"1.62"
+    "Price":"38.13",
+    "Chg":"1.45",
+    "% Chg":"3.95"
   },
   {
     "#":"302",
-    "Company":"Otis Worldwide",
-    "Symbol":"OTIS",
+    "Company":"Cboe Global Markets Inc",
+    "Symbol":"CBOE",
     "Weight":"0.05",
-    "Price":"80.70",
-    "Chg":"-0.73",
-    "% Chg":"-0.90"
+    "Price":"302.81",
+    "Chg":"-1.59",
+    "% Chg":"-0.52"
   },
   {
     "#":"303",
-    "Company":"Tapestry, Inc.",
-    "Symbol":"TPR",
+    "Company":"Steel Dynamics Inc",
+    "Symbol":"STLD",
     "Weight":"0.05",
-    "Price":"153.78",
-    "Chg":"-2.07",
-    "% Chg":"-1.33"
+    "Price":"218.66",
+    "Chg":"9.31",
+    "% Chg":"4.45"
   },
   {
     "#":"304",
-    "Company":"Charter Communications",
-    "Symbol":"CHTR",
+    "Company":"Northern Trust Corp",
+    "Symbol":"NTRS",
     "Weight":"0.05",
-    "Price":"248.77",
-    "Chg":"12.15",
-    "% Chg":"5.14"
+    "Price":"168.29",
+    "Chg":"9.30",
+    "% Chg":"5.85"
   },
   {
     "#":"305",
-    "Company":"Extra Space Storage",
-    "Symbol":"EXR",
+    "Company":"Otis Worldwide Corp",
+    "Symbol":"OTIS",
     "Weight":"0.05",
-    "Price":"146.36",
-    "Chg":"1.00",
-    "% Chg":"0.69"
+    "Price":"79.91",
+    "Chg":"-0.82",
+    "% Chg":"-1.02"
   },
   {
     "#":"306",
-    "Company":"Atmos Energy",
-    "Symbol":"ATO",
+    "Company":"Extra Space Storage Inc",
+    "Symbol":"EXR",
     "Weight":"0.05",
-    "Price":"186.08",
-    "Chg":"-0.46",
-    "% Chg":"-0.24"
+    "Price":"145.32",
+    "Chg":"-1.63",
+    "% Chg":"-1.11"
   },
   {
     "#":"307",
-    "Company":"Vici Properties",
-    "Symbol":"VICI",
+    "Company":"Charter Communications Inc",
+    "Symbol":"CHTR",
     "Weight":"0.05",
-    "Price":"28.79",
-    "Chg":"-0.23",
-    "% Chg":"-0.78"
+    "Price":"245.89",
+    "Chg":"1.20",
+    "% Chg":"0.49"
   },
   {
     "#":"308",
-    "Company":"Ameren",
+    "Company":"Ameren Corp",
     "Symbol":"AEE",
     "Weight":"0.05",
-    "Price":"110.90",
-    "Chg":"-1.81",
-    "% Chg":"-1.61"
+    "Price":"110.65",
+    "Chg":"-0.62",
+    "% Chg":"-0.56"
   },
   {
     "#":"309",
-    "Company":"Halliburton",
-    "Symbol":"HAL",
+    "Company":"VICI Properties Inc",
+    "Symbol":"VICI",
     "Weight":"0.05",
-    "Price":"36.34",
-    "Chg":"-0.81",
-    "% Chg":"-2.19"
-  },
-  {
-    "#":"310",
-    "Company":"DTE Energy",
-    "Symbol":"DTE",
-    "Weight":"0.05",
-    "Price":"145.85",
-    "Chg":"-1.13",
-    "% Chg":"-0.77"
-  },
-  {
-    "#":"311",
-    "Company":"Steel Dynamics",
-    "Symbol":"STLD",
-    "Weight":"0.05",
-    "Price":"209.65",
-    "Chg":"9.33",
-    "% Chg":"4.66"
-  },
-  {
-    "#":"312",
-    "Company":"Raymond James Financial",
-    "Symbol":"RJF",
-    "Weight":"0.05",
-    "Price":"152.01",
-    "Chg":"0.26",
-    "% Chg":"0.17"
-  },
-  {
-    "#":"313",
-    "Company":"Dover Corporation",
-    "Symbol":"DOV",
-    "Weight":"0.05",
-    "Price":"222.22",
-    "Chg":"3.15",
-    "% Chg":"1.44"
-  },
-  {
-    "#":"314",
-    "Company":"Texas Pacific Land Corporation",
-    "Symbol":"TPL",
-    "Weight":"0.05",
-    "Price":"433.07",
-    "Chg":"10.50",
-    "% Chg":"2.48"
-  },
-  {
-    "#":"315",
-    "Company":"Teledyne Technologies",
-    "Symbol":"TDY",
-    "Weight":"0.05",
-    "Price":"643.62",
-    "Chg":"7.79",
-    "% Chg":"1.23"
-  },
-  {
-    "#":"316",
-    "Company":"IQVIA",
-    "Symbol":"IQV",
-    "Weight":"0.05",
-    "Price":"176.32",
-    "Chg":"-0.14",
-    "% Chg":"-0.08"
-  },
-  {
-    "#":"317",
-    "Company":"Northern Trust",
-    "Symbol":"NTRS",
-    "Weight":"0.05",
-    "Price":"158.75",
-    "Chg":"-0.41",
-    "% Chg":"-0.25"
-  },
-  {
-    "#":"318",
-    "Company":"PPL Corporation",
-    "Symbol":"PPL",
-    "Weight":"0.05",
-    "Price":"38.74",
-    "Chg":"-0.28",
+    "Price":"28.57",
+    "Chg":"-0.21",
     "% Chg":"-0.73"
   },
   {
-    "#":"319",
-    "Company":"Hubbell Incorporated",
-    "Symbol":"HUBB",
+    "#":"310",
+    "Company":"Atmos Energy Corp",
+    "Symbol":"ATO",
     "Weight":"0.05",
-    "Price":"547.40",
-    "Chg":"11.83",
-    "% Chg":"2.21"
+    "Price":"184.16",
+    "Chg":"-2.07",
+    "% Chg":"-1.11"
   },
   {
-    "#":"320",
-    "Company":"Xylem Inc.",
-    "Symbol":"XYL",
-    "Weight":"0.04",
-    "Price":"119.91",
-    "Chg":"-1.20",
+    "#":"311",
+    "Company":"Raymond James Financial Inc",
+    "Symbol":"RJF",
+    "Weight":"0.05",
+    "Price":"153.90",
+    "Chg":"1.66",
+    "% Chg":"1.09"
+  },
+  {
+    "#":"312",
+    "Company":"Tapestry Inc",
+    "Symbol":"TPR",
+    "Weight":"0.05",
+    "Price":"149.66",
+    "Chg":"-3.95",
+    "% Chg":"-2.57"
+  },
+  {
+    "#":"313",
+    "Company":"Texas Pacific Land Corp",
+    "Symbol":"TPL",
+    "Weight":"0.05",
+    "Price":"438.83",
+    "Chg":"4.01",
+    "% Chg":"0.92"
+  },
+  {
+    "#":"314",
+    "Company":"DTE Energy Co",
+    "Symbol":"DTE",
+    "Weight":"0.05",
+    "Price":"144.77",
+    "Chg":"-1.10",
+    "% Chg":"-0.75"
+  },
+  {
+    "#":"315",
+    "Company":"IQVIA Holdings Inc",
+    "Symbol":"IQV",
+    "Weight":"0.05",
+    "Price":"178.28",
+    "Chg":"1.53",
+    "% Chg":"0.86"
+  },
+  {
+    "#":"316",
+    "Company":"Dover Corp",
+    "Symbol":"DOV",
+    "Weight":"0.05",
+    "Price":"220.80",
+    "Chg":"-1.10",
+    "% Chg":"-0.49"
+  },
+  {
+    "#":"317",
+    "Company":"Teledyne Technologies Inc",
+    "Symbol":"TDY",
+    "Weight":"0.05",
+    "Price":"639.36",
+    "Chg":"-6.37",
     "% Chg":"-0.99"
   },
   {
-    "#":"321",
-    "Company":"Qnity Electronics",
-    "Symbol":"Q",
+    "#":"318",
+    "Company":"Cognizant Technology Solutions Corp",
+    "Symbol":"CTSH",
+    "Weight":"0.05",
+    "Price":"61.38",
+    "Chg":"1.12",
+    "% Chg":"1.85"
+  },
+  {
+    "#":"319",
+    "Company":"Hubbell Inc",
+    "Symbol":"HUBB",
+    "Weight":"0.05",
+    "Price":"550.12",
+    "Chg":"3.89",
+    "% Chg":"0.71"
+  },
+  {
+    "#":"320",
+    "Company":"Xylem Inc\/NY",
+    "Symbol":"XYL",
     "Weight":"0.04",
-    "Price":"137.59",
-    "Chg":"1.30",
-    "% Chg":"0.95"
+    "Price":"120.10",
+    "Chg":"-0.36",
+    "% Chg":"-0.30"
+  },
+  {
+    "#":"321",
+    "Company":"PPL Corp",
+    "Symbol":"PPL",
+    "Weight":"0.04",
+    "Price":"38.45",
+    "Chg":"-0.28",
+    "% Chg":"-0.71"
   },
   {
     "#":"322",
-    "Company":"Cognizant",
-    "Symbol":"CTSH",
+    "Company":"Qnity Electronics Inc",
+    "Symbol":"Q",
     "Weight":"0.04",
-    "Price":"59.92",
-    "Chg":"-1.38",
-    "% Chg":"-2.24"
+    "Price":"136.85",
+    "Chg":"-1.25",
+    "% Chg":"-0.90"
   },
   {
     "#":"323",
-    "Company":"FirstEnergy",
-    "Symbol":"FE",
+    "Company":"Casey's General Stores",
+    "Symbol":"CASY",
     "Weight":"0.04",
-    "Price":"49.34",
-    "Chg":"-0.76",
-    "% Chg":"-1.51"
+    "Price":"771.14",
+    "Chg":"2.69",
+    "% Chg":"0.35"
   },
   {
     "#":"324",
-    "Company":"Casey's General Stores, Inc.",
-    "Symbol":"CASY",
+    "Company":"FirstEnergy Corp",
+    "Symbol":"FE",
     "Weight":"0.04",
-    "Price":"767.56",
-    "Chg":"12.84",
-    "% Chg":"1.70"
+    "Price":"48.99",
+    "Chg":"-0.46",
+    "% Chg":"-0.92"
   },
   {
     "#":"325",
-    "Company":"Estée Lauder Companies The",
-    "Symbol":"EL",
+    "Company":"Willis Towers Watson PLC",
+    "Symbol":"WTW",
     "Weight":"0.04",
-    "Price":"77.68",
-    "Chg":"1.48",
-    "% Chg":"1.95"
+    "Price":"297.85",
+    "Chg":"1.29",
+    "% Chg":"0.43"
   },
   {
     "#":"326",
-    "Company":"Citizens Financial Group",
+    "Company":"Citizens Financial Group Inc",
     "Symbol":"CFG",
     "Weight":"0.04",
-    "Price":"65.74",
-    "Chg":"1.29",
-    "% Chg":"2.00"
+    "Price":"65.51",
+    "Chg":"-0.25",
+    "% Chg":"-0.38"
   },
   {
     "#":"327",
-    "Company":"Willis Towers Watson",
-    "Symbol":"WTW",
+    "Company":"Devon Energy Corp",
+    "Symbol":"DVN",
     "Weight":"0.04",
-    "Price":"296.31",
-    "Chg":"-1.33",
-    "% Chg":"-0.45"
+    "Price":"44.78",
+    "Chg":"-0.16",
+    "% Chg":"-0.35"
   },
   {
     "#":"328",
-    "Company":"CenterPoint Energy",
+    "Company":"CenterPoint Energy Inc",
     "Symbol":"CNP",
     "Weight":"0.04",
-    "Price":"42.61",
-    "Chg":"-0.39",
-    "% Chg":"-0.91"
+    "Price":"42.53",
+    "Chg":"-0.17",
+    "% Chg":"-0.40"
   },
   {
     "#":"329",
-    "Company":"Devon Energy",
-    "Symbol":"DVN",
+    "Company":"Dollar General Corp",
+    "Symbol":"DG",
     "Weight":"0.04",
-    "Price":"44.74",
-    "Chg":"0.51",
-    "% Chg":"1.14"
+    "Price":"126.28",
+    "Chg":"-0.17",
+    "% Chg":"-0.14"
   },
   {
     "#":"330",
-    "Company":"Constellation Brands",
-    "Symbol":"STZ",
+    "Company":"Estee Lauder Cos Inc\/The",
+    "Symbol":"EL",
     "Weight":"0.04",
-    "Price":"159.72",
-    "Chg":"-2.56",
-    "% Chg":"-1.58"
+    "Price":"76.55",
+    "Chg":"-1.30",
+    "% Chg":"-1.67"
   },
   {
     "#":"331",
-    "Company":"Dollar General",
-    "Symbol":"DG",
+    "Company":"Constellation Brands Inc",
+    "Symbol":"STZ",
     "Weight":"0.04",
-    "Price":"125.50",
-    "Chg":"-1.18",
-    "% Chg":"-0.93"
+    "Price":"159.39",
+    "Chg":"-0.43",
+    "% Chg":"-0.27"
   },
   {
     "#":"332",
-    "Company":"Synchrony Financial",
-    "Symbol":"SYF",
+    "Company":"Biogen Inc",
+    "Symbol":"BIIB",
     "Weight":"0.04",
-    "Price":"78.51",
-    "Chg":"0.17",
-    "% Chg":"0.21"
+    "Price":"185.78",
+    "Chg":"2.44",
+    "% Chg":"1.33"
   },
   {
     "#":"333",
     "Company":"Edison International",
     "Symbol":"EIX",
     "Weight":"0.04",
-    "Price":"70.46",
-    "Chg":"-0.29",
-    "% Chg":"-0.41"
+    "Price":"70.54",
+    "Chg":"-0.04",
+    "% Chg":"-0.06"
   },
   {
     "#":"334",
-    "Company":"Biogen",
-    "Symbol":"BIIB",
+    "Company":"Synchrony Financial",
+    "Symbol":"SYF",
     "Weight":"0.04",
-    "Price":"183.61",
-    "Chg":"6.26",
-    "% Chg":"3.53"
+    "Price":"78.07",
+    "Chg":"-0.51",
+    "% Chg":"-0.65"
   },
   {
     "#":"335",
-    "Company":"Mettler Toledo",
-    "Symbol":"MTD",
+    "Company":"Ares Management Corp",
+    "Symbol":"ARES",
     "Weight":"0.04",
-    "Price":"1320.60",
-    "Chg":"-19.98",
-    "% Chg":"-1.49"
+    "Price":"120.64",
+    "Chg":"1.87",
+    "% Chg":"1.57"
   },
   {
     "#":"336",
-    "Company":"Ares Management Corporation",
-    "Symbol":"ARES",
+    "Company":"Mettler-Toledo International Inc",
+    "Symbol":"MTD",
     "Weight":"0.04",
-    "Price":"118.52",
-    "Chg":"0.74",
-    "% Chg":"0.63"
+    "Price":"1329.84",
+    "Chg":"5.18",
+    "% Chg":"0.39"
   },
   {
     "#":"337",
-    "Company":"Rollins, Inc.",
-    "Symbol":"ROL",
+    "Company":"Dow Inc",
+    "Symbol":"DOW",
     "Weight":"0.04",
-    "Price":"55.04",
-    "Chg":"0.04",
-    "% Chg":"0.08"
+    "Price":"37.20",
+    "Chg":"0.43",
+    "% Chg":"1.18"
   },
   {
     "#":"338",
-    "Company":"Dow Inc.",
-    "Symbol":"DOW",
+    "Company":"Humana Inc",
+    "Symbol":"HUM",
     "Weight":"0.04",
-    "Price":"36.72",
-    "Chg":"1.12",
-    "% Chg":"3.13"
+    "Price":"220.11",
+    "Chg":"9.77",
+    "% Chg":"4.64"
   },
   {
     "#":"339",
-    "Company":"Kraft Heinz",
-    "Symbol":"KHC",
+    "Company":"Rollins Inc",
+    "Symbol":"ROL",
     "Weight":"0.04",
-    "Price":"22.16",
-    "Chg":"-0.31",
-    "% Chg":"-1.40"
+    "Price":"54.49",
+    "Chg":"-0.41",
+    "% Chg":"-0.75"
   },
   {
     "#":"340",
-    "Company":"American Water Works",
-    "Symbol":"AWK",
+    "Company":"Kraft Heinz Co\/The",
+    "Symbol":"KHC",
     "Weight":"0.04",
-    "Price":"133.82",
-    "Chg":"2.21",
-    "% Chg":"1.68"
+    "Price":"21.99",
+    "Chg":"-0.22",
+    "% Chg":"-0.97"
   },
   {
     "#":"341",
-    "Company":"Cincinnati Financial",
-    "Symbol":"CINF",
+    "Company":"American Water Works Co Inc",
+    "Symbol":"AWK",
     "Weight":"0.04",
-    "Price":"165.54",
-    "Chg":"-1.28",
-    "% Chg":"-0.77"
+    "Price":"132.08",
+    "Chg":"-1.17",
+    "% Chg":"-0.88"
   },
   {
     "#":"342",
-    "Company":"Eversource Energy",
-    "Symbol":"ES",
+    "Company":"Cincinnati Financial Corp",
+    "Symbol":"CINF",
     "Weight":"0.04",
-    "Price":"68.41",
-    "Chg":"-0.84",
-    "% Chg":"-1.21"
+    "Price":"165.51",
+    "Chg":"-0.48",
+    "% Chg":"-0.29"
   },
   {
     "#":"343",
-    "Company":"PPG Industries",
+    "Company":"Fair Isaac Corp",
+    "Symbol":"FICO",
+    "Weight":"0.04",
+    "Price":"1075.77",
+    "Chg":"12.36",
+    "% Chg":"1.16"
+  },
+  {
+    "#":"344",
+    "Company":"PPG Industries Inc",
     "Symbol":"PPG",
     "Weight":"0.04",
-    "Price":"114.60",
+    "Price":"113.63",
+    "Chg":"-1.10",
+    "% Chg":"-0.96"
+  },
+  {
+    "#":"345",
+    "Company":"Eversource Energy",
+    "Symbol":"ES",
+    "Weight":"0.04",
+    "Price":"67.66",
+    "Chg":"-0.85",
+    "% Chg":"-1.24"
+  },
+  {
+    "#":"346",
+    "Company":"PulteGroup Inc",
+    "Symbol":"PHM",
+    "Weight":"0.04",
+    "Price":"130.58",
+    "Chg":"3.18",
+    "% Chg":"2.50"
+  },
+  {
+    "#":"347",
+    "Company":"Ulta Beauty Inc",
+    "Symbol":"ULTA",
+    "Weight":"0.04",
+    "Price":"569.83",
+    "Chg":"-2.41",
+    "% Chg":"-0.42"
+  },
+  {
+    "#":"348",
+    "Company":"Fidelity National Information Services Inc",
+    "Symbol":"FIS",
+    "Weight":"0.04",
+    "Price":"48.28",
+    "Chg":"-0.04",
+    "% Chg":"-0.08"
+  },
+  {
+    "#":"349",
+    "Company":"VeriSign Inc",
+    "Symbol":"VRSN",
+    "Weight":"0.04",
+    "Price":"272.27",
+    "Chg":"-3.54",
+    "% Chg":"-1.28"
+  },
+  {
+    "#":"350",
+    "Company":"Dexcom Inc",
+    "Symbol":"DXCM",
+    "Weight":"0.04",
+    "Price":"63.50",
+    "Chg":"-1.12",
+    "% Chg":"-1.73"
+  },
+  {
+    "#":"351",
+    "Company":"Williams-Sonoma Inc",
+    "Symbol":"WSM",
+    "Weight":"0.04",
+    "Price":"205.31",
+    "Chg":"3.29",
+    "% Chg":"1.63"
+  },
+  {
+    "#":"352",
+    "Company":"W R Berkley Corp",
+    "Symbol":"WRB",
+    "Weight":"0.04",
+    "Price":"65.25",
+    "Chg":"-0.95",
+    "% Chg":"-1.44"
+  },
+  {
+    "#":"353",
+    "Company":"AvalonBay Communities Inc",
+    "Symbol":"AVB",
+    "Weight":"0.04",
+    "Price":"174.51",
+    "Chg":"-1.85",
+    "% Chg":"-1.05"
+  },
+  {
+    "#":"354",
+    "Company":"Regions Financial Corp",
+    "Symbol":"RF",
+    "Weight":"0.04",
+    "Price":"28.38",
+    "Chg":"0.07",
+    "% Chg":"0.25"
+  },
+  {
+    "#":"355",
+    "Company":"KeyCorp",
+    "Symbol":"KEY",
+    "Weight":"0.04",
+    "Price":"22.22",
+    "Chg":"0.03",
+    "% Chg":"0.13"
+  },
+  {
+    "#":"356",
+    "Company":"Bunge Global SA",
+    "Symbol":"BG",
+    "Weight":"0.04",
+    "Price":"124.55",
+    "Chg":"2.09",
+    "% Chg":"1.71"
+  },
+  {
+    "#":"357",
+    "Company":"Verisk Analytics Inc",
+    "Symbol":"VRSK",
+    "Weight":"0.04",
+    "Price":"182.97",
+    "Chg":"3.22",
+    "% Chg":"1.79"
+  },
+  {
+    "#":"358",
+    "Company":"Coterra Energy Inc",
+    "Symbol":"CTRA",
+    "Weight":"0.04",
+    "Price":"31.32",
+    "Chg":"-0.10",
+    "% Chg":"-0.32"
+  },
+  {
+    "#":"359",
+    "Company":"Equifax Inc",
+    "Symbol":"EFX",
+    "Weight":"0.04",
+    "Price":"195.81",
+    "Chg":"-2.64",
+    "% Chg":"-1.33"
+  },
+  {
+    "#":"360",
+    "Company":"JB Hunt Transport Services Inc",
+    "Symbol":"JBHT",
+    "Weight":"0.04",
+    "Price":"250.22",
+    "Chg":"-1.38",
+    "% Chg":"-0.55"
+  },
+  {
+    "#":"361",
+    "Company":"Lennar Corp",
+    "Symbol":"LEN",
+    "Weight":"0.04",
+    "Price":"95.72",
+    "Chg":"1.60",
+    "% Chg":"1.70"
+  },
+  {
+    "#":"362",
+    "Company":"CMS Energy Corp",
+    "Symbol":"CMS",
+    "Weight":"0.04",
+    "Price":"76.50",
+    "Chg":"-0.54",
+    "% Chg":"-0.71"
+  },
+  {
+    "#":"363",
+    "Company":"Equity Residential",
+    "Symbol":"EQR",
+    "Weight":"0.04",
+    "Price":"62.70",
+    "Chg":"-0.73",
+    "% Chg":"-1.15"
+  },
+  {
+    "#":"364",
+    "Company":"Ralph Lauren Corp",
+    "Symbol":"RL",
+    "Weight":"0.04",
+    "Price":"384.03",
+    "Chg":"-5.49",
+    "% Chg":"-1.41"
+  },
+  {
+    "#":"365",
+    "Company":"Brown & Brown Inc",
+    "Symbol":"BRO",
+    "Weight":"0.04",
+    "Price":"68.28",
+    "Chg":"0.50",
+    "% Chg":"0.74"
+  },
+  {
+    "#":"366",
+    "Company":"Albemarle Corp",
+    "Symbol":"ALB",
+    "Weight":"0.04",
+    "Price":"195.35",
+    "Chg":"0.52",
+    "% Chg":"0.27"
+  },
+  {
+    "#":"367",
+    "Company":"Loews Corp",
+    "Symbol":"L",
+    "Weight":"0.04",
+    "Price":"111.19",
+    "Chg":"0.12",
+    "% Chg":"0.11"
+  },
+  {
+    "#":"368",
+    "Company":"Expand Energy Corp",
+    "Symbol":"EXE",
+    "Weight":"0.04",
+    "Price":"95.13",
+    "Chg":"-0.34",
+    "% Chg":"-0.36"
+  },
+  {
+    "#":"369",
+    "Company":"SBA Communications Corp",
+    "Symbol":"SBAC",
+    "Weight":"0.04",
+    "Price":"215.54",
+    "Chg":"-4.87",
+    "% Chg":"-2.21"
+  },
+  {
+    "#":"370",
+    "Company":"Darden Restaurants Inc",
+    "Symbol":"DRI",
+    "Weight":"0.04",
+    "Price":"198.05",
+    "Chg":"-3.80",
+    "% Chg":"-1.88"
+  },
+  {
+    "#":"371",
+    "Company":"Labcorp Holdings Inc",
+    "Symbol":"LH",
+    "Weight":"0.04",
+    "Price":"275.25",
+    "Chg":"6.06",
+    "% Chg":"2.25"
+  },
+  {
+    "#":"372",
+    "Company":"Quest Diagnostics Inc",
+    "Symbol":"DGX",
+    "Weight":"0.04",
+    "Price":"204.08",
+    "Chg":"7.77",
+    "% Chg":"3.96"
+  },
+  {
+    "#":"373",
+    "Company":"NiSource Inc",
+    "Symbol":"NI",
+    "Weight":"0.04",
+    "Price":"47.20",
+    "Chg":"-0.58",
+    "% Chg":"-1.21"
+  },
+  {
+    "#":"374",
+    "Company":"Tyson Foods Inc",
+    "Symbol":"TSN",
+    "Weight":"0.03",
+    "Price":"63.98",
+    "Chg":"0.31",
+    "% Chg":"0.49"
+  },
+  {
+    "#":"375",
+    "Company":"Omnicom Group Inc",
+    "Symbol":"OMC",
+    "Weight":"0.03",
+    "Price":"78.73",
+    "Chg":"0.23",
+    "% Chg":"0.29"
+  },
+  {
+    "#":"376",
+    "Company":"Church & Dwight Co Inc",
+    "Symbol":"CHD",
+    "Weight":"0.03",
+    "Price":"94.64",
+    "Chg":"-1.91",
+    "% Chg":"-1.98"
+  },
+  {
+    "#":"377",
+    "Company":"Veralto Corp",
+    "Symbol":"VLTO",
+    "Weight":"0.03",
+    "Price":"91.06",
+    "Chg":"0.77",
+    "% Chg":"0.86"
+  },
+  {
+    "#":"378",
+    "Company":"LyondellBasell Industries NV",
+    "Symbol":"LYB",
+    "Weight":"0.03",
+    "Price":"69.28",
+    "Chg":"0.70",
+    "% Chg":"1.02"
+  },
+  {
+    "#":"379",
+    "Company":"STERIS PLC",
+    "Symbol":"STE",
+    "Weight":"0.03",
+    "Price":"225.97",
+    "Chg":"-0.44",
+    "% Chg":"-0.19"
+  },
+  {
+    "#":"380",
+    "Company":"Corpay Inc",
+    "Symbol":"CPAY",
+    "Weight":"0.03",
+    "Price":"335.01",
+    "Chg":"-2.33",
+    "% Chg":"-0.69"
+  },
+  {
+    "#":"381",
+    "Company":"Smurfit WestRock PLC",
+    "Symbol":"SW",
+    "Weight":"0.03",
+    "Price":"42.10",
+    "Chg":"-0.60",
+    "% Chg":"-1.41"
+  },
+  {
+    "#":"382",
+    "Company":"NetApp Inc",
+    "Symbol":"NTAP",
+    "Weight":"0.03",
+    "Price":"111.77",
+    "Chg":"4.98",
+    "% Chg":"4.66"
+  },
+  {
+    "#":"383",
+    "Company":"T Rowe Price Group Inc",
+    "Symbol":"TROW",
+    "Weight":"0.03",
+    "Price":"99.42",
+    "Chg":"1.32",
+    "% Chg":"1.34"
+  },
+  {
+    "#":"384",
+    "Company":"Tractor Supply Co",
+    "Symbol":"TSCO",
+    "Weight":"0.03",
+    "Price":"41.05",
+    "Chg":"-3.76",
+    "% Chg":"-8.38"
+  },
+  {
+    "#":"385",
+    "Company":"Dollar Tree Inc",
+    "Symbol":"DLTR",
+    "Weight":"0.03",
+    "Price":"109.45",
+    "Chg":"2.20",
+    "% Chg":"2.05"
+  },
+  {
+    "#":"386",
+    "Company":"Moderna Inc",
+    "Symbol":"MRNA",
+    "Weight":"0.03",
+    "Price":"54.13",
+    "Chg":"-0.46",
+    "% Chg":"-0.84"
+  },
+  {
+    "#":"387",
+    "Company":"CH Robinson Worldwide Inc",
+    "Symbol":"CHRW",
+    "Weight":"0.03",
+    "Price":"181.13",
+    "Chg":"-2.82",
+    "% Chg":"-1.53"
+  },
+  {
+    "#":"388",
+    "Company":"Principal Financial Group Inc",
+    "Symbol":"PFG",
+    "Weight":"0.03",
+    "Price":"96.97",
+    "Chg":"0.78",
+    "% Chg":"0.81"
+  },
+  {
+    "#":"389",
+    "Company":"First Solar Inc",
+    "Symbol":"FSLR",
+    "Weight":"0.03",
+    "Price":"190.21",
+    "Chg":"-2.28",
+    "% Chg":"-1.18"
+  },
+  {
+    "#":"390",
+    "Company":"Global Payments Inc",
+    "Symbol":"GPN",
+    "Weight":"0.03",
+    "Price":"73.29",
+    "Chg":"0.46",
+    "% Chg":"0.63"
+  },
+  {
+    "#":"391",
+    "Company":"Snap-on Inc",
+    "Symbol":"SNA",
+    "Weight":"0.03",
+    "Price":"387.13",
+    "Chg":"0.27",
+    "% Chg":"0.07"
+  },
+  {
+    "#":"392",
+    "Company":"Southwest Airlines Co",
+    "Symbol":"LUV",
+    "Weight":"0.03",
+    "Price":"41.01",
+    "Chg":"-0.81",
+    "% Chg":"-1.95"
+  },
+  {
+    "#":"393",
+    "Company":"West Pharmaceutical Services Inc",
+    "Symbol":"WST",
+    "Weight":"0.03",
+    "Price":"276.83",
+    "Chg":"-1.17",
+    "% Chg":"-0.42"
+  },
+  {
+    "#":"394",
+    "Company":"NVR Inc",
+    "Symbol":"NVR",
+    "Weight":"0.03",
+    "Price":"7139.20",
+    "Chg":"42.23",
+    "% Chg":"0.60"
+  },
+  {
+    "#":"395",
+    "Company":"Expeditors International of Washington Inc",
+    "Symbol":"EXPD",
+    "Weight":"0.03",
+    "Price":"148.87",
+    "Chg":"-0.44",
+    "% Chg":"-0.29"
+  },
+  {
+    "#":"396",
+    "Company":"Lululemon Athletica Inc",
+    "Symbol":"LULU",
+    "Weight":"0.03",
+    "Price":"169.17",
+    "Chg":"2.36",
+    "% Chg":"1.42"
+  },
+  {
+    "#":"397",
+    "Company":"Leidos Holdings Inc",
+    "Symbol":"LDOS",
+    "Weight":"0.03",
+    "Price":"153.91",
+    "Chg":"-0.91",
+    "% Chg":"-0.58"
+  },
+  {
+    "#":"398",
+    "Company":"Centene Corp",
+    "Symbol":"CNC",
+    "Weight":"0.03",
+    "Price":"39.29",
+    "Chg":"0.98",
+    "% Chg":"2.56"
+  },
+  {
+    "#":"399",
+    "Company":"International Paper Co",
+    "Symbol":"IP",
+    "Weight":"0.03",
+    "Price":"36.32",
+    "Chg":"-0.57",
+    "% Chg":"-1.55"
+  },
+  {
+    "#":"400",
+    "Company":"Amcor PLC",
+    "Symbol":"AMCR",
+    "Weight":"0.03",
+    "Price":"41.56",
+    "Chg":"-0.09",
+    "% Chg":"-0.21"
+  },
+  {
+    "#":"401",
+    "Company":"DuPont de Nemours Inc",
+    "Symbol":"DD",
+    "Weight":"0.03",
+    "Price":"46.82",
+    "Chg":"-0.18",
+    "% Chg":"-0.37"
+  },
+  {
+    "#":"402",
+    "Company":"HP Inc",
+    "Symbol":"HPQ",
+    "Weight":"0.03",
+    "Price":"20.98",
+    "Chg":"1.39",
+    "% Chg":"7.11"
+  },
+  {
+    "#":"403",
+    "Company":"Incyte Corp",
+    "Symbol":"INCY",
+    "Weight":"0.03",
+    "Price":"96.11",
+    "Chg":"-0.81",
+    "% Chg":"-0.84"
+  },
+  {
+    "#":"404",
+    "Company":"Broadridge Financial Solutions Inc",
+    "Symbol":"BR",
+    "Weight":"0.03",
+    "Price":"163.41",
+    "Chg":"2.13",
+    "% Chg":"1.32"
+  },
+  {
+    "#":"405",
+    "Company":"International Flavors & Fragrances Inc",
+    "Symbol":"IFF",
+    "Weight":"0.03",
+    "Price":"74.33",
+    "Chg":"-0.11",
+    "% Chg":"-0.15"
+  },
+  {
+    "#":"406",
+    "Company":"Packaging Corp of America",
+    "Symbol":"PKG",
+    "Weight":"0.03",
+    "Price":"212.85",
+    "Chg":"-0.56",
+    "% Chg":"-0.26"
+  },
+  {
+    "#":"407",
+    "Company":"Fortive Corp",
+    "Symbol":"FTV",
+    "Weight":"0.03",
+    "Price":"61.07",
+    "Chg":"0.10",
+    "% Chg":"0.17"
+  },
+  {
+    "#":"408",
+    "Company":"General Mills Inc",
+    "Symbol":"GIS",
+    "Weight":"0.03",
+    "Price":"35.20",
+    "Chg":"-0.08",
+    "% Chg":"-0.22"
+  },
+  {
+    "#":"409",
+    "Company":"Evergy Inc",
+    "Symbol":"EVRG",
+    "Weight":"0.03",
+    "Price":"80.72",
+    "Chg":"-0.95",
+    "% Chg":"-1.16"
+  },
+  {
+    "#":"410",
+    "Company":"Alliant Energy Corp",
+    "Symbol":"LNT",
+    "Weight":"0.03",
+    "Price":"71.86",
+    "Chg":"-0.54",
+    "% Chg":"-0.75"
+  },
+  {
+    "#":"411",
+    "Company":"Zimmer Biomet Holdings Inc",
+    "Symbol":"ZBH",
+    "Weight":"0.03",
+    "Price":"94.78",
+    "Chg":"-0.70",
+    "% Chg":"-0.74"
+  },
+  {
+    "#":"412",
+    "Company":"Weyerhaeuser Co",
+    "Symbol":"WY",
+    "Weight":"0.03",
+    "Price":"25.32",
+    "Chg":"-0.12",
+    "% Chg":"-0.45"
+  },
+  {
+    "#":"413",
+    "Company":"CF Industries Holdings Inc",
+    "Symbol":"CF",
+    "Weight":"0.03",
+    "Price":"118.42",
+    "Chg":"2.48",
+    "% Chg":"2.14"
+  },
+  {
+    "#":"414",
+    "Company":"F5 Inc",
+    "Symbol":"FFIV",
+    "Weight":"0.03",
+    "Price":"317.24",
+    "Chg":"3.24",
+    "% Chg":"1.03"
+  },
+  {
+    "#":"415",
+    "Company":"CDW Corp\/DE",
+    "Symbol":"CDW",
+    "Weight":"0.03",
+    "Price":"139.84",
+    "Chg":"2.99",
+    "% Chg":"2.18"
+  },
+  {
+    "#":"416",
+    "Company":"Super Micro Computer Inc",
+    "Symbol":"SMCI",
+    "Weight":"0.03",
+    "Price":"29.39",
+    "Chg":"0.58",
+    "% Chg":"2.02"
+  },
+  {
+    "#":"417",
+    "Company":"Lennox International Inc",
+    "Symbol":"LII",
+    "Weight":"0.03",
+    "Price":"497.71",
+    "Chg":"4.25",
+    "% Chg":"0.86"
+  },
+  {
+    "#":"418",
+    "Company":"Viatris Inc",
+    "Symbol":"VTRS",
+    "Weight":"0.03",
+    "Price":"14.87",
+    "Chg":"-0.00",
+    "% Chg":"-0.03"
+  },
+  {
+    "#":"419",
+    "Company":"Ball Corp",
+    "Symbol":"BALL",
+    "Weight":"0.03",
+    "Price":"64.55",
+    "Chg":"0.52",
+    "% Chg":"0.81"
+  },
+  {
+    "#":"420",
+    "Company":"PTC Inc",
+    "Symbol":"PTC",
+    "Weight":"0.03",
+    "Price":"142.27",
+    "Chg":"1.52",
+    "% Chg":"1.08"
+  },
+  {
+    "#":"421",
+    "Company":"CoStar Group Inc",
+    "Symbol":"CSGP",
+    "Weight":"0.03",
+    "Price":"40.22",
+    "Chg":"0.16",
+    "% Chg":"0.39"
+  },
+  {
+    "#":"422",
+    "Company":"Essex Property Trust Inc",
+    "Symbol":"ESS",
+    "Weight":"0.03",
+    "Price":"256.45",
+    "Chg":"-2.09",
+    "% Chg":"-0.81"
+  },
+  {
+    "#":"423",
+    "Company":"Invitation Homes Inc",
+    "Symbol":"INVH",
+    "Weight":"0.03",
+    "Price":"27.23",
+    "Chg":"-0.23",
+    "% Chg":"-0.84"
+  },
+  {
+    "#":"424",
+    "Company":"Trimble Inc",
+    "Symbol":"TRMB",
+    "Weight":"0.03",
+    "Price":"69.76",
+    "Chg":"0.26",
+    "% Chg":"0.38"
+  },
+  {
+    "#":"425",
+    "Company":"Kimco Realty Corp",
+    "Symbol":"KIM",
+    "Weight":"0.03",
+    "Price":"23.94",
+    "Chg":"-0.12",
+    "% Chg":"-0.51"
+  },
+  {
+    "#":"426",
+    "Company":"Genuine Parts Co",
+    "Symbol":"GPC",
+    "Weight":"0.02",
+    "Price":"115.70",
+    "Chg":"3.11",
+    "% Chg":"2.76"
+  },
+  {
+    "#":"427",
+    "Company":"Nordson Corp",
+    "Symbol":"NDSN",
+    "Weight":"0.02",
+    "Price":"284.05",
+    "Chg":"0.97",
+    "% Chg":"0.34"
+  },
+  {
+    "#":"428",
+    "Company":"Deckers Outdoor Corp",
+    "Symbol":"DECK",
+    "Weight":"0.02",
+    "Price":"110.81",
     "Chg":"-0.25",
     "% Chg":"-0.22"
   },
   {
-    "#":"344",
-    "Company":"Humana",
-    "Symbol":"HUM",
-    "Weight":"0.04",
-    "Price":"210.12",
-    "Chg":"4.98",
-    "% Chg":"2.43"
-  },
-  {
-    "#":"345",
-    "Company":"Verisign",
-    "Symbol":"VRSN",
-    "Weight":"0.04",
-    "Price":"276.80",
-    "Chg":"2.75",
-    "% Chg":"1.00"
-  },
-  {
-    "#":"346",
-    "Company":"Ulta Beauty",
-    "Symbol":"ULTA",
-    "Weight":"0.04",
-    "Price":"572.70",
-    "Chg":"19.34",
-    "% Chg":"3.49"
-  },
-  {
-    "#":"347",
-    "Company":"Fair Isaac",
-    "Symbol":"FICO",
-    "Weight":"0.04",
-    "Price":"1055.65",
-    "Chg":"-17.87",
-    "% Chg":"-1.66"
-  },
-  {
-    "#":"348",
-    "Company":"Dexcom",
-    "Symbol":"DXCM",
-    "Weight":"0.04",
-    "Price":"64.49",
-    "Chg":"0.51",
-    "% Chg":"0.80"
-  },
-  {
-    "#":"349",
-    "Company":"Fidelity National Information Services",
-    "Symbol":"FIS",
-    "Weight":"0.04",
-    "Price":"48.17",
-    "Chg":"-0.33",
-    "% Chg":"-0.68"
-  },
-  {
-    "#":"350",
-    "Company":"W. R. Berkley Corporation",
-    "Symbol":"WRB",
-    "Weight":"0.04",
-    "Price":"66.07",
-    "Chg":"-0.76",
-    "% Chg":"-1.14"
-  },
-  {
-    "#":"351",
-    "Company":"AvalonBay Communities",
-    "Symbol":"AVB",
-    "Weight":"0.04",
-    "Price":"176.01",
-    "Chg":"2.12",
-    "% Chg":"1.22"
-  },
-  {
-    "#":"352",
-    "Company":"PulteGroup",
-    "Symbol":"PHM",
-    "Weight":"0.04",
-    "Price":"127.10",
-    "Chg":"0.57",
-    "% Chg":"0.45"
-  },
-  {
-    "#":"353",
-    "Company":"Regions Financial Corporation",
-    "Symbol":"RF",
-    "Weight":"0.04",
-    "Price":"28.27",
-    "Chg":"0.14",
-    "% Chg":"0.52"
-  },
-  {
-    "#":"354",
-    "Company":"KeyCorp",
-    "Symbol":"KEY",
-    "Weight":"0.04",
-    "Price":"22.20",
-    "Chg":"0.39",
-    "% Chg":"1.81"
-  },
-  {
-    "#":"355",
-    "Company":"Williams-Sonoma",
-    "Symbol":"WSM",
-    "Weight":"0.04",
-    "Price":"201.97",
-    "Chg":"3.28",
-    "% Chg":"1.65"
-  },
-  {
-    "#":"356",
-    "Company":"Equifax",
-    "Symbol":"EFX",
-    "Weight":"0.04",
-    "Price":"199.16",
-    "Chg":"2.94",
-    "% Chg":"1.50"
-  },
-  {
-    "#":"357",
-    "Company":"J.B. Hunt",
-    "Symbol":"JBHT",
-    "Weight":"0.04",
-    "Price":"252.78",
-    "Chg":"7.70",
-    "% Chg":"3.14"
-  },
-  {
-    "#":"358",
-    "Company":"Equity Residential",
-    "Symbol":"EQR",
-    "Weight":"0.04",
-    "Price":"63.41",
-    "Chg":"0.73",
-    "% Chg":"1.17"
-  },
-  {
-    "#":"359",
-    "Company":"Coterra",
-    "Symbol":"CTRA",
-    "Weight":"0.04",
-    "Price":"31.28",
-    "Chg":"0.39",
-    "% Chg":"1.28"
-  },
-  {
-    "#":"360",
-    "Company":"CMS Energy",
-    "Symbol":"CMS",
-    "Weight":"0.04",
-    "Price":"76.92",
-    "Chg":"-0.83",
-    "% Chg":"-1.07"
-  },
-  {
-    "#":"361",
-    "Company":"Ralph Lauren Corporation",
-    "Symbol":"RL",
-    "Weight":"0.04",
-    "Price":"390.35",
-    "Chg":"3.47",
-    "% Chg":"0.90"
-  },
-  {
-    "#":"362",
-    "Company":"Bunge Global",
-    "Symbol":"BG",
-    "Weight":"0.04",
-    "Price":"121.57",
-    "Chg":"2.31",
-    "% Chg":"1.93"
-  },
-  {
-    "#":"363",
-    "Company":"Verisk Analytics",
-    "Symbol":"VRSK",
-    "Weight":"0.04",
-    "Price":"179.69",
-    "Chg":"1.62",
-    "% Chg":"0.91"
-  },
-  {
-    "#":"364",
-    "Company":"Tractor Supply",
-    "Symbol":"TSCO",
-    "Weight":"0.04",
-    "Price":"44.74",
-    "Chg":"-0.27",
-    "% Chg":"-0.60"
-  },
-  {
-    "#":"365",
-    "Company":"SBA Communications",
-    "Symbol":"SBAC",
-    "Weight":"0.04",
-    "Price":"220.09",
-    "Chg":"-3.05",
-    "% Chg":"-1.37"
-  },
-  {
-    "#":"366",
-    "Company":"Darden Restaurants",
-    "Symbol":"DRI",
-    "Weight":"0.04",
-    "Price":"201.94",
-    "Chg":"0.88",
-    "% Chg":"0.44"
-  },
-  {
-    "#":"367",
-    "Company":"Lennar",
-    "Symbol":"LEN",
-    "Weight":"0.04",
-    "Price":"93.90",
-    "Chg":"1.11",
-    "% Chg":"1.19"
-  },
-  {
-    "#":"368",
-    "Company":"Albemarle Corporation",
-    "Symbol":"ALB",
-    "Weight":"0.04",
-    "Price":"195.27",
-    "Chg":"-2.48",
-    "% Chg":"-1.25"
-  },
-  {
-    "#":"369",
-    "Company":"Brown & Brown",
-    "Symbol":"BRO",
-    "Weight":"0.04",
-    "Price":"67.64",
-    "Chg":"-0.08",
-    "% Chg":"-0.11"
-  },
-  {
-    "#":"370",
-    "Company":"NiSource",
-    "Symbol":"NI",
-    "Weight":"0.04",
-    "Price":"47.83",
-    "Chg":"-0.48",
-    "% Chg":"-1.00"
-  },
-  {
-    "#":"371",
-    "Company":"Expand Energy",
-    "Symbol":"EXE",
-    "Weight":"0.04",
-    "Price":"95.19",
-    "Chg":"-0.63",
-    "% Chg":"-0.66"
-  },
-  {
-    "#":"372",
-    "Company":"Church & Dwight",
-    "Symbol":"CHD",
-    "Weight":"0.04",
-    "Price":"96.56",
-    "Chg":"-0.32",
-    "% Chg":"-0.33"
-  },
-  {
-    "#":"373",
-    "Company":"Loews Corporation",
-    "Symbol":"L",
-    "Weight":"0.04",
-    "Price":"110.91",
-    "Chg":"-0.44",
-    "% Chg":"-0.40"
-  },
-  {
-    "#":"374",
-    "Company":"Omnicom Group",
-    "Symbol":"OMC",
-    "Weight":"0.03",
-    "Price":"78.97",
-    "Chg":"0.30",
-    "% Chg":"0.39"
-  },
-  {
-    "#":"375",
-    "Company":"Smurfit WestRock",
-    "Symbol":"SW",
-    "Weight":"0.03",
-    "Price":"42.82",
-    "Chg":"0.58",
-    "% Chg":"1.37"
-  },
-  {
-    "#":"376",
-    "Company":"Tyson Foods",
-    "Symbol":"TSN",
-    "Weight":"0.03",
-    "Price":"63.40",
-    "Chg":"-1.42",
-    "% Chg":"-2.20"
-  },
-  {
-    "#":"377",
-    "Company":"Corpay",
-    "Symbol":"CPAY",
-    "Weight":"0.03",
-    "Price":"336.56",
-    "Chg":"1.92",
-    "% Chg":"0.57"
-  },
-  {
-    "#":"378",
-    "Company":"Veralto",
-    "Symbol":"VLTO",
-    "Weight":"0.03",
-    "Price":"90.30",
-    "Chg":"-0.68",
-    "% Chg":"-0.75"
-  },
-  {
-    "#":"379",
-    "Company":"LyondellBasell",
-    "Symbol":"LYB",
-    "Weight":"0.03",
-    "Price":"68.34",
-    "Chg":"2.07",
-    "% Chg":"3.12"
-  },
-  {
-    "#":"380",
-    "Company":"Steris",
-    "Symbol":"STE",
-    "Weight":"0.03",
-    "Price":"224.81",
-    "Chg":"-0.98",
-    "% Chg":"-0.43"
-  },
-  {
-    "#":"381",
-    "Company":"LabCorp",
-    "Symbol":"LH",
-    "Weight":"0.03",
-    "Price":"268.00",
-    "Chg":"-2.68",
-    "% Chg":"-0.99"
-  },
-  {
-    "#":"382",
-    "Company":"Quest Diagnostics",
-    "Symbol":"DGX",
-    "Weight":"0.03",
-    "Price":"195.75",
-    "Chg":"0.73",
-    "% Chg":"0.37"
-  },
-  {
-    "#":"383",
-    "Company":"Moderna",
-    "Symbol":"MRNA",
-    "Weight":"0.03",
-    "Price":"54.41",
-    "Chg":"0.69",
-    "% Chg":"1.28"
-  },
-  {
-    "#":"384",
-    "Company":"C.H. Robinson",
-    "Symbol":"CHRW",
-    "Weight":"0.03",
-    "Price":"182.97",
-    "Chg":"0.73",
-    "% Chg":"0.40"
-  },
-  {
-    "#":"385",
-    "Company":"T. Rowe Price",
-    "Symbol":"TROW",
-    "Weight":"0.03",
-    "Price":"98.08",
-    "Chg":"1.10",
-    "% Chg":"1.13"
-  },
-  {
-    "#":"386",
-    "Company":"Dollar Tree",
-    "Symbol":"DLTR",
-    "Weight":"0.03",
-    "Price":"106.91",
-    "Chg":"0.98",
-    "% Chg":"0.93"
-  },
-  {
-    "#":"387",
-    "Company":"NetApp",
-    "Symbol":"NTAP",
-    "Weight":"0.03",
-    "Price":"106.39",
-    "Chg":"1.86",
-    "% Chg":"1.78"
-  },
-  {
-    "#":"388",
-    "Company":"Principal Financial Group",
-    "Symbol":"PFG",
-    "Weight":"0.03",
-    "Price":"96.07",
-    "Chg":"-0.10",
-    "% Chg":"-0.10"
-  },
-  {
-    "#":"389",
-    "Company":"First Solar",
-    "Symbol":"FSLR",
-    "Weight":"0.03",
-    "Price":"192.56",
-    "Chg":"2.12",
-    "% Chg":"1.11"
-  },
-  {
-    "#":"390",
-    "Company":"Southwest Airlines",
-    "Symbol":"LUV",
-    "Weight":"0.03",
-    "Price":"41.70",
-    "Chg":"-1.00",
-    "% Chg":"-2.34"
-  },
-  {
-    "#":"391",
-    "Company":"Snap-on",
-    "Symbol":"SNA",
-    "Weight":"0.03",
-    "Price":"386.55",
-    "Chg":"6.28",
-    "% Chg":"1.65"
-  },
-  {
-    "#":"392",
-    "Company":"West Pharmaceutical Services",
-    "Symbol":"WST",
-    "Weight":"0.03",
-    "Price":"278.22",
-    "Chg":"4.49",
-    "% Chg":"1.64"
-  },
-  {
-    "#":"393",
-    "Company":"Global Payments",
-    "Symbol":"GPN",
-    "Weight":"0.03",
-    "Price":"72.72",
-    "Chg":"0.35",
-    "% Chg":"0.49"
-  },
-  {
-    "#":"394",
-    "Company":"Expeditors International",
-    "Symbol":"EXPD",
-    "Weight":"0.03",
-    "Price":"148.98",
-    "Chg":"1.68",
-    "% Chg":"1.14"
-  },
-  {
-    "#":"395",
-    "Company":"NVR, Inc.",
-    "Symbol":"NVR",
-    "Weight":"0.03",
-    "Price":"7055.31",
-    "Chg":"54.39",
-    "% Chg":"0.78"
-  },
-  {
-    "#":"396",
-    "Company":"International Paper",
-    "Symbol":"IP",
-    "Weight":"0.03",
-    "Price":"36.85",
-    "Chg":"-0.28",
-    "% Chg":"-0.76"
-  },
-  {
-    "#":"397",
-    "Company":"Leidos",
-    "Symbol":"LDOS",
-    "Weight":"0.03",
-    "Price":"154.07",
-    "Chg":"-1.09",
-    "% Chg":"-0.71"
-  },
-  {
-    "#":"398",
-    "Company":"Lululemon Athletica",
-    "Symbol":"LULU",
-    "Weight":"0.03",
-    "Price":"167.03",
-    "Chg":"-0.25",
-    "% Chg":"-0.15"
-  },
-  {
-    "#":"399",
-    "Company":"Incyte",
-    "Symbol":"INCY",
-    "Weight":"0.03",
-    "Price":"96.95",
-    "Chg":"-0.87",
-    "% Chg":"-0.89"
-  },
-  {
-    "#":"400",
-    "Company":"Amcor",
-    "Symbol":"AMCR",
-    "Weight":"0.03",
-    "Price":"41.54",
-    "Chg":"-0.40",
-    "% Chg":"-0.96"
-  },
-  {
-    "#":"401",
-    "Company":"DuPont",
-    "Symbol":"DD",
-    "Weight":"0.03",
-    "Price":"46.80",
-    "Chg":"-0.55",
-    "% Chg":"-1.16"
-  },
-  {
-    "#":"402",
-    "Company":"Packaging Corporation of America",
-    "Symbol":"PKG",
-    "Weight":"0.03",
-    "Price":"213.72",
-    "Chg":"0.34",
-    "% Chg":"0.16"
-  },
-  {
-    "#":"403",
-    "Company":"International Flavors & Fragrances",
-    "Symbol":"IFF",
-    "Weight":"0.03",
-    "Price":"74.27",
-    "Chg":"-1.61",
-    "% Chg":"-2.12"
-  },
-  {
-    "#":"404",
-    "Company":"Broadridge Financial Solutions",
-    "Symbol":"BR",
-    "Weight":"0.03",
-    "Price":"161.42",
-    "Chg":"-1.50",
-    "% Chg":"-0.92"
-  },
-  {
-    "#":"405",
-    "Company":"Evergy",
-    "Symbol":"EVRG",
-    "Weight":"0.03",
-    "Price":"81.61",
-    "Chg":"-0.76",
-    "% Chg":"-0.93"
-  },
-  {
-    "#":"406",
-    "Company":"General Mills",
-    "Symbol":"GIS",
-    "Weight":"0.03",
-    "Price":"35.13",
-    "Chg":"-0.38",
-    "% Chg":"-1.06"
-  },
-  {
-    "#":"407",
-    "Company":"Centene Corporation",
-    "Symbol":"CNC",
-    "Weight":"0.03",
-    "Price":"38.11",
-    "Chg":"-0.06",
-    "% Chg":"-0.16"
-  },
-  {
-    "#":"408",
-    "Company":"Fortive",
-    "Symbol":"FTV",
-    "Weight":"0.03",
-    "Price":"60.82",
-    "Chg":"0.30",
-    "% Chg":"0.49"
-  },
-  {
-    "#":"409",
-    "Company":"Alliant Energy",
-    "Symbol":"LNT",
-    "Weight":"0.03",
-    "Price":"72.39",
-    "Chg":"-0.44",
-    "% Chg":"-0.61"
-  },
-  {
-    "#":"410",
-    "Company":"Zimmer Biomet",
-    "Symbol":"ZBH",
-    "Weight":"0.03",
-    "Price":"95.08",
-    "Chg":"0.30",
-    "% Chg":"0.32"
-  },
-  {
-    "#":"411",
-    "Company":"Weyerhaeuser",
-    "Symbol":"WY",
-    "Weight":"0.03",
-    "Price":"25.43",
-    "Chg":"0.25",
-    "% Chg":"1.01"
-  },
-  {
-    "#":"412",
-    "Company":"HP Inc.",
-    "Symbol":"HPQ",
-    "Weight":"0.03",
-    "Price":"19.64",
-    "Chg":"-0.24",
-    "% Chg":"-1.23"
-  },
-  {
-    "#":"413",
-    "Company":"CF Industries",
-    "Symbol":"CF",
-    "Weight":"0.03",
-    "Price":"115.84",
-    "Chg":"3.16",
-    "% Chg":"2.81"
-  },
-  {
-    "#":"414",
-    "Company":"F5, Inc.",
-    "Symbol":"FFIV",
-    "Weight":"0.03",
-    "Price":"313.90",
-    "Chg":"3.03",
-    "% Chg":"0.97"
-  },
-  {
-    "#":"415",
-    "Company":"CDW",
-    "Symbol":"CDW",
-    "Weight":"0.03",
-    "Price":"137.19",
-    "Chg":"3.23",
-    "% Chg":"2.41"
-  },
-  {
-    "#":"416",
-    "Company":"Viatris",
-    "Symbol":"VTRS",
-    "Weight":"0.03",
-    "Price":"14.87",
-    "Chg":"0.19",
-    "% Chg":"1.27"
-  },
-  {
-    "#":"417",
-    "Company":"Supermicro",
-    "Symbol":"SMCI",
-    "Weight":"0.03",
-    "Price":"28.76",
-    "Chg":"0.20",
-    "% Chg":"0.71"
-  },
-  {
-    "#":"418",
-    "Company":"Lennox International",
-    "Symbol":"LII",
-    "Weight":"0.03",
-    "Price":"492.33",
-    "Chg":"5.22",
-    "% Chg":"1.07"
-  },
-  {
-    "#":"419",
-    "Company":"Ball Corporation",
-    "Symbol":"BALL",
-    "Weight":"0.03",
-    "Price":"64.01",
-    "Chg":"-0.47",
-    "% Chg":"-0.73"
-  },
-  {
-    "#":"420",
-    "Company":"CoStar Group",
-    "Symbol":"CSGP",
-    "Weight":"0.03",
-    "Price":"40.09",
-    "Chg":"0.37",
-    "% Chg":"0.93"
-  },
-  {
-    "#":"421",
-    "Company":"PTC Inc.",
-    "Symbol":"PTC",
-    "Weight":"0.03",
-    "Price":"140.41",
-    "Chg":"0.67",
-    "% Chg":"0.48"
-  },
-  {
-    "#":"422",
-    "Company":"Essex Property Trust",
-    "Symbol":"ESS",
-    "Weight":"0.03",
-    "Price":"258.44",
-    "Chg":"3.47",
-    "% Chg":"1.36"
-  },
-  {
-    "#":"423",
-    "Company":"Invitation Homes",
-    "Symbol":"INVH",
-    "Weight":"0.03",
-    "Price":"27.43",
-    "Chg":"0.40",
-    "% Chg":"1.50"
-  },
-  {
-    "#":"424",
-    "Company":"Kimco Realty",
-    "Symbol":"KIM",
-    "Weight":"0.03",
-    "Price":"24.02",
-    "Chg":"-0.17",
-    "% Chg":"-0.72"
-  },
-  {
-    "#":"425",
-    "Company":"Trimble Inc.",
-    "Symbol":"TRMB",
-    "Weight":"0.02",
-    "Price":"69.45",
-    "Chg":"0.16",
-    "% Chg":"0.24"
-  },
-  {
-    "#":"426",
-    "Company":"Textron",
+    "#":"429",
+    "Company":"Textron Inc",
     "Symbol":"TXT",
     "Weight":"0.02",
-    "Price":"91.38",
-    "Chg":"-0.23",
-    "% Chg":"-0.25"
-  },
-  {
-    "#":"427",
-    "Company":"Deckers Brands",
-    "Symbol":"DECK",
-    "Weight":"0.02",
-    "Price":"111.25",
-    "Chg":"-1.25",
-    "% Chg":"-1.11"
-  },
-  {
-    "#":"428",
-    "Company":"Nordson Corporation",
-    "Symbol":"NDSN",
-    "Weight":"0.02",
-    "Price":"283.05",
-    "Chg":"1.16",
-    "% Chg":"0.41"
-  },
-  {
-    "#":"429",
-    "Company":"Genuine Parts Company",
-    "Symbol":"GPC",
-    "Weight":"0.02",
-    "Price":"111.93",
-    "Chg":"-1.86",
-    "% Chg":"-1.63"
+    "Price":"90.09",
+    "Chg":"-1.41",
+    "% Chg":"-1.54"
   },
   {
     "#":"430",
-    "Company":"Huntington Ingalls Industries",
-    "Symbol":"HII",
+    "Company":"IDEX Corp",
+    "Symbol":"IEX",
     "Weight":"0.02",
-    "Price":"391.44",
-    "Chg":"-3.37",
-    "% Chg":"-0.85"
+    "Price":"206.81",
+    "Chg":"0.45",
+    "% Chg":"0.22"
   },
   {
     "#":"431",
-    "Company":"IDEX Corporation",
-    "Symbol":"IEX",
-    "Weight":"0.02",
-    "Price":"206.84",
-    "Chg":"0.93",
-    "% Chg":"0.45"
-  },
-  {
-    "#":"432",
-    "Company":"Jacobs Solutions",
+    "Company":"Jacobs Solutions Inc",
     "Symbol":"J",
     "Weight":"0.02",
-    "Price":"128.86",
-    "Chg":"-0.07",
-    "% Chg":"-0.06"
-  },
-  {
-    "#":"433",
-    "Company":"Mid-America Apartment Communities",
-    "Symbol":"MAA",
-    "Weight":"0.02",
-    "Price":"129.34",
-    "Chg":"1.40",
+    "Price":"130.28",
+    "Chg":"1.41",
     "% Chg":"1.09"
   },
   {
+    "#":"432",
+    "Company":"Huntington Ingalls Industries Inc",
+    "Symbol":"HII",
+    "Weight":"0.02",
+    "Price":"382.05",
+    "Chg":"-10.14",
+    "% Chg":"-2.59"
+  },
+  {
+    "#":"433",
+    "Company":"Mid-America Apartment Communities Inc",
+    "Symbol":"MAA",
+    "Weight":"0.02",
+    "Price":"127.94",
+    "Chg":"-1.53",
+    "% Chg":"-1.18"
+  },
+  {
     "#":"434",
-    "Company":"Regency Centers",
+    "Company":"Regency Centers Corp",
     "Symbol":"REG",
     "Weight":"0.02",
-    "Price":"81.20",
-    "Chg":"0.27",
-    "% Chg":"0.33"
+    "Price":"80.44",
+    "Chg":"-0.68",
+    "% Chg":"-0.83"
   },
   {
     "#":"435",
-    "Company":"Tyler Technologies",
-    "Symbol":"TYL",
+    "Company":"Pentair PLC",
+    "Symbol":"PNR",
     "Weight":"0.02",
-    "Price":"347.37",
-    "Chg":"4.76",
-    "% Chg":"1.39"
+    "Price":"90.55",
+    "Chg":"0.12",
+    "% Chg":"0.14"
   },
   {
     "#":"436",
-    "Company":"Pentair",
-    "Symbol":"PNR",
+    "Company":"Tyler Technologies Inc",
+    "Symbol":"TYL",
     "Weight":"0.02",
-    "Price":"90.44",
-    "Chg":"-0.64",
-    "% Chg":"-0.70"
+    "Price":"344.54",
+    "Chg":"-1.39",
+    "% Chg":"-0.40"
   },
   {
     "#":"437",
-    "Company":"Host Hotels & Resorts",
+    "Company":"Host Hotels & Resorts Inc",
     "Symbol":"HST",
     "Weight":"0.02",
-    "Price":"21.27",
-    "Chg":"0.14",
-    "% Chg":"0.69"
+    "Price":"21.16",
+    "Chg":"-0.13",
+    "% Chg":"-0.61"
   },
   {
     "#":"438",
-    "Company":"Franklin Resources",
-    "Symbol":"BEN",
+    "Company":"Akamai Technologies Inc",
+    "Symbol":"AKAM",
     "Weight":"0.02",
-    "Price":"27.70",
-    "Chg":"0.43",
-    "% Chg":"1.57"
+    "Price":"98.23",
+    "Chg":"0.61",
+    "% Chg":"0.62"
   },
   {
     "#":"439",
-    "Company":"TKO Group Holdings",
+    "Company":"TKO Group Holdings Inc",
     "Symbol":"TKO",
     "Weight":"0.02",
-    "Price":"183.89",
-    "Chg":"-2.42",
-    "% Chg":"-1.30"
+    "Price":"185.19",
+    "Chg":"0.49",
+    "% Chg":"0.27"
   },
   {
     "#":"440",
-    "Company":"Akamai Technologies",
-    "Symbol":"AKAM",
+    "Company":"Franklin Resources Inc",
+    "Symbol":"BEN",
     "Weight":"0.02",
-    "Price":"97.19",
-    "Chg":"1.30",
-    "% Chg":"1.36"
+    "Price":"27.63",
+    "Chg":"-0.10",
+    "% Chg":"-0.35"
   },
   {
     "#":"441",
-    "Company":"McCormick & Company",
-    "Symbol":"MKC",
+    "Company":"Align Technology Inc",
+    "Symbol":"ALGN",
     "Weight":"0.02",
-    "Price":"52.37",
-    "Chg":"-1.96",
-    "% Chg":"-3.61"
+    "Price":"197.83",
+    "Chg":"6.17",
+    "% Chg":"3.22"
   },
   {
     "#":"442",
-    "Company":"Best Buy",
-    "Symbol":"BBY",
+    "Company":"McCormick & Co Inc\/MD",
+    "Symbol":"MKC",
     "Weight":"0.02",
-    "Price":"67.24",
-    "Chg":"1.51",
-    "% Chg":"2.30"
+    "Price":"52.51",
+    "Chg":"-0.34",
+    "% Chg":"-0.64"
   },
   {
     "#":"443",
-    "Company":"Everest Group",
-    "Symbol":"EG",
+    "Company":"Best Buy Co Inc",
+    "Symbol":"BBY",
     "Weight":"0.02",
-    "Price":"350.98",
-    "Chg":"-0.51",
-    "% Chg":"-0.14"
+    "Price":"67.30",
+    "Chg":"0.36",
+    "% Chg":"0.54"
   },
   {
     "#":"444",
-    "Company":"Insulet Corporation",
-    "Symbol":"PODD",
+    "Company":"Everest Group Ltd",
+    "Symbol":"EG",
     "Weight":"0.02",
-    "Price":"200.05",
-    "Chg":"-3.68",
-    "% Chg":"-1.81"
+    "Price":"349.97",
+    "Chg":"-0.67",
+    "% Chg":"-0.19"
   },
   {
     "#":"445",
-    "Company":"Align Technology",
-    "Symbol":"ALGN",
+    "Company":"Insulet Corp",
+    "Symbol":"PODD",
     "Weight":"0.02",
-    "Price":"192.02",
-    "Chg":"1.95",
-    "% Chg":"1.03"
+    "Price":"195.79",
+    "Chg":"-5.08",
+    "% Chg":"-2.53"
   },
   {
     "#":"446",
-    "Company":"Cooper Companies The",
-    "Symbol":"COO",
+    "Company":"Masco Corp",
+    "Symbol":"MAS",
     "Weight":"0.02",
-    "Price":"69.36",
-    "Chg":"-0.70",
-    "% Chg":"-1.01"
+    "Price":"66.38",
+    "Chg":"-0.30",
+    "% Chg":"-0.45"
   },
   {
     "#":"447",
-    "Company":"Masco",
-    "Symbol":"MAS",
+    "Company":"Brown-Forman Corp",
+    "Symbol":"BF.B",
     "Weight":"0.02",
-    "Price":"66.40",
-    "Chg":"-0.18",
-    "% Chg":"-0.28"
+    "Price":"29.20",
+    "Chg":"-0.06",
+    "% Chg":"-0.21"
   },
   {
     "#":"448",
-    "Company":"Hasbro",
-    "Symbol":"HAS",
+    "Company":"Cooper Cos Inc\/The",
+    "Symbol":"COO",
     "Weight":"0.02",
-    "Price":"95.06",
-    "Chg":"-2.09",
-    "% Chg":"-2.15"
+    "Price":"68.62",
+    "Chg":"-0.84",
+    "% Chg":"-1.21"
   },
   {
     "#":"449",
-    "Company":"Brown–Forman",
-    "Symbol":"BF.B",
+    "Company":"Hasbro Inc",
+    "Symbol":"HAS",
     "Weight":"0.02",
-    "Price":"29.11",
-    "Chg":"-0.04",
-    "% Chg":"-0.12"
+    "Price":"94.10",
+    "Chg":"-1.28",
+    "% Chg":"-1.34"
   },
   {
     "#":"450",
-    "Company":"Avery Dennison",
-    "Symbol":"AVY",
+    "Company":"Erie Indemnity Co",
+    "Symbol":"ERIE",
     "Weight":"0.02",
-    "Price":"172.70",
-    "Chg":"0.22",
-    "% Chg":"0.13"
+    "Price":"252.87",
+    "Chg":"-0.76",
+    "% Chg":"-0.30"
   },
   {
     "#":"451",
-    "Company":"Erie Indemnity",
-    "Symbol":"ERIE",
+    "Company":"Avery Dennison Corp",
+    "Symbol":"AVY",
     "Weight":"0.02",
-    "Price":"253.40",
-    "Chg":"8.59",
-    "% Chg":"3.51"
+    "Price":"171.22",
+    "Chg":"-0.90",
+    "% Chg":"-0.52"
   },
   {
     "#":"452",
     "Company":"Paramount Skydance Corp",
     "Symbol":"PSKY",
     "Weight":"0.02",
-    "Price":"11.79",
-    "Chg":"0.05",
-    "% Chg":"0.47"
+    "Price":"11.78",
+    "Chg":"-0.04",
+    "% Chg":"-0.33"
   },
   {
     "#":"453",
-    "Company":"Fox Corporation Class B",
-    "Symbol":"FOX",
+    "Company":"Aptiv PLC",
+    "Symbol":"APTV",
     "Weight":"0.02",
-    "Price":"57.98",
-    "Chg":"-0.55",
-    "% Chg":"-0.93"
+    "Price":"61.41",
+    "Chg":"0.58",
+    "% Chg":"0.96"
   },
   {
     "#":"454",
-    "Company":"Fox Corporation Class A",
+    "Company":"Fox Corp",
     "Symbol":"FOXA",
     "Weight":"0.02",
-    "Price":"64.69",
-    "Chg":"-0.38",
-    "% Chg":"-0.59"
+    "Price":"64.51",
+    "Chg":"-0.24",
+    "% Chg":"-0.38"
   },
   {
     "#":"455",
-    "Company":"Aptiv",
-    "Symbol":"APTV",
+    "Company":"Fox Corp",
+    "Symbol":"FOX",
     "Weight":"0.02",
-    "Price":"60.75",
-    "Chg":"1.13",
-    "% Chg":"1.89"
+    "Price":"57.61",
+    "Chg":"-0.38",
+    "% Chg":"-0.66"
   },
   {
     "#":"456",
-    "Company":"Generac",
-    "Symbol":"GNRC",
+    "Company":"APA Corp",
+    "Symbol":"APA",
     "Weight":"0.02",
-    "Price":"218.05",
-    "Chg":"5.95",
-    "% Chg":"2.81"
+    "Price":"36.37",
+    "Chg":"0.40",
+    "% Chg":"1.13"
   },
   {
     "#":"457",
-    "Company":"APA Corporation",
-    "Symbol":"APA",
+    "Company":"Generac Holdings Inc",
+    "Symbol":"GNRC",
     "Weight":"0.02",
-    "Price":"36.02",
-    "Chg":"0.28",
-    "% Chg":"0.79"
+    "Price":"215.33",
+    "Chg":"-1.93",
+    "% Chg":"-0.89"
   },
   {
     "#":"458",
-    "Company":"Allegion",
+    "Company":"Allegion plc",
     "Symbol":"ALLE",
     "Weight":"0.02",
-    "Price":"145.36",
-    "Chg":"1.04",
-    "% Chg":"0.72"
+    "Price":"145.57",
+    "Chg":"0.45",
+    "% Chg":"0.31"
   },
   {
     "#":"459",
-    "Company":"Pinnacle West",
-    "Symbol":"PNW",
+    "Company":"Domino's Pizza Inc",
+    "Symbol":"DPZ",
     "Weight":"0.02",
-    "Price":"102.95",
-    "Chg":"-1.09",
-    "% Chg":"-1.05"
+    "Price":"368.09",
+    "Chg":"-1.37",
+    "% Chg":"-0.37"
   },
   {
     "#":"460",
-    "Company":"Domino's",
-    "Symbol":"DPZ",
+    "Company":"Pinnacle West Capital Corp",
+    "Symbol":"PNW",
     "Weight":"0.02",
-    "Price":"369.19",
-    "Chg":"-2.88",
-    "% Chg":"-0.77"
+    "Price":"102.13",
+    "Chg":"-0.82",
+    "% Chg":"-0.80"
   },
   {
     "#":"461",
-    "Company":"Gen Digital",
+    "Company":"Gen Digital Inc",
     "Symbol":"GEN",
     "Weight":"0.02",
-    "Price":"20.38",
-    "Chg":"0.25",
-    "% Chg":"1.27"
+    "Price":"20.31",
+    "Chg":"-0.11",
+    "% Chg":"-0.56"
   },
   {
     "#":"462",
-    "Company":"Clorox",
-    "Symbol":"CLX",
+    "Company":"Solventum Corp",
+    "Symbol":"SOLV",
     "Weight":"0.02",
-    "Price":"101.86",
-    "Chg":"-2.72",
-    "% Chg":"-2.60"
+    "Price":"70.14",
+    "Chg":"0.10",
+    "% Chg":"0.15"
   },
   {
     "#":"463",
-    "Company":"Solventum",
-    "Symbol":"SOLV",
+    "Company":"Clorox Co\/The",
+    "Symbol":"CLX",
     "Weight":"0.02",
-    "Price":"69.91",
-    "Chg":"-0.57",
-    "% Chg":"-0.81"
+    "Price":"100.27",
+    "Chg":"-1.90",
+    "% Chg":"-1.86"
   },
   {
     "#":"464",
-    "Company":"Healthpeak Properties",
-    "Symbol":"DOC",
-    "Weight":"0.02",
-    "Price":"17.16",
-    "Chg":"-0.21",
-    "% Chg":"-1.24"
-  },
-  {
-    "#":"465",
-    "Company":"Globe Life",
+    "Company":"Globe Life Inc",
     "Symbol":"GL",
     "Weight":"0.02",
-    "Price":"151.50",
-    "Chg":"-0.37",
-    "% Chg":"-0.24"
-  },
-  {
-    "#":"466",
-    "Company":"UDR, Inc.",
-    "Symbol":"UDR",
-    "Weight":"0.02",
-    "Price":"35.77",
-    "Chg":"0.48",
-    "% Chg":"1.37"
-  },
-  {
-    "#":"467",
-    "Company":"GoDaddy",
-    "Symbol":"GDDY",
-    "Weight":"0.02",
-    "Price":"87.71",
-    "Chg":"1.99",
-    "% Chg":"2.32"
-  },
-  {
-    "#":"468",
-    "Company":"Hormel Foods",
-    "Symbol":"HRL",
-    "Weight":"0.02",
-    "Price":"21.25",
-    "Chg":"0.05",
-    "% Chg":"0.26"
-  },
-  {
-    "#":"469",
-    "Company":"Stanley Black & Decker",
-    "Symbol":"SWK",
-    "Weight":"0.02",
-    "Price":"75.16",
-    "Chg":"3.82",
-    "% Chg":"5.35"
-  },
-  {
-    "#":"470",
-    "Company":"Zebra Technologies",
-    "Symbol":"ZBRA",
-    "Weight":"0.02",
-    "Price":"237.40",
-    "Chg":"2.97",
-    "% Chg":"1.27"
-  },
-  {
-    "#":"471",
-    "Company":"The Trade Desk, Inc.",
-    "Symbol":"TTD",
-    "Weight":"0.02",
-    "Price":"24.15",
-    "Chg":"1.68",
-    "% Chg":"7.46"
-  },
-  {
-    "#":"472",
-    "Company":"Wynn Resorts",
-    "Symbol":"WYNN",
-    "Weight":"0.02",
-    "Price":"108.34",
-    "Chg":"-0.84",
-    "% Chg":"-0.77"
-  },
-  {
-    "#":"473",
-    "Company":"Assurant",
-    "Symbol":"AIZ",
-    "Weight":"0.02",
-    "Price":"225.81",
-    "Chg":"-1.95",
-    "% Chg":"-0.86"
-  },
-  {
-    "#":"474",
-    "Company":"Jack Henry & Associates",
-    "Symbol":"JKHY",
-    "Weight":"0.02",
-    "Price":"153.59",
+    "Price":"150.63",
     "Chg":"-0.47",
     "% Chg":"-0.31"
   },
   {
-    "#":"475",
-    "Company":"Invesco",
+    "#":"465",
+    "Company":"Stanley Black & Decker Inc",
+    "Symbol":"SWK",
+    "Weight":"0.02",
+    "Price":"76.07",
+    "Chg":"0.95",
+    "% Chg":"1.26"
+  },
+  {
+    "#":"466",
+    "Company":"Hormel Foods Corp",
+    "Symbol":"HRL",
+    "Weight":"0.02",
+    "Price":"21.45",
+    "Chg":"0.12",
+    "% Chg":"0.55"
+  },
+  {
+    "#":"467",
+    "Company":"GoDaddy Inc",
+    "Symbol":"GDDY",
+    "Weight":"0.02",
+    "Price":"88.00",
+    "Chg":"0.39",
+    "% Chg":"0.44"
+  },
+  {
+    "#":"468",
+    "Company":"Zebra Technologies Corp",
+    "Symbol":"ZBRA",
+    "Weight":"0.02",
+    "Price":"240.20",
+    "Chg":"2.90",
+    "% Chg":"1.22"
+  },
+  {
+    "#":"469",
+    "Company":"UDR Inc",
+    "Symbol":"UDR",
+    "Weight":"0.02",
+    "Price":"35.32",
+    "Chg":"-0.47",
+    "% Chg":"-1.32"
+  },
+  {
+    "#":"470",
+    "Company":"Healthpeak Properties Inc",
+    "Symbol":"DOC",
+    "Weight":"0.02",
+    "Price":"16.68",
+    "Chg":"-0.42",
+    "% Chg":"-2.47"
+  },
+  {
+    "#":"471",
+    "Company":"Assurant Inc",
+    "Symbol":"AIZ",
+    "Weight":"0.02",
+    "Price":"225.78",
+    "Chg":"-0.44",
+    "% Chg":"-0.20"
+  },
+  {
+    "#":"472",
+    "Company":"Wynn Resorts Ltd",
+    "Symbol":"WYNN",
+    "Weight":"0.02",
+    "Price":"107.88",
+    "Chg":"-0.91",
+    "% Chg":"-0.83"
+  },
+  {
+    "#":"473",
+    "Company":"Invesco Ltd",
     "Symbol":"IVZ",
     "Weight":"0.02",
-    "Price":"24.91",
-    "Chg":"0.10",
-    "% Chg":"0.38"
+    "Price":"25.25",
+    "Chg":"0.30",
+    "% Chg":"1.21"
+  },
+  {
+    "#":"474",
+    "Company":"Trade Desk Inc\/The",
+    "Symbol":"TTD",
+    "Weight":"0.02",
+    "Price":"23.72",
+    "Chg":"-0.33",
+    "% Chg":"-1.38"
+  },
+  {
+    "#":"475",
+    "Company":"Jack Henry & Associates Inc",
+    "Symbol":"JKHY",
+    "Weight":"0.02",
+    "Price":"154.31",
+    "Chg":"0.44",
+    "% Chg":"0.28"
   },
   {
     "#":"476",
-    "Company":"Universal Health Services",
+    "Company":"Universal Health Services Inc",
     "Symbol":"UHS",
     "Weight":"0.02",
-    "Price":"180.13",
-    "Chg":"-2.28",
-    "% Chg":"-1.25"
+    "Price":"179.31",
+    "Chg":"-0.41",
+    "% Chg":"-0.23"
   },
   {
     "#":"477",
     "Company":"Camden Property Trust",
     "Symbol":"CPT",
     "Weight":"0.02",
-    "Price":"104.80",
-    "Chg":"1.40",
-    "% Chg":"1.35"
+    "Price":"103.66",
+    "Chg":"-1.10",
+    "% Chg":"-1.05"
   },
   {
     "#":"478",
-    "Company":"Gartner",
+    "Company":"Gartner Inc",
     "Symbol":"IT",
     "Weight":"0.02",
-    "Price":"156.78",
-    "Chg":"2.16",
-    "% Chg":"1.40"
+    "Price":"159.85",
+    "Chg":"3.63",
+    "% Chg":"2.32"
   },
   {
     "#":"479",
-    "Company":"Revvity",
+    "Company":"Revvity Inc",
     "Symbol":"RVTY",
     "Weight":"0.02",
-    "Price":"92.92",
-    "Chg":"-1.04",
-    "% Chg":"-1.10"
+    "Price":"94.65",
+    "Chg":"1.62",
+    "% Chg":"1.75"
   },
   {
     "#":"480",
-    "Company":"AES Corporation",
+    "Company":"AES Corp\/The",
     "Symbol":"AES",
     "Weight":"0.02",
-    "Price":"14.46",
-    "Chg":"-0.02",
-    "% Chg":"-0.10"
+    "Price":"14.49",
+    "Chg":"0.01",
+    "% Chg":"0.10"
   },
   {
     "#":"481",
-    "Company":"J.M. Smucker Company The",
+    "Company":"J M Smucker Co\/The",
     "Symbol":"SJM",
     "Weight":"0.02",
-    "Price":"96.04",
-    "Chg":"0.54",
-    "% Chg":"0.56"
+    "Price":"95.22",
+    "Chg":"-0.92",
+    "% Chg":"-0.96"
   },
   {
     "#":"482",
-    "Company":"MGM Resorts",
-    "Symbol":"MGM",
+    "Company":"DaVita Inc",
+    "Symbol":"DVA",
     "Weight":"0.02",
-    "Price":"39.27",
-    "Chg":"0.68",
-    "% Chg":"1.76"
+    "Price":"150.76",
+    "Chg":"1.43",
+    "% Chg":"0.96"
   },
   {
     "#":"483",
-    "Company":"DaVita",
-    "Symbol":"DVA",
+    "Company":"MGM Resorts International",
+    "Symbol":"MGM",
     "Weight":"0.02",
-    "Price":"149.46",
-    "Chg":"1.55",
-    "% Chg":"1.04"
+    "Price":"39.19",
+    "Chg":"-0.21",
+    "% Chg":"-0.54"
   },
   {
     "#":"484",
-    "Company":"Builders FirstSource",
+    "Company":"Builders FirstSource Inc",
     "Symbol":"BLDR",
     "Weight":"0.02",
-    "Price":"91.58",
-    "Chg":"3.08",
-    "% Chg":"3.49"
+    "Price":"91.43",
+    "Chg":"0.11",
+    "% Chg":"0.12"
   },
   {
     "#":"485",
-    "Company":"Baxter International",
+    "Company":"Baxter International Inc",
     "Symbol":"BAX",
     "Weight":"0.02",
-    "Price":"18.80",
-    "Chg":"0.09",
-    "% Chg":"0.45"
+    "Price":"18.74",
+    "Chg":"-0.10",
+    "% Chg":"-0.55"
   },
   {
     "#":"486",
-    "Company":"Federal Realty Investment Trust",
-    "Symbol":"FRT",
-    "Weight":"0.02",
-    "Price":"112.16",
-    "Chg":"-0.37",
-    "% Chg":"-0.33"
+    "Company":"News Corp",
+    "Symbol":"NWSA",
+    "Weight":"0.01",
+    "Price":"26.33",
+    "Chg":"0.36",
+    "% Chg":"1.37"
   },
   {
     "#":"487",
-    "Company":"News Corp Class A",
-    "Symbol":"NWSA",
+    "Company":"Federal Realty Investment Trust",
+    "Symbol":"FRT",
     "Weight":"0.01",
-    "Price":"26.00",
-    "Chg":"-0.01",
-    "% Chg":"-0.02"
+    "Price":"111.44",
+    "Chg":"-0.89",
+    "% Chg":"-0.79"
   },
   {
     "#":"488",
-    "Company":"Bio-Techne",
+    "Company":"Bio-Techne Corp",
     "Symbol":"TECH",
     "Weight":"0.01",
-    "Price":"60.62",
-    "Chg":"1.39",
-    "% Chg":"2.35"
+    "Price":"61.03",
+    "Chg":"0.45",
+    "% Chg":"0.74"
   },
   {
     "#":"489",
-    "Company":"BXP, Inc.",
+    "Company":"BXP Inc",
     "Symbol":"BXP",
     "Weight":"0.01",
-    "Price":"58.88",
-    "Chg":"0.83",
-    "% Chg":"1.43"
+    "Price":"59.02",
+    "Chg":"0.11",
+    "% Chg":"0.19"
   },
   {
     "#":"490",
-    "Company":"Norwegian Cruise Line Holdings",
-    "Symbol":"NCLH",
+    "Company":"Charles River Laboratories International Inc",
+    "Symbol":"CRL",
     "Weight":"0.01",
-    "Price":"20.28",
-    "Chg":"-0.71",
-    "% Chg":"-3.37"
+    "Price":"186.53",
+    "Chg":"0.99",
+    "% Chg":"0.53"
   },
   {
     "#":"491",
-    "Company":"Charles River Laboratories",
-    "Symbol":"CRL",
+    "Company":"Henry Schein Inc",
+    "Symbol":"HSIC",
     "Weight":"0.01",
-    "Price":"185.99",
-    "Chg":"2.11",
-    "% Chg":"1.15"
+    "Price":"79.76",
+    "Chg":"0.61",
+    "% Chg":"0.77"
   },
   {
     "#":"492",
-    "Company":"Henry Schein",
-    "Symbol":"HSIC",
+    "Company":"A O Smith Corp",
+    "Symbol":"AOS",
     "Weight":"0.01",
-    "Price":"78.86",
-    "Chg":"0.03",
-    "% Chg":"0.04"
+    "Price":"65.53",
+    "Chg":"-0.07",
+    "% Chg":"-0.11"
   },
   {
     "#":"493",
-    "Company":"A. O. Smith",
-    "Symbol":"AOS",
+    "Company":"Skyworks Solutions Inc",
+    "Symbol":"SWKS",
     "Weight":"0.01",
-    "Price":"65.43",
-    "Chg":"0.61",
-    "% Chg":"0.93"
+    "Price":"60.14",
+    "Chg":"0.68",
+    "% Chg":"1.14"
   },
   {
     "#":"494",
-    "Company":"Skyworks Solutions",
-    "Symbol":"SWKS",
+    "Company":"Norwegian Cruise Line Holdings Ltd",
+    "Symbol":"NCLH",
     "Weight":"0.01",
-    "Price":"59.38",
-    "Chg":"0.39",
-    "% Chg":"0.66"
+    "Price":"19.74",
+    "Chg":"-0.52",
+    "% Chg":"-2.56"
   },
   {
     "#":"495",
-    "Company":"FactSet",
+    "Company":"FactSet Research Systems Inc",
     "Symbol":"FDS",
     "Weight":"0.01",
-    "Price":"236.19",
-    "Chg":"3.46",
-    "% Chg":"1.49"
+    "Price":"244.66",
+    "Chg":"8.78",
+    "% Chg":"3.72"
   },
   {
     "#":"496",
-    "Company":"Pool Corporation",
+    "Company":"Pool Corp",
     "Symbol":"POOL",
     "Weight":"0.01",
-    "Price":"232.15",
-    "Chg":"4.53",
-    "% Chg":"1.99"
+    "Price":"233.95",
+    "Chg":"1.86",
+    "% Chg":"0.80"
   },
   {
     "#":"497",
-    "Company":"Alexandria Real Estate Equities",
+    "Company":"Alexandria Real Estate Equities Inc",
     "Symbol":"ARE",
     "Weight":"0.01",
-    "Price":"48.86",
-    "Chg":"0.23",
-    "% Chg":"0.48"
+    "Price":"47.95",
+    "Chg":"-1.03",
+    "% Chg":"-2.10"
   },
   {
     "#":"498",
-    "Company":"Molson Coors Beverage Company",
+    "Company":"Molson Coors Beverage Co",
     "Symbol":"TAP",
     "Weight":"0.01",
-    "Price":"44.07",
-    "Chg":"-0.52",
-    "% Chg":"-1.16"
+    "Price":"44.08",
+    "Chg":"-0.21",
+    "% Chg":"-0.48"
   },
   {
     "#":"499",
-    "Company":"Mosaic Company The",
+    "Company":"Mosaic Co\/The",
     "Symbol":"MOS",
     "Weight":"0.01",
-    "Price":"24.16",
-    "Chg":"-0.41",
-    "% Chg":"-1.69"
+    "Price":"24.27",
+    "Chg":"0.16",
+    "% Chg":"0.67"
   },
   {
     "#":"500",
-    "Company":"Conagra Brands",
-    "Symbol":"CAG",
+    "Company":"EPAM Systems Inc",
+    "Symbol":"EPAM",
     "Weight":"0.01",
-    "Price":"14.74",
-    "Chg":"-0.12",
-    "% Chg":"-0.77"
+    "Price":"133.72",
+    "Chg":"1.82",
+    "% Chg":"1.38"
   },
   {
     "#":"501",
-    "Company":"EPAM Systems",
-    "Symbol":"EPAM",
+    "Company":"Conagra Brands Inc",
+    "Symbol":"CAG",
     "Weight":"0.01",
-    "Price":"130.72",
-    "Chg":"-0.62",
-    "% Chg":"-0.47"
+    "Price":"14.65",
+    "Chg":"-0.19",
+    "% Chg":"-1.27"
   },
   {
     "#":"502",
-    "Company":"Campbell Soup Company",
+    "Company":"Campbell's Company\/The",
     "Symbol":"CPB",
     "Weight":"0.01",
-    "Price":"21.18",
-    "Chg":"0.19",
-    "% Chg":"0.91"
+    "Price":"21.13",
+    "Chg":"-0.13",
+    "% Chg":"-0.63"
   },
   {
     "#":"503",
-    "Company":"News Corp Class B",
+    "Company":"News Corp",
     "Symbol":"NWS",
     "Weight":"0.01",
-    "Price":"29.95",
-    "Chg":"-0.01",
-    "% Chg":"-0.02"
+    "Price":"30.33",
+    "Chg":"0.35",
+    "% Chg":"1.17"
   }
 ]
